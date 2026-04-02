@@ -5,6 +5,10 @@
   },
   {
     "source": "948_reliability_of_cka_as_a_simila",
+    "target": "morcos2018insightsrepresentationalsimilarityneural"
+  },
+  {
+    "source": "948_reliability_of_cka_as_a_simila",
     "target": "raghu2017svccasingularvectorcanonical"
   },
   {
@@ -49,11 +53,23 @@
   },
   {
     "source": "kornblith19a",
+    "target": "morcos2018insightsrepresentationalsimilarityneural"
+  },
+  {
+    "source": "kornblith19a",
+    "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "morcos2018insightsrepresentationalsimilarityneural",
     "target": "raghu2017svccasingularvectorcanonical"
   },
   {
     "source": "pmlr-v162-barannikov22a",
     "target": "kornblith19a"
+  },
+  {
+    "source": "pmlr-v162-barannikov22a",
+    "target": "morcos2018insightsrepresentationalsimilarityneural"
   },
   {
     "source": "pmlr-v162-barannikov22a",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T10:56:25+00:00",
-  "paper_count": 12,
+  "generated_at": "2026-04-02T13:03:35+00:00",
+  "paper_count": 13,
   "papers": [
     {
       "paper_id": "948_reliability_of_cka_as_a_simila",
@@ -64,6 +64,13 @@
       "title_normalized": "language models activations linearly encode training order recency",
       "year": 2025,
       "path": "content/paper-library/krasheninnikov2025language/index.md"
+    },
+    {
+      "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+      "title": "Insights on representational similarity in neural networks with canonical correlation",
+      "title_normalized": "insights on representational similarity in neural networks with canonical correlation",
+      "year": 2018,
+      "path": "content/paper-library/morcos2018insightsrepresentationalsimilarityneural/index.md"
     },
     {
       "paper_id": "oyama-etal-2025-mapping",

@@ -1,0 +1,141 @@
+{
+"source_title": "Insights on representational similarity in neural networks with canonical correlation",
+"source_year": 2018,
+"references": [
+{
+"title": "Structured pruning of deep convolutional neural networks",
+"year": 2017,
+"authors": ["Sajid Anwar", "Kyuyeon Hwang", "Wonyong Sung"]
+},
+{
+"title": "A closer look at memorization in deep networks",
+"year": 2017,
+"authors": ["Devansh Arpit", "Stanisław Jastrzebski", "Nicolas Ballas", "David Krueger", "Emmanuel Bengio", "Maxinder Kanwal", "Tegan Maharaj", "Asja Fischer", "Aaron Courville", "Yoshua Bengio", "Simon Lacoste-Julien"]
+},
+{
+"title": "The statistical significance of canonical correlations",
+"year": 1941,
+"authors": ["Maurice Bartlett"]
+},
+{
+"title": "Network dissection: Quantifying interpretability of deep visual representations",
+"year": 2017,
+"authors": ["David Bau", "Bolei Zhou", "Aditya Khosla", "Aude Oliva", "Antonio Torralba"]
+},
+{
+"title": "Improving vector space word representations using multilingual correlation",
+"year": 2014,
+"authors": ["Manaal Faruqui", "Chris Dyer"]
+},
+{
+"title": "PerforatedCNNs: Acceleration through elimination of redundant convolutions",
+"year": 2016,
+"authors": ["Mikhail Figurnov", "Aizhan Ibraimova", "Dmitry Vetrov", "Pushmeet Kohli"]
+},
+{
+"title": "The lottery ticket hypothesis: Training pruned neural networks",
+"year": 2018,
+"authors": ["Jonathan Frankle", "Michael Carbin"]
+},
+{
+"title": "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding",
+"year": 2015,
+"authors": ["Song Han", "Huizi Mao", "William Dally"]
+},
+{
+"title": "Learning both weights and connections for efficient neural networks",
+"year": 2015,
+"authors": ["Song Han", "Jeff Pool", "John Tran", "William Dally"]
+},
+{
+"title": "Relations between two sets of variates",
+"year": 1936,
+"authors": ["Harold Hotelling"]
+},
+{
+"title": "Visualizing and understanding recurrent networks",
+"year": 2016,
+"authors": ["Andrej Karpathy", "Justin Johnson", "Li Fei-Fei"]
+},
+{
+"title": "Optimal brain damage",
+"year": 1990,
+"authors": ["Yann LeCun", "John Denker", "Sara Solla"]
+},
+{
+"title": "Deep neural networks as gaussian processes",
+"year": 2018,
+"authors": ["Jaehoon Lee", "Yasaman Bahri", "Roman Novak", "Samuel Schoenholz", "Jeffrey Pennington", "Jascha Sohl-Dickstein"]
+},
+{
+"title": "Measuring the intrinsic dimension of objective landscapes",
+"year": 2018,
+"authors": ["Chunyuan Li", "Heerad Farkhoor", "Rosanne Liu", "Jason Yosinski"]
+},
+{
+"title": "Pruning filters for efficient ConvNets",
+"year": 2017,
+"authors": ["Hao Li", "Asim Kadav", "Igor Durdanovic", "Hanan Samet", "Hans Peter Graf"]
+},
+{
+"title": "Convergent learning: Do different neural networks learn the same representations?",
+"year": 2015,
+"authors": ["Yixuan Li", "Jason Yosinski", "Jeff Clune", "Hod Lipson", "John Hopcroft"]
+},
+{
+"title": "Gaussian process behaviour in wide deep neural networks",
+"year": 2018,
+"authors": ["AGDG Matthews", "J Hron", "M Rowland", "RE Turner", "Z Ghahramani"]
+},
+{
+"title": "Regularizing and Optimizing LSTM Language Models",
+"year": 2017,
+"authors": ["Stephen Merity", "Nitish Keskar", "Richard Socher"]
+},
+{
+"title": "An Analysis of Neural Language Modeling at Multiple Scales",
+"year": 2018,
+"authors": ["Stephen Merity", "Nitish Keskar", "Richard Socher"]
+},
+{
+"title": "Pruning convolutional neural networks for resource efficient inference",
+"year": 2017,
+"authors": ["Pavlo Molchanov", "Stephen Tyree", "Tero Karras", "Timo Aila", "Jan Kautz"]
+},
+{
+"title": "On the importance of single directions for generalization",
+"year": 2018,
+"authors": ["Ari Morcos", "David Barrett", "Neil Rabinowitz", "Matthew Botvinick"]
+},
+{
+"title": "Svcca: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+"year": 2017,
+"authors": ["Maithra Raghu", "Justin Gilmer", "Jason Yosinski", "Jascha Sohl-Dickstein"]
+},
+{
+"title": "A neural network that finds a naturalistic solution for the production of muscle activity",
+"year": 2015,
+"authors": ["David Sussillo", "Mark Churchland", "Matthew Kaufman", "Krishna Shenoy"]
+},
+{
+"title": "A tutorial on canonical correlation methods",
+"year": 2017,
+"authors": ["Viivi Uurtio", "João Monteiro", "Jaz Kandola", "John Shawe-Taylor", "Delmiro Fernandez-Reyes", "Juho Rousu"]
+},
+{
+"title": "Understanding neural networks through deep visualization",
+"year": 2015,
+"authors": ["Jason Yosinski", "Jeff Clune", "Anh Nguyen", "Thomas Fuchs", "Hod Lipson"]
+},
+{
+"title": "Visualizing and understanding convolutional networks",
+"year": 2014,
+"authors": ["Matthew Zeiler", "Rob Fergus"]
+},
+{
+"title": "Understanding deep learning requires rethinking generalization",
+"year": 2016,
+"authors": ["Chiyuan Zhang", "Samy Bengio", "Moritz Hardt", "Benjamin Recht", "Oriol Vinyals"]
+}
+]
+}

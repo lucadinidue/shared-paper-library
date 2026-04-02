@@ -49,16 +49,16 @@
         "score": 42.31
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.89
+      },
+      {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
         "year": 2025,
         "score": 30.42
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 29.63
       }
     ],
     "reference_index": 1
@@ -151,10 +151,10 @@
         "score": 53.03
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 39.78
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.65
       }
     ],
     "reference_index": 4
@@ -166,10 +166,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 42.65,
+    "score": 50.51,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 50.51
+      },
       {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
@@ -181,12 +187,6 @@
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 39.82
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 38.2
       }
     ],
     "reference_index": 5
@@ -198,10 +198,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 44.95,
+    "score": 51.56,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 51.56
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -213,12 +219,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 43.03
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 38.9
       }
     ],
     "reference_index": 6
@@ -279,10 +279,10 @@
         "score": 54.08
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 42.39
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.14
       }
     ],
     "reference_index": 8
@@ -358,10 +358,16 @@
     "reference_year": 2015,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 37.04,
+    "score": 40.56,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.56
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -373,12 +379,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 35.0
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 30.56
       }
     ],
     "reference_index": 11
@@ -401,51 +401,19 @@
         "score": 36.07
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.71
+      },
+      {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.64
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 29.07
       }
     ],
     "reference_index": 12
-  },
-  {
-    "source_paper": "948_reliability_of_cka_as_a_simila",
-    "reference_title": "Insights on representational similarity in neural networks with canonical correlation",
-    "reference_title_normalized": "insights on representational similarity in neural networks with canonical correlation",
-    "reference_year": 2018,
-    "matched_paper": null,
-    "match_type": "fuzzy",
-    "score": 60.15,
-    "status": "unresolved",
-    "reason": "no_confident_internal_match",
-    "candidate_matches": [
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 60.15
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 48.11
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 45.81
-      }
-    ],
-    "reference_index": 15
   },
   {
     "source_paper": "948_reliability_of_cka_as_a_simila",
@@ -471,10 +439,10 @@
         "score": 34.4
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 29.66
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 31.03
       }
     ],
     "reference_index": 16
@@ -497,16 +465,16 @@
         "score": 43.88
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.08
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 40.32
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 30.23
       }
     ],
     "reference_index": 17
@@ -977,16 +945,16 @@
         "score": 42.77
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.17
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 34.27
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 30.09
       }
     ],
     "reference_index": 13
@@ -1105,16 +1073,16 @@
         "score": 50.33
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.86
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 31.69
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 26.2
       }
     ],
     "reference_index": 17
@@ -1169,16 +1137,16 @@
         "score": 42.21
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.57
+      },
+      {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 40.5
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 37.19
       }
     ],
     "reference_index": 19
@@ -1745,16 +1713,16 @@
         "score": 48.21
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.61
+      },
+      {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.39
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 33.52
       }
     ],
     "reference_index": 37
@@ -1990,10 +1958,16 @@
     "reference_year": 1968,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 30.21,
+    "score": 32.18,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.18
+      },
       {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
@@ -2005,12 +1979,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 30.0
-      },
-      {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 29.25
       }
     ],
     "reference_index": 45
@@ -2225,16 +2193,16 @@
         "score": 36.0
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 33.3
+      },
+      {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 32.06
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 30.9
       }
     ],
     "reference_index": 6
@@ -2263,10 +2231,10 @@
         "score": 45.6
       },
       {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 38.86
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 43.59
       }
     ],
     "reference_index": 7
@@ -2295,10 +2263,10 @@
         "score": 41.15
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 33.9
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.45
       }
     ],
     "reference_index": 8
@@ -2391,10 +2359,10 @@
         "score": 35.48
       },
       {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 27.78
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.35
       }
     ],
     "reference_index": 11
@@ -2545,16 +2513,16 @@
         "score": 51.79
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 51.5
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 51.49
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 50.94
       }
     ],
     "reference_index": 16
@@ -2577,16 +2545,16 @@
         "score": 54.79
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.75
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 46.2
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 34.61
       }
     ],
     "reference_index": 17
@@ -2662,10 +2630,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 41.76,
+    "score": 60.25,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 60.25
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -2677,12 +2651,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 30.92
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 30.21
       }
     ],
     "reference_index": 20
@@ -2705,16 +2673,16 @@
         "score": 53.05
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 47.76
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 42.15
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 37.36
       }
     ],
     "reference_index": 21
@@ -2737,16 +2705,16 @@
         "score": 55.38
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.68
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 37.22
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 36.43
       }
     ],
     "reference_index": 22
@@ -2801,16 +2769,16 @@
         "score": 59.89
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 57.9
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 54.06
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 49.41
       }
     ],
     "reference_index": 24
@@ -2822,10 +2790,16 @@
     "reference_year": 2008,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 45.47,
+    "score": 49.4,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.4
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -2837,12 +2811,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 41.69
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 37.57
       }
     ],
     "reference_index": 26
@@ -2886,10 +2854,16 @@
     "reference_year": 2024,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 53.06,
+    "score": 56.55,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 56.55
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -2901,12 +2875,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 45.24
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 38.88
       }
     ],
     "reference_index": 28
@@ -2918,10 +2886,16 @@
     "reference_year": 2015,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 50.86,
+    "score": 55.09,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.09
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -2933,12 +2907,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 46.42
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 35.89
       }
     ],
     "reference_index": 29
@@ -2982,10 +2950,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 48.17,
+    "score": 48.51,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.51
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -2997,12 +2971,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 39.14
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 37.91
       }
     ],
     "reference_index": 31
@@ -3078,10 +3046,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 39.77,
+    "score": 42.35,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.35
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -3093,12 +3067,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 36.73
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 35.61
       }
     ],
     "reference_index": 34
@@ -3206,10 +3174,16 @@
     "reference_year": 2016,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 37.71,
+    "score": 51.75,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 51.75
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -3221,12 +3195,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 32.32
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 31.92
       }
     ],
     "reference_index": 38
@@ -3238,10 +3206,16 @@
     "reference_year": 2025,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 43.19,
+    "score": 44.87,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.87
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -3253,12 +3227,6 @@
         "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
         "year": 2025,
         "score": 41.09
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 40.13
       }
     ],
     "reference_index": 39
@@ -3366,10 +3334,16 @@
     "reference_year": 2013,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 37.11,
+    "score": 42.69,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.69
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -3381,12 +3355,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 37.06
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 35.66
       }
     ],
     "reference_index": 44
@@ -3409,16 +3377,16 @@
         "score": 51.24
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.17
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 42.47
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 34.06
       }
     ],
     "reference_index": 45
@@ -3447,10 +3415,10 @@
         "score": 49.94
       },
       {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 42.61
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.01
       }
     ],
     "reference_index": 46
@@ -3590,10 +3558,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 49.41,
+    "score": 54.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 54.8
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -3605,12 +3579,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 42.94
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 31.87
       }
     ],
     "reference_index": 51
@@ -3622,10 +3590,16 @@
     "reference_year": 2024,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 42.26,
+    "score": 52.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 52.1
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -3637,12 +3611,6 @@
         "title": "The Platonic Representation Hypothesis",
         "year": 2024,
         "score": 39.9
-      },
-      {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 38.98
       }
     ],
     "reference_index": 52
@@ -3729,16 +3697,16 @@
         "score": 40.84
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.51
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 37.88
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 36.79
       }
     ],
     "reference_index": 55
@@ -3799,10 +3767,10 @@
         "score": 37.71
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 33.92
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.84
       }
     ],
     "reference_index": 1
@@ -3857,16 +3825,16 @@
         "score": 36.81
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.48
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 30.22
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 30.08
       }
     ],
     "reference_index": 3
@@ -3889,16 +3857,16 @@
         "score": 38.8
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.0
+      },
+      {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 31.21
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 29.36
       }
     ],
     "reference_index": 4
@@ -4038,10 +4006,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 40.98,
+    "score": 51.62,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 51.62
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -4053,12 +4027,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 39.13
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 34.75
       }
     ],
     "reference_index": 9
@@ -4081,16 +4049,16 @@
         "score": 41.75
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.53
+      },
+      {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
         "year": 2025,
         "score": 31.91
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 29.73
       }
     ],
     "reference_index": 10
@@ -4119,10 +4087,10 @@
         "score": 31.28
       },
       {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 29.37
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 31.16
       }
     ],
     "reference_index": 11
@@ -4151,10 +4119,10 @@
         "score": 49.58
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 36.06
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.84
       }
     ],
     "reference_index": 12
@@ -4183,10 +4151,10 @@
         "score": 45.14
       },
       {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 31.94
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.52
       }
     ],
     "reference_index": 13
@@ -4198,10 +4166,16 @@
     "reference_year": 2016,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.63,
+    "score": 37.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 37.1
+      },
       {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
@@ -4213,12 +4187,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 35.93
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 34.0
       }
     ],
     "reference_index": 14
@@ -4294,10 +4262,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 41.38,
+    "score": 48.24,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.24
+      },
       {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
@@ -4309,12 +4283,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 40.01
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 37.11
       }
     ],
     "reference_index": 17
@@ -4401,16 +4369,16 @@
         "score": 40.52
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.05
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 33.06
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 30.16
       }
     ],
     "reference_index": 20
@@ -4422,10 +4390,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 41.76,
+    "score": 60.25,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 60.25
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -4437,12 +4411,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 30.92
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 30.21
       }
     ],
     "reference_index": 21
@@ -4593,16 +4561,16 @@
         "score": 48.21
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.61
+      },
+      {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.39
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 33.52
       }
     ],
     "reference_index": 26
@@ -4625,16 +4593,16 @@
         "score": 46.94
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.89
+      },
+      {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 40.02
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 34.89
       }
     ],
     "reference_index": 27
@@ -4689,16 +4657,16 @@
         "score": 42.61
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.6
+      },
+      {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 33.96
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 31.31
       }
     ],
     "reference_index": 29
@@ -4791,10 +4759,10 @@
         "score": 39.53
       },
       {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 35.73
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.55
       }
     ],
     "reference_index": 32
@@ -4817,16 +4785,16 @@
         "score": 41.06
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 37.51
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 33.33
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 32.4
       }
     ],
     "reference_index": 33
@@ -4849,16 +4817,16 @@
         "score": 44.49
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.29
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 41.09
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 36.71
       }
     ],
     "reference_index": 34
@@ -4881,16 +4849,16 @@
         "score": 37.77
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 29.5
+      },
+      {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 25.6
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 24.99
       }
     ],
     "reference_index": 35
@@ -4919,10 +4887,10 @@
         "score": 35.46
       },
       {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 32.08
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.21
       }
     ],
     "reference_index": 36
@@ -4977,16 +4945,16 @@
         "score": 60.08
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.91
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 38.09
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 30.15
       }
     ],
     "reference_index": 38
@@ -5143,10 +5111,10 @@
         "score": 34.64
       },
       {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 30.0
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 30.05
       }
     ],
     "reference_index": 44
@@ -5201,16 +5169,16 @@
         "score": 36.0
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.53
+      },
+      {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 28.14
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 25.71
       }
     ],
     "reference_index": 46
@@ -5233,16 +5201,16 @@
         "score": 51.24
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.17
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 42.47
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 34.06
       }
     ],
     "reference_index": 47
@@ -5318,10 +5286,16 @@
     "reference_year": 2003,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 37.77,
+    "score": 38.6,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.6
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -5333,12 +5307,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 34.62
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 28.43
       }
     ],
     "reference_index": 50
@@ -5510,10 +5478,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.18,
+    "score": 38.22,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.22
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -5525,12 +5499,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 36.08
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 32.37
       }
     ],
     "reference_index": 4
@@ -5553,16 +5521,16 @@
         "score": 51.8
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.03
+      },
+      {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
         "year": 2024,
         "score": 39.31
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 37.48
       }
     ],
     "reference_index": 5
@@ -5975,10 +5943,10 @@
         "score": 53.03
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 39.78
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.65
       }
     ],
     "reference_index": 18
@@ -6039,10 +6007,10 @@
         "score": 34.35
       },
       {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 30.42
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.61
       }
     ],
     "reference_index": 20
@@ -6097,16 +6065,16 @@
         "score": 36.07
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.71
+      },
+      {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.64
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 29.07
       }
     ],
     "reference_index": 22
@@ -6118,10 +6086,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 27.82,
+    "score": 38.48,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.48
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -6133,12 +6107,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 26.75
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 26.13
       }
     ],
     "reference_index": 23
@@ -6150,10 +6118,16 @@
     "reference_year": 2017,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 43.93,
+    "score": 49.22,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.22
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -6165,12 +6139,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 38.03
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 34.46
       }
     ],
     "reference_index": 24
@@ -6225,16 +6193,16 @@
         "score": 34.8
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 31.78
+      },
+      {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 28.79
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 27.96
       }
     ],
     "reference_index": 26
@@ -6327,10 +6295,10 @@
         "score": 28.33
       },
       {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 27.62
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 28.22
       }
     ],
     "reference_index": 31
@@ -6374,10 +6342,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 43.42,
+    "score": 55.15,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.15
+      },
       {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
@@ -6389,12 +6363,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 40.75
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 39.07
       }
     ],
     "reference_index": 33
@@ -6423,10 +6391,10 @@
         "score": 34.94
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 32.84
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.23
       }
     ],
     "reference_index": 34
@@ -6487,10 +6455,10 @@
         "score": 59.15
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 46.86
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.41
       }
     ],
     "reference_index": 1
@@ -6519,10 +6487,10 @@
         "score": 47.01
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 39.6
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.82
       }
     ],
     "reference_index": 2
@@ -6662,10 +6630,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 44.1,
+    "score": 48.03,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.03
+      },
       {
         "paper_id": "islam2025kernel",
         "title": "Kernel Alignment using Manifold Approximation",
@@ -6677,12 +6651,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.71
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 34.94
       }
     ],
     "reference_index": 10
@@ -6743,10 +6711,10 @@
         "score": 53.57
       },
       {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 40.19
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.69
       }
     ],
     "reference_index": 12
@@ -6807,10 +6775,10 @@
         "score": 43.54
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 38.91
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.2
       }
     ],
     "reference_index": 14
@@ -6929,16 +6897,16 @@
         "score": 43.0
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.43
+      },
+      {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 33.29
-      },
-      {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 31.91
       }
     ],
     "reference_index": 0
@@ -7025,16 +6993,16 @@
         "score": 48.8
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.86
+      },
+      {
         "paper_id": "islam2025kernel",
         "title": "Kernel Alignment using Manifold Approximation",
         "year": 2025,
         "score": 30.48
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 29.14
       }
     ],
     "reference_index": 3
@@ -7185,16 +7153,16 @@
         "score": 43.61
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.16
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 31.68
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 29.21
       }
     ],
     "reference_index": 8
@@ -7223,10 +7191,10 @@
         "score": 29.47
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 26.92
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 28.39
       }
     ],
     "reference_index": 9
@@ -7302,10 +7270,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 33.29,
+    "score": 34.93,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.93
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -7317,12 +7291,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 32.97
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 31.03
       }
     ],
     "reference_index": 12
@@ -7430,10 +7398,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.46,
+    "score": 36.59,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.59
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -7445,12 +7419,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 27.33
-      },
-      {
-        "paper_id": "oyama-etal-2025-mapping",
-        "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
-        "year": 2025,
-        "score": 24.86
       }
     ],
     "reference_index": 16
@@ -7494,10 +7462,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 33.56,
+    "score": 49.43,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.43
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -7509,12 +7483,6 @@
         "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
         "year": 2025,
         "score": 32.94
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 32.25
       }
     ],
     "reference_index": 19
@@ -7526,10 +7494,16 @@
     "reference_year": 2004,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 29.6,
+    "score": 31.61,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 31.61
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -7541,12 +7515,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 28.46
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 27.42
       }
     ],
     "reference_index": 20
@@ -7590,10 +7558,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.97,
+    "score": 38.87,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.87
+      },
       {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
@@ -7605,12 +7579,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 33.66
-      },
-      {
-        "paper_id": "oyama-etal-2025-mapping",
-        "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
-        "year": 2025,
-        "score": 32.14
       }
     ],
     "reference_index": 23
@@ -7639,10 +7607,10 @@
         "score": 46.51
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 34.11
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 37.73
       }
     ],
     "reference_index": 24
@@ -7654,10 +7622,16 @@
     "reference_year": 2000,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 45.34,
+    "score": 49.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.8
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -7669,12 +7643,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 44.07
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 35.9
       }
     ],
     "reference_index": 25
@@ -7697,16 +7665,16 @@
         "score": 44.15
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 33.73
+      },
+      {
         "paper_id": "islam2025kernel",
         "title": "Kernel Alignment using Manifold Approximation",
         "year": 2025,
         "score": 31.83
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 29.9
       }
     ],
     "reference_index": 26
@@ -7718,10 +7686,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 38.11,
+    "score": 40.18,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.18
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -7733,12 +7707,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 34.49
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 27.93
       }
     ],
     "reference_index": 27
@@ -7782,10 +7750,16 @@
     "reference_year": 2017,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 46.27,
+    "score": 49.92,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.92
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -7797,12 +7771,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 37.19
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 30.41
       }
     ],
     "reference_index": 0
@@ -7814,10 +7782,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 52.58,
+    "score": 54.95,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 54.95
+      },
       {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
@@ -7829,12 +7803,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 48.1
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 42.25
       }
     ],
     "reference_index": 1
@@ -7927,10 +7895,10 @@
         "score": 36.94
       },
       {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 30.48
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.54
       }
     ],
     "reference_index": 4
@@ -7991,10 +7959,10 @@
         "score": 28.36
       },
       {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 21.25
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 21.55
       }
     ],
     "reference_index": 6
@@ -8055,10 +8023,10 @@
         "score": 49.61
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 44.68
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.0
       }
     ],
     "reference_index": 8
@@ -8087,10 +8055,10 @@
         "score": 54.08
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 42.39
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.14
       }
     ],
     "reference_index": 9
@@ -8151,10 +8119,10 @@
         "score": 25.37
       },
       {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 23.71
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 24.22
       }
     ],
     "reference_index": 11
@@ -8166,10 +8134,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 34.63,
+    "score": 42.41,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.41
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8181,12 +8155,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 29.02
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 28.51
       }
     ],
     "reference_index": 12
@@ -8198,10 +8166,16 @@
     "reference_year": 2016,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.82,
+    "score": 42.99,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.99
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8213,12 +8187,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 32.62
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 29.64
       }
     ],
     "reference_index": 13
@@ -8230,10 +8198,16 @@
     "reference_year": 1995,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 39.48,
+    "score": 42.2,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.2
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -8245,12 +8219,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 33.1
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 30.21
       }
     ],
     "reference_index": 14
@@ -8294,10 +8262,16 @@
     "reference_year": 2001,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.74,
+    "score": 39.46,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.46
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8309,12 +8283,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 35.12
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 31.86
       }
     ],
     "reference_index": 16
@@ -8369,16 +8337,16 @@
         "score": 40.52
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.05
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 33.06
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 30.16
       }
     ],
     "reference_index": 18
@@ -8390,10 +8358,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 32.48,
+    "score": 42.15,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.15
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8405,12 +8379,6 @@
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 29.99
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 28.36
       }
     ],
     "reference_index": 19
@@ -8422,10 +8390,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 41.76,
+    "score": 60.25,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 60.25
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -8437,12 +8411,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 30.92
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 30.21
       }
     ],
     "reference_index": 20
@@ -8486,10 +8454,16 @@
     "reference_year": 2014,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 38.53,
+    "score": 39.9,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.9
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8501,12 +8475,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.26
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 29.42
       }
     ],
     "reference_index": 22
@@ -8518,10 +8486,16 @@
     "reference_year": 2008,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 45.47,
+    "score": 49.4,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.4
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8533,12 +8507,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 41.69
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 37.57
       }
     ],
     "reference_index": 23
@@ -8550,10 +8518,16 @@
     "reference_year": 2008,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 39.16,
+    "score": 40.0,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.0
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -8565,12 +8539,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 36.59
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 33.46
       }
     ],
     "reference_index": 24
@@ -8593,16 +8561,16 @@
         "score": 47.15
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.32
+      },
+      {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
         "year": 2024,
         "score": 39.55
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 37.6
       }
     ],
     "reference_index": 25
@@ -8614,10 +8582,16 @@
     "reference_year": 2000,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 45.34,
+    "score": 49.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.8
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8629,12 +8603,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 44.07
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 35.9
       }
     ],
     "reference_index": 26
@@ -8646,10 +8614,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 44.92,
+    "score": 49.81,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.81
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8661,12 +8635,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 37.42
-      },
-      {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 28.2
       }
     ],
     "reference_index": 27
@@ -8678,10 +8646,16 @@
     "reference_year": 2015,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 50.86,
+    "score": 55.09,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.09
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8693,12 +8667,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 46.42
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 35.89
       }
     ],
     "reference_index": 28
@@ -8734,38 +8702,6 @@
       }
     ],
     "reference_index": 29
-  },
-  {
-    "source_paper": "kornblith19a",
-    "reference_title": "Insights on representational similarity in neural networks with canonical correlation",
-    "reference_title_normalized": "insights on representational similarity in neural networks with canonical correlation",
-    "reference_year": 2018,
-    "matched_paper": null,
-    "match_type": "fuzzy",
-    "score": 60.15,
-    "status": "unresolved",
-    "reason": "no_confident_internal_match",
-    "candidate_matches": [
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 60.15
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 48.11
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 45.81
-      }
-    ],
-    "reference_index": 30
   },
   {
     "source_paper": "kornblith19a",
@@ -8806,10 +8742,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 39.27,
+    "score": 44.73,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.73
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -8821,12 +8763,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 35.82
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 24.84
       }
     ],
     "reference_index": 32
@@ -8838,10 +8774,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 34.17,
+    "score": 39.2,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.2
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -8853,12 +8795,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 33.71
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 23.33
       }
     ],
     "reference_index": 33
@@ -8887,10 +8823,10 @@
         "score": 28.89
       },
       {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 21.75
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 22.16
       }
     ],
     "reference_index": 35
@@ -8966,10 +8902,16 @@
     "reference_year": 2014,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 39.11,
+    "score": 44.69,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.69
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -8981,12 +8923,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 37.06
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 35.66
       }
     ],
     "reference_index": 38
@@ -9105,16 +9041,16 @@
         "score": 39.62
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.81
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 32.78
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 30.0
       }
     ],
     "reference_index": 42
@@ -9137,16 +9073,16 @@
         "score": 43.37
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.67
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 34.81
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 32.31
       }
     ],
     "reference_index": 43
@@ -9222,10 +9158,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 49.41,
+    "score": 54.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 54.8
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -9237,12 +9179,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 42.94
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 31.87
       }
     ],
     "reference_index": 46
@@ -9265,16 +9201,16 @@
         "score": 32.17
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 30.98
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 29.64
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 25.28
       }
     ],
     "reference_index": 47
@@ -9297,16 +9233,16 @@
         "score": 36.11
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 30.64
+      },
+      {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
         "year": 2025,
         "score": 24.78
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 22.73
       }
     ],
     "reference_index": 48
@@ -9335,10 +9271,10 @@
         "score": 31.04
       },
       {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 26.74
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 30.91
       }
     ],
     "reference_index": 0
@@ -9367,10 +9303,10 @@
         "score": 43.64
       },
       {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 40.26
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.29
       }
     ],
     "reference_index": 1
@@ -9655,10 +9591,10 @@
         "score": 33.63
       },
       {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 28.71
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 30.91
       }
     ],
     "reference_index": 10
@@ -9822,6 +9758,838 @@
       }
     ],
     "reference_index": 15
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Structured pruning of deep convolutional neural networks",
+    "reference_title_normalized": "structured pruning of deep convolutional neural networks",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 50.66,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 50.66
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 45.45
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 39.28
+      }
+    ],
+    "reference_index": 0
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "A closer look at memorization in deep networks",
+    "reference_title_normalized": "a closer look at memorization in deep networks",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 38.88,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 38.88
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.14
+      },
+      {
+        "paper_id": "948_reliability_of_cka_as_a_simila",
+        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+        "year": 2023,
+        "score": 34.3
+      }
+    ],
+    "reference_index": 1
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "The statistical significance of canonical correlations",
+    "reference_title_normalized": "the statistical significance of canonical correlations",
+    "reference_year": 1941,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 48.35,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.35
+      },
+      {
+        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
+        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+        "year": 2026,
+        "score": 37.46
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 36.48
+      }
+    ],
+    "reference_index": 2
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Network dissection: Quantifying interpretability of deep visual representations",
+    "reference_title_normalized": "network dissection quantifying interpretability of deep visual representations",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 46.91,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 46.91
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 46.24
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 43.4
+      }
+    ],
+    "reference_index": 3
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Improving vector space word representations using multilingual correlation",
+    "reference_title_normalized": "improving vector space word representations using multilingual correlation",
+    "reference_year": 2014,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 45.54,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 45.54
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 40.92
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 35.56
+      }
+    ],
+    "reference_index": 4
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "PerforatedCNNs: Acceleration through elimination of redundant convolutions",
+    "reference_title_normalized": "perforatedcnns acceleration through elimination of redundant convolutions",
+    "reference_year": 2016,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 30.29,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 30.29
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 26.9
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 26.63
+      }
+    ],
+    "reference_index": 5
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "The lottery ticket hypothesis: Training pruned neural networks",
+    "reference_title_normalized": "the lottery ticket hypothesis training pruned neural networks",
+    "reference_year": 2018,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 43.86,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 43.86
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 37.18
+      },
+      {
+        "paper_id": "huh2024platonicrepresentationhypothesis",
+        "title": "The Platonic Representation Hypothesis",
+        "year": 2024,
+        "score": 34.82
+      }
+    ],
+    "reference_index": 6
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding",
+    "reference_title_normalized": "deep compression compressing deep neural networks with pruning trained quantization and huffman coding",
+    "reference_year": 2015,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 45.09,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 45.09
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 42.15
+      },
+      {
+        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
+        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+        "year": 2026,
+        "score": 33.67
+      }
+    ],
+    "reference_index": 7
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Learning both weights and connections for efficient neural networks",
+    "reference_title_normalized": "learning both weights and connections for efficient neural networks",
+    "reference_year": 2015,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 41.46,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.46
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 41.11
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 33.99
+      }
+    ],
+    "reference_index": 8
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Relations between two sets of variates",
+    "reference_title_normalized": "relations between two sets of variates",
+    "reference_year": 1936,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 43.26,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 43.26
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 30.67
+      },
+      {
+        "paper_id": "948_reliability_of_cka_as_a_simila",
+        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+        "year": 2023,
+        "score": 27.91
+      }
+    ],
+    "reference_index": 9
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Visualizing and understanding recurrent networks",
+    "reference_title_normalized": "visualizing and understanding recurrent networks",
+    "reference_year": 2016,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 33.89,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 33.89
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 31.44
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 30.71
+      }
+    ],
+    "reference_index": 10
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Optimal brain damage",
+    "reference_title_normalized": "optimal brain damage",
+    "reference_year": 1990,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 25.82,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 25.82
+      },
+      {
+        "paper_id": "948_reliability_of_cka_as_a_simila",
+        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+        "year": 2023,
+        "score": 25.44
+      },
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 20.23
+      }
+    ],
+    "reference_index": 11
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Deep neural networks as gaussian processes",
+    "reference_title_normalized": "deep neural networks as gaussian processes",
+    "reference_year": 2018,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 49.81,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.81
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 44.92
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 37.42
+      }
+    ],
+    "reference_index": 12
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Measuring the intrinsic dimension of objective landscapes",
+    "reference_title_normalized": "measuring the intrinsic dimension of objective landscapes",
+    "reference_year": 2018,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 34.49,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 34.49
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 33.58
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 31.12
+      }
+    ],
+    "reference_index": 13
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Pruning filters for efficient ConvNets",
+    "reference_title_normalized": "pruning filters for efficient convnets",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 35.18,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 35.18
+      },
+      {
+        "paper_id": "islam2025kernel",
+        "title": "Kernel Alignment using Manifold Approximation",
+        "year": 2025,
+        "score": 30.96
+      },
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 30.0
+      }
+    ],
+    "reference_index": 14
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Convergent learning: Do different neural networks learn the same representations?",
+    "reference_title_normalized": "convergent learning do different neural networks learn the same representations",
+    "reference_year": 2015,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 55.09,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.09
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 50.86
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 46.42
+      }
+    ],
+    "reference_index": 15
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Gaussian process behaviour in wide deep neural networks",
+    "reference_title_normalized": "gaussian process behaviour in wide deep neural networks",
+    "reference_year": 2018,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 53.54,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 53.54
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 41.12
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 37.46
+      }
+    ],
+    "reference_index": 16
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Regularizing and Optimizing LSTM Language Models",
+    "reference_title_normalized": "regularizing and optimizing lstm language models",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 41.12,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 41.12
+      },
+      {
+        "paper_id": "oyama-etal-2025-mapping",
+        "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
+        "year": 2025,
+        "score": 34.7
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 34.61
+      }
+    ],
+    "reference_index": 17
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "An Analysis of Neural Language Modeling at Multiple Scales",
+    "reference_title_normalized": "an analysis of neural language modeling at multiple scales",
+    "reference_year": 2018,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 40.92,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 40.92
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.63
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 32.78
+      }
+    ],
+    "reference_index": 18
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Pruning convolutional neural networks for resource efficient inference",
+    "reference_title_normalized": "pruning convolutional neural networks for resource efficient inference",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 45.31,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 45.31
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.66
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 41.1
+      }
+    ],
+    "reference_index": 19
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "On the importance of single directions for generalization",
+    "reference_title_normalized": "on the importance of single directions for generalization",
+    "reference_year": 2018,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 40.36,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 40.36
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.51
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 38.12
+      }
+    ],
+    "reference_index": 20
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "A neural network that finds a naturalistic solution for the production of muscle activity",
+    "reference_title_normalized": "a neural network that finds a naturalistic solution for the production of muscle activity",
+    "reference_year": 2015,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 43.37,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 43.37
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.67
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 34.81
+      }
+    ],
+    "reference_index": 22
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "A tutorial on canonical correlation methods",
+    "reference_title_normalized": "a tutorial on canonical correlation methods",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 55.46,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.46
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 51.65
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 37.24
+      }
+    ],
+    "reference_index": 23
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Understanding neural networks through deep visualization",
+    "reference_title_normalized": "understanding neural networks through deep visualization",
+    "reference_year": 2015,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 48.2,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.2
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 42.18
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 38.02
+      }
+    ],
+    "reference_index": 24
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Visualizing and understanding convolutional networks",
+    "reference_title_normalized": "visualizing and understanding convolutional networks",
+    "reference_year": 2014,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 39.57,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.57
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 31.59
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 29.47
+      }
+    ],
+    "reference_index": 25
+  },
+  {
+    "source_paper": "morcos2018insightsrepresentationalsimilarityneural",
+    "reference_title": "Understanding deep learning requires rethinking generalization",
+    "reference_title_normalized": "understanding deep learning requires rethinking generalization",
+    "reference_year": 2016,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 36.54,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 36.54
+      },
+      {
+        "paper_id": "948_reliability_of_cka_as_a_simila",
+        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+        "year": 2023,
+        "score": 36.34
+      },
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 34.04
+      }
+    ],
+    "reference_index": 26
   },
   {
     "source_paper": "oyama-etal-2025-mapping",
@@ -10321,16 +11089,16 @@
         "score": 42.77
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.17
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 34.27
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 30.09
       }
     ],
     "reference_index": 15
@@ -10385,16 +11153,16 @@
         "score": 44.0
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.86
+      },
+      {
         "paper_id": "oyama-etal-2025-mapping",
         "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
         "year": 2025,
         "score": 28.6
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 28.55
       }
     ],
     "reference_index": 17
@@ -10566,10 +11334,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 33.13,
+    "score": 38.44,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.44
+      },
       {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
@@ -10581,12 +11355,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 33.0
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 32.14
       }
     ],
     "reference_index": 4
@@ -10615,10 +11383,10 @@
         "score": 29.28
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 25.43
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 27.51
       }
     ],
     "reference_index": 5
@@ -10647,10 +11415,10 @@
         "score": 41.82
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 29.32
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.74
       }
     ],
     "reference_index": 6
@@ -10679,10 +11447,10 @@
         "score": 36.94
       },
       {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 30.48
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.54
       }
     ],
     "reference_index": 7
@@ -10743,10 +11511,10 @@
         "score": 36.66
       },
       {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 28.5
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.44
       }
     ],
     "reference_index": 9
@@ -10775,10 +11543,10 @@
         "score": 54.08
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 42.39
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.14
       }
     ],
     "reference_index": 10
@@ -10833,16 +11601,16 @@
         "score": 34.8
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 31.78
+      },
+      {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 28.79
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 27.96
       }
     ],
     "reference_index": 12
@@ -10935,10 +11703,10 @@
         "score": 28.46
       },
       {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 25.37
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 25.71
       }
     ],
     "reference_index": 15
@@ -10961,16 +11729,16 @@
         "score": 48.7
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 42.33
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 40.97
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 32.92
       }
     ],
     "reference_index": 16
@@ -10993,16 +11761,16 @@
         "score": 40.79
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.92
+      },
+      {
         "paper_id": "Kishino2025EstablishingAS",
         "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
         "year": 2025,
         "score": 31.77
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 31.21
       }
     ],
     "reference_index": 17
@@ -11014,10 +11782,16 @@
     "reference_year": 2008,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 45.47,
+    "score": 49.4,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 49.4
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -11029,12 +11803,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 41.69
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 37.57
       }
     ],
     "reference_index": 19
@@ -11191,10 +11959,10 @@
         "score": 29.66
       },
       {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 28.6
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 29.3
       }
     ],
     "reference_index": 24
@@ -11206,10 +11974,16 @@
     "reference_year": 2015,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 50.86,
+    "score": 55.09,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.09
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -11221,12 +11995,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 46.42
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 35.89
       }
     ],
     "reference_index": 25
@@ -11238,10 +12006,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 30.38,
+    "score": 34.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.8
+      },
       {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
@@ -11253,12 +12027,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 29.53
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 20.77
       }
     ],
     "reference_index": 26
@@ -11302,10 +12070,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 44.1,
+    "score": 48.03,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.03
+      },
       {
         "paper_id": "islam2025kernel",
         "title": "Kernel Alignment using Manifold Approximation",
@@ -11317,12 +12091,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 35.71
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 34.94
       }
     ],
     "reference_index": 28
@@ -11361,47 +12129,21 @@
   },
   {
     "source_paper": "pmlr-v162-barannikov22a",
-    "reference_title": "Insights on representational similarity in neural networks with canonical correlation",
-    "reference_title_normalized": "insights on representational similarity in neural networks with canonical correlation",
-    "reference_year": 2018,
-    "matched_paper": null,
-    "match_type": "fuzzy",
-    "score": 60.15,
-    "status": "unresolved",
-    "reason": "no_confident_internal_match",
-    "candidate_matches": [
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 60.15
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 48.11
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 45.81
-      }
-    ],
-    "reference_index": 30
-  },
-  {
-    "source_paper": "pmlr-v162-barannikov22a",
     "reference_title": "Do wide and deep networks learn the same things? uncovering how neural network representations vary with width and depth",
     "reference_title_normalized": "do wide and deep networks learn the same things uncovering how neural network representations vary with width and depth",
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 46.27,
+    "score": 46.42,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 46.42
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -11413,12 +12155,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 44.85
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 37.91
       }
     ],
     "reference_index": 31
@@ -11441,16 +12177,16 @@
         "score": 31.35
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 27.64
+      },
+      {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
         "year": 2025,
         "score": 25.47
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 24.88
       }
     ],
     "reference_index": 32
@@ -11543,10 +12279,10 @@
         "score": 33.82
       },
       {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 32.42
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 33.73
       }
     ],
     "reference_index": 36
@@ -11590,10 +12326,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 43.82,
+    "score": 44.24,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 44.24
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -11605,12 +12347,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 34.02
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 34.0
       }
     ],
     "reference_index": 38
@@ -11622,10 +12358,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 49.41,
+    "score": 54.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 54.8
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -11637,12 +12379,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 42.94
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 31.87
       }
     ],
     "reference_index": 39
@@ -11654,10 +12390,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 29.45,
+    "score": 29.73,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 29.73
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -11669,12 +12411,6 @@
         "title": "Kernel Alignment using Manifold Approximation",
         "year": 2025,
         "score": 24.92
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 24.63
       }
     ],
     "reference_index": 40
@@ -11697,16 +12433,16 @@
         "score": 70.36
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 57.44
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 46.02
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 42.18
       }
     ],
     "reference_index": 41
@@ -11735,10 +12471,10 @@
         "score": 32.79
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 28.68
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.0
       }
     ],
     "reference_index": 42
@@ -11846,10 +12582,16 @@
     "reference_year": 2014,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 40.92,
+    "score": 45.54,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 45.54
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -11861,12 +12603,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 35.56
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 34.64
       }
     ],
     "reference_index": 2
@@ -11921,16 +12657,16 @@
         "score": 47.42
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 32.36
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 31.21
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 27.18
       }
     ],
     "reference_index": 4
@@ -11985,16 +12721,16 @@
         "score": 40.74
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.99
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 34.83
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 33.97
       }
     ],
     "reference_index": 6
@@ -12006,10 +12742,16 @@
     "reference_year": 2012,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 34.46,
+    "score": 41.22,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.22
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -12021,12 +12763,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 32.03
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 31.86
       }
     ],
     "reference_index": 7
@@ -12049,16 +12785,16 @@
         "score": 35.94
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.67
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 35.19
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 34.98
       }
     ],
     "reference_index": 8
@@ -12070,10 +12806,16 @@
     "reference_year": 2016,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 52.86,
+    "score": 57.09,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 57.09
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -12085,12 +12827,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 46.42
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 35.89
       }
     ],
     "reference_index": 9
@@ -12102,10 +12838,16 @@
     "reference_year": 2015,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 50.86,
+    "score": 55.09,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 55.09
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -12117,12 +12859,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 46.42
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 35.89
       }
     ],
     "reference_index": 10
@@ -12241,16 +12977,16 @@
         "score": 43.37
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 41.67
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 34.81
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 32.31
       }
     ],
     "reference_index": 14
@@ -12273,16 +13009,16 @@
         "score": 45.86
       },
       {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 38.25
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 29.24
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 28.36
       }
     ],
     "reference_index": 15
@@ -12326,10 +13062,16 @@
     "reference_year": 2015,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 42.18,
+    "score": 48.2,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 48.2
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -12341,12 +13083,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 38.02
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 31.32
       }
     ],
     "reference_index": 17
@@ -12358,10 +13094,16 @@
     "reference_year": 2014,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 31.59,
+    "score": 39.57,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 39.57
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -12373,12 +13115,6 @@
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 29.47
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 27.29
       }
     ],
     "reference_index": 18
