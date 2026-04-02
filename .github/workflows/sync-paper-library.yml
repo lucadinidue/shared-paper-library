@@ -1,0 +1,55 @@
+name: Sync Paper Library
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "content/paper-library/**"
+      - "data/paper-library/citation_aliases.json"
+      - "scripts/generate_paper_library_citations.py"
+      - ".github/workflows/sync-paper-library.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  derive-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Regenerate citation data
+        run: python3 scripts/generate_paper_library_citations.py
+
+      - name: Commit derived data if needed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh paper-library derived data"
+          file_pattern: data/paper-library/*.json
+
+  dispatch-dependent-sites:
+    needs: derive-data
+    if: vars.DEPENDENT_SITES_JSON != ''
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        repository: ${{ fromJson(vars.DEPENDENT_SITES_JSON) }}
+    steps:
+      - name: Dispatch rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.REPOSITORY_DISPATCH_TOKEN }}
+          repository: ${{ matrix.repository }}
+          event-type: shared-paper-library-updated
+          client-payload: >-
+            {"module":"shared-paper-library","source_repository":"${{ github.repository }}","source_sha":"${{ github.sha }}"}

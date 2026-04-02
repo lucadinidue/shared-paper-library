@@ -1,0 +1,66 @@
+{{ $ctx := . }}
+<section class="paper-library-filters" aria-label="Paper library filters">
+  <div class="paper-library-filters__search">
+    <label class="paper-library-filters__label" for="paper-library-search">Search</label>
+    <input id="paper-library-search" class="paper-library-filters__input" type="search" placeholder="Search title, author, tag, venue, summary..." data-paper-filter="query">
+  </div>
+
+  <div class="paper-library-filters__grid">
+    <div>
+      <label class="paper-library-filters__label" for="paper-library-tag">Tag</label>
+      <select id="paper-library-tag" class="paper-library-filters__select" data-paper-filter="tag">
+        <option value="">All tags</option>
+        {{ range .tags }}
+          <option value="{{ . }}">{{ . }}</option>
+        {{ end }}
+      </select>
+    </div>
+
+    <div>
+      <label class="paper-library-filters__label" for="paper-library-status">Reading status</label>
+      <select id="paper-library-status" class="paper-library-filters__select" data-paper-filter="status">
+        <option value="">All statuses</option>
+        {{ range .statuses }}
+          <option value="{{ . }}">{{ . }}</option>
+        {{ end }}
+      </select>
+    </div>
+
+    <div>
+      <label class="paper-library-filters__label" for="paper-library-author">Author</label>
+      <select id="paper-library-author" class="paper-library-filters__select" data-paper-filter="author">
+        <option value="">All authors</option>
+        {{ range .authors }}
+          <option value="{{ . }}">{{ . }}</option>
+        {{ end }}
+      </select>
+    </div>
+
+    <div>
+      <label class="paper-library-filters__label" for="paper-library-year">Year</label>
+      <select id="paper-library-year" class="paper-library-filters__select" data-paper-filter="year">
+        <option value="">All years</option>
+        {{ range .years }}
+          <option value="{{ . }}">{{ . }}</option>
+        {{ end }}
+      </select>
+    </div>
+
+    <div>
+      <label class="paper-library-filters__label" for="paper-library-sort">Sort by</label>
+      <select id="paper-library-sort" class="paper-library-filters__select" data-paper-filter="sort">
+        <option value="recent">Most recent</option>
+        <option value="priority">Most relevant</option>
+        <option value="title">Title</option>
+        <option value="author">Author</option>
+        <option value="year-asc">Oldest first</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="paper-library-toolbar">
+    <p class="paper-library-toolbar__count" data-paper-results>0 papers</p>
+    <button class="paper-library-toolbar__reset" type="button" data-paper-reset>Reset filters</button>
+  </div>
+</section>
+

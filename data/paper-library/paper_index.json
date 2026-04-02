@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-04-01T15:48:52+00:00",
+  "paper_count": 12,
+  "papers": [
+    {
+      "paper_id": "948_reliability_of_cka_as_a_simila",
+      "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+      "title_normalized": "reliability of cka as a similarity measure in deep learning",
+      "year": 2023,
+      "path": "content/paper-library/948_reliability_of_cka_as_a_simila/index.md"
+    },
+    {
+      "paper_id": "Kishino2025EstablishingAS",
+      "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
+      "title_normalized": "establishing a scale for kullback leibler divergence in language models across various settings",
+      "year": 2025,
+      "path": "content/paper-library/Kishino2025EstablishingAS/index.md"
+    },
+    {
+      "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
+      "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+      "title_normalized": "geometry aware similarity metrics for neural representations on riemannian and statistical manifolds",
+      "year": 2026,
+      "path": "content/paper-library/gajic2026geometryawaresimilaritymetricsneural/index.md"
+    },
+    {
+      "paper_id": "hu2023latent",
+      "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+      "title_normalized": "delays detours and forks in the road latent state models of training dynamics",
+      "year": 2024,
+      "path": "content/paper-library/hu2023latent/index.md"
+    },
+    {
+      "paper_id": "huh2024platonicrepresentationhypothesis",
+      "title": "The Platonic Representation Hypothesis",
+      "title_normalized": "the platonic representation hypothesis",
+      "year": 2024,
+      "path": "content/paper-library/huh2024platonicrepresentationhypothesis/index.md"
+    },
+    {
+      "paper_id": "islam2025kernel",
+      "title": "Kernel Alignment using Manifold Approximation",
+      "title_normalized": "kernel alignment using manifold approximation",
+      "year": 2025,
+      "path": "content/paper-library/islam2025kernel/index.md"
+    },
+    {
+      "paper_id": "jha2025harnessing",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "title_normalized": "harnessing the universal geometry of embeddings",
+      "year": 2025,
+      "path": "content/paper-library/jha2025harnessing/index.md"
+    },
+    {
+      "paper_id": "kornblith19a",
+      "title": "Similarity of Neural Network Representations Revisited",
+      "title_normalized": "similarity of neural network representations revisited",
+      "year": 2019,
+      "path": "content/paper-library/kornblith19a/index.md"
+    },
+    {
+      "paper_id": "krasheninnikov2025language",
+      "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+      "title_normalized": "language models activations linearly encode training order recency",
+      "year": 2025,
+      "path": "content/paper-library/krasheninnikov2025language/index.md"
+    },
+    {
+      "paper_id": "oyama-etal-2025-mapping",
+      "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
+      "title_normalized": "mapping 1 000 language models via the log likelihood vector",
+      "year": 2025,
+      "path": "content/paper-library/oyama-etal-2025-mapping/index.md"
+    },
+    {
+      "paper_id": "pmlr-v162-barannikov22a",
+      "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+      "title_normalized": "representation topology divergence a method for comparing neural network representations",
+      "year": 2022,
+      "path": "content/paper-library/pmlr-v162-barannikov22a/index.md"
+    },
+    {
+      "paper_id": "raghu2017svccasingularvectorcanonical",
+      "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+      "title_normalized": "svcca singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+      "year": 2017,
+      "path": "content/paper-library/raghu2017svccasingularvectorcanonical/index.md"
+    }
+  ]
+}

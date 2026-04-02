@@ -1,0 +1,226 @@
+{
+  "source_title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+  "source_year": 2022,
+  "references": [
+    {
+      "title": "Framed Morse complexes and its invariants",
+      "year": 1994,
+      "authors": ["S. Barannikov"]
+    },
+    {
+      "title": "Canonical Forms = Persistence Diagrams. Tutorial",
+      "year": 2021,
+      "authors": ["S. Barannikov"]
+    },
+    {
+      "title": "Manifold Topology Divergence: a framework for comparing data manifolds",
+      "year": 2021,
+      "authors": ["S. Barannikov", "I. Trofimov", "G. Sotnikov", "E. Trimbach", "A. Korotin", "A. Filippov", "E. Burnaev"]
+    },
+    {
+      "title": "Laplacian eigenmaps and spectral techniques for embedding and clustering",
+      "year": 2001,
+      "authors": ["M. Belkin", "P. Niyogi"]
+    },
+    {
+      "title": "Large scale gan training for high fidelity natural image synthesis",
+      "year": 2018,
+      "authors": ["A. Brock", "J. Donahue", "K. Simonyan"]
+    },
+    {
+      "title": "An introduction to topological data analysis: fundamental and practical aspects for data scientists",
+      "year": 2017,
+      "authors": ["F. Chazal", "B. Michel"]
+    },
+    {
+      "title": "Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective",
+      "year": 2021,
+      "authors": ["W. Chen", "X. Gong", "Z. Wang"]
+    },
+    {
+      "title": "The representation of biological classes in the human brain",
+      "year": 2012,
+      "authors": ["A. C. Connolly", "J. S. Guntupalli", "J. Gors", "M. Hanke", "Y. O. Halchenko", "Y.-C. Wu", "H. Abdi", "J. V. Haxby"]
+    },
+    {
+      "title": "Imagenet: A large-scale hierarchical image database",
+      "year": 2009,
+      "authors": ["J. Deng", "W. Dong", "R. Socher", "L.-J. Li", "K. Li", "L. Fei-Fei"]
+    },
+    {
+      "title": "Searching for a robust neural architecture in four gpu hours",
+      "year": 2019,
+      "authors": ["X. Dong", "Y. Yang"]
+    },
+    {
+      "title": "Representation is representation of similarities",
+      "year": 1998,
+      "authors": ["S. Edelman"]
+    },
+    {
+      "title": "Deep ensembles: A loss landscape perspective",
+      "year": 2019,
+      "authors": ["S. Fort", "H. Hu", "B. Lakshminarayanan"]
+    },
+    {
+      "title": "Loss surfaces, mode connectivity, and fast ensembling of dnns",
+      "year": 2018,
+      "authors": ["T. Garipov", "P. Izmailov", "D. Podoprikhin", "D. Vetrov", "A. G. Wilson"]
+    },
+    {
+      "title": "Measuring statistical dependence with hilbert-schmidt norms",
+      "year": 2005,
+      "authors": ["A. Gretton", "O. Bousquet", "A. Smola", "B. Scholkopf"]
+    },
+    {
+      "title": "Deep residual learning for image recognition",
+      "year": 2016,
+      "authors": ["K. He", "X. Zhang", "S. Ren", "J. Sun"]
+    },
+    {
+      "title": "Gans trained by a two time-scale update rule converge to a local Nash equilibrium",
+      "year": 2017,
+      "authors": ["M. Heusel", "H. Ramsauer", "T. Unterthiner", "B. Nessler", "S. Hochreiter"]
+    },
+    {
+      "title": "Geometry score: A method for comparing generative adversarial networks",
+      "year": 2018,
+      "authors": ["V. Khrulkov", "I. Oseledets"]
+    },
+    {
+      "title": "Nas-bench-nlp: neural architecture search benchmark for natural language processing",
+      "year": 2020,
+      "authors": ["N. Klyuchnikov", "I. Trofimov", "E. Artemova", "M. Salnikov", "M. Fedorov", "E. Burnaev"]
+    },
+    {
+      "title": "Similarity of neural network representations revisited",
+      "year": 2019,
+      "authors": ["S. Kornblith", "M. Norouzi", "H. Lee", "G. Hinton"]
+    },
+    {
+      "title": "Representational similarity analysis-connecting the branches of systems neuroscience",
+      "year": 2008,
+      "authors": ["N. Kriegeskorte", "M. Mur", "P. A. Bandettini"]
+    },
+    {
+      "title": "Learning multiple layers of features from tiny images",
+      "year": 2009,
+      "authors": ["A. Krizhevsky", "G. Hinton"]
+    },
+    {
+      "title": "Measures of diversity in classifier ensembles and their relationship with the ensemble accuracy",
+      "year": 2003,
+      "authors": ["L. I. Kuncheva", "C. J. Whitaker"]
+    },
+    {
+      "title": "Improved precision and recall metric for assessing generative models",
+      "year": 2019,
+      "authors": ["T. Kynkäänniemi", "T. Karras", "S. Laine", "J. Lehtinen", "T. Aila"]
+    },
+    {
+      "title": "Precise Arrhenius law for p-forms: The Witten Laplacian and Morse–Barannikov complex",
+      "year": 2013,
+      "authors": ["D. Le Peutrec", "F. Nier", "C. Viterbo"]
+    },
+    {
+      "title": "Why m heads are better than one: Training a diverse ensemble of deep networks",
+      "year": 2015,
+      "authors": ["S. Lee", "S. Purushwalkam", "M. Cogswell", "D. Crandall", "D. Batra"]
+    },
+    {
+      "title": "Convergent learning: Do different neural networks learn the same representations?",
+      "year": 2015,
+      "authors": ["Y. Li", "J. Yosinski", "J. Clune", "H. Lipson", "J. E. Hopcroft"]
+    },
+    {
+      "title": "Darts: Differentiable architecture search",
+      "year": 2019,
+      "authors": ["H. Liu", "K. Simonyan", "Y. Yang"]
+    },
+    {
+      "title": "A convnet for the 2020s",
+      "year": 2022,
+      "authors": ["Z. Liu", "H. Mao", "C.-Y. Wu", "C. Feichtenhofer", "T. Darrell", "S. Xie"]
+    },
+    {
+      "title": "Umap: Uniform manifold approximation and projection for dimension reduction",
+      "year": 2018,
+      "authors": ["L. McInnes", "J. Healy", "J. Melville"]
+    },
+    {
+      "title": "Topological autoencoders",
+      "year": 2020,
+      "authors": ["M. Moor", "M. Horn", "B. Rieck", "K. Borgwardt"]
+    },
+    {
+      "title": "Insights on representational similarity in neural networks with canonical correlation",
+      "year": 2018,
+      "authors": ["A. S. Morcos", "M. Raghu", "S. Bengio"]
+    },
+    {
+      "title": "Do wide and deep networks learn the same things? uncovering how neural network representations vary with width and depth",
+      "year": 2021,
+      "authors": ["T. Nguyen", "M. Raghu", "S. Kornblith"]
+    },
+    {
+      "title": "Finding the homology of submanifolds with high confidence from random samples",
+      "year": 2008,
+      "authors": ["P. Niyogi", "S. Smale", "S. Weinberger"]
+    },
+    {
+      "title": "Generating accurate and diverse members of a neural-network ensemble",
+      "year": 1996,
+      "authors": ["D. W. Opitz", "J. W. Shavlik"]
+    },
+    {
+      "title": "Rapid learning or feature reuse? towards understanding the effectiveness of maml",
+      "year": 2020,
+      "authors": ["A. Raghu", "M. Raghu", "S. Bengio", "O. Vinyals"]
+    },
+    {
+      "title": "Svcca: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+      "year": 2017,
+      "authors": ["M. Raghu", "J. Gilmer", "J. Yosinski", "J. Sohl-Dickstein"]
+    },
+    {
+      "title": "Very deep convolutional networks for large-scale image recognition",
+      "year": 2014,
+      "authors": ["K. Simonyan", "A. Zisserman"]
+    },
+    {
+      "title": "The shape of data: Intrinsic distance for data distributions",
+      "year": 2020,
+      "authors": ["A. Tsitsulin", "M. Munkhoeva", "D. Mottin", "P. Karras", "A. Bronstein", "I. Oseledets", "E. Mueller"]
+    },
+    {
+      "title": "The bottom-up evolution of representations in the transformer: A study with machine translation and language modeling objectives",
+      "year": 2019,
+      "authors": ["E. Voita", "R. Sennrich", "I. Titov"]
+    },
+    {
+      "title": "Towards understanding learning representations: To what extent do different neural networks learn the same representation",
+      "year": 2018,
+      "authors": ["L. Wang", "L. Hu", "J. Gu", "Y. Wu", "Z. Hu", "K. He", "J. Hopcroft"]
+    },
+    {
+      "title": "Batchensemble: An alternative approach to efficient ensemble and lifelong learning",
+      "year": 2020,
+      "authors": ["Y. Wen", "D. Tran", "J. Ba"]
+    },
+    {
+      "title": "Similarity analysis of contextual word representation models",
+      "year": 2020,
+      "authors": ["J. M. Wu", "Y. Belinkov", "H. Sajjad", "N. Durrani", "F. Dalvi", "J. Glass"]
+    },
+    {
+      "title": "Gpu-accelerated computation of Vietoris-Rips persistence barcodes",
+      "year": 2020,
+      "authors": ["S. Zhang", "M. Xiao", "H. Wang"]
+    },
+    {
+      "title": "Evaluating the disentanglement of deep generative models through manifold topology",
+      "year": 2020,
+      "authors": ["S. Zhou", "E. Zelikman", "F. Lu", "A. Y. Ng", "G. Carlsson", "S. Ermon"]
+    }
+  ]
+}

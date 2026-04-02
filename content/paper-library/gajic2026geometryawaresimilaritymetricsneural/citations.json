@@ -1,0 +1,286 @@
+{
+  "source_title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+  "source_year": 2026,
+  "references": [
+    {
+      "title": "Natural gradient works efficiently in learning",
+      "year": 1998,
+      "authors": ["Shun-Ichi Amari"]
+    },
+    {
+      "title": "Latent space oddity: on the curvature of deep generative models",
+      "year": 2017,
+      "authors": ["Georgios Arvanitidis", "Lars Kai Hansen", "Søren Hauberg"]
+    },
+    {
+      "title": "Quantifying Differences in Neural Population Activity With Shape Metrics",
+      "year": 2025,
+      "authors": ["Joao Barbosa", "et al."]
+    },
+    {
+      "title": "GULP: a prediction-based metric between representations",
+      "year": 2022,
+      "authors": ["Enric Boix-Adsera", "et al."]
+    },
+    {
+      "title": "Emergent Riemannian geometry over learning discrete computations on continuous manifolds",
+      "year": 2025,
+      "authors": ["Julian Brandon", "Angus Chadwick", "Arthur Pellegrino"]
+    },
+    {
+      "title": "Dform: Diffeomorphic vector field alignment for assessing dynamics across learned models",
+      "year": 2024,
+      "authors": ["Ruiqi Chen", "et al."]
+    },
+    {
+      "title": "On lazy training in differentiable programming",
+      "year": 2019,
+      "authors": ["Lenaic Chizat", "Edouard Oyallon", "Francis Bach"]
+    },
+    {
+      "title": "Feature Learning beyond the Lazy-Rich Dichotomy: Insights from Representational Geometry",
+      "year": 2025,
+      "authors": ["Chi-Ning Chou", "et al."]
+    },
+    {
+      "title": "Reconstructing computational system dynamics from neural data with recurrent neural networks",
+      "year": 2023,
+      "authors": ["Daniel Durstewitz", "Georgia Koppe", "Max Ingo Thurm"]
+    },
+    {
+      "title": "A metric for covariance matrices",
+      "year": 2003,
+      "authors": ["Wolfgang Förstner", "Boudewijn Moonen"]
+    },
+    {
+      "title": "Memory traces in dynamical systems",
+      "year": 2008,
+      "authors": ["Surya Ganguli", "Dongsung Huh", "Haim Sompolinsky"]
+    },
+    {
+      "title": "Memory without feedback in a neural network",
+      "year": 2009,
+      "authors": ["Mark S Goldman"]
+    },
+    {
+      "title": "MARBLE: interpretable representations of neural population dynamics using geometric deep learning",
+      "year": 2025,
+      "authors": ["Adam Gosztolai", "et al."]
+    },
+    {
+      "title": "Unsupervised alignment of embeddings with wasserstein procrustes",
+      "year": 2019,
+      "authors": ["Edouard Grave", "Armand Joulin", "Quentin Berthet"]
+    },
+    {
+      "title": "Riemannian metric learning: Closer to you than you imagine",
+      "year": 2025,
+      "authors": ["Samuel Gruffaz", "Josua Sassen"]
+    },
+    {
+      "title": "How to train your hippo: State space models with generalized orthogonal basis projections",
+      "year": 2022,
+      "authors": ["Albert Gu", "et al."]
+    },
+    {
+      "title": "What representational similarity measures imply about decodable information",
+      "year": 2024,
+      "authors": ["Sarah E Harvey", "David Lipshutz", "Alex H Williams"]
+    },
+    {
+      "title": "Principles of Riemannian geometry in neural networks",
+      "year": 2017,
+      "authors": ["Michael Hauser", "Asok Ray"]
+    },
+    {
+      "title": "Classifier-free diffusion guidance",
+      "year": 2022,
+      "authors": ["Jonathan Ho", "Tim Salimans"]
+    },
+    {
+      "title": "Inputdsa: Demixing then comparing recurrent and externally driven dynamics",
+      "year": 2025,
+      "authors": ["Ann Huang", "et al."]
+    },
+    {
+      "title": "Neural tangent kernel: Convergence and generalization in neural networks",
+      "year": 2018,
+      "authors": ["Arthur Jacot", "Franck Gabriel", "Clément Hongler"]
+    },
+    {
+      "title": "Abstract representations emerge naturally in neural networks trained to perform multiple tasks",
+      "year": 2023,
+      "authors": ["W Jeffrey Johnston", "Stefano Fusi"]
+    },
+    {
+      "title": "Riemannian curvature of deep neural networks",
+      "year": 2019,
+      "authors": ["Piyush Kaul", "Brejesh Lall"]
+    },
+    {
+      "title": "Attractor and integrator networks in the brain",
+      "year": 2022,
+      "authors": ["Mikail Khona", "Ila R Fiete"]
+    },
+    {
+      "title": "Similarity of neural network models: A survey of functional and representational measures",
+      "year": 2025,
+      "authors": ["Max Klabunde", "et al."]
+    },
+    {
+      "title": "Similarity of neural network representations revisited",
+      "year": 2019,
+      "authors": ["Simon Kornblith", "et al."]
+    },
+    {
+      "title": "Representational similarity analysis connecting the branches of systems neuroscience",
+      "year": 2008,
+      "authors": ["Nikolaus Kriegeskorte", "Marieke Mur", "Peter A Bandettini"]
+    },
+    {
+      "title": "Smooth manifolds",
+      "year": 2003,
+      "authors": ["John M Lee"]
+    },
+    {
+      "title": "Representations and generalization in artificial and brain neural networks",
+      "year": 2024,
+      "authors": ["Qianyi Li", "Ben Sorscher", "Haim Sompolinsky"]
+    },
+    {
+      "title": "Convergent learning: Do different neural networks learn the same representations?",
+      "year": 2015,
+      "authors": ["Yixuan Li", "et al."]
+    },
+    {
+      "title": "Riemannian geometry of symmetric positive definite matrices via Cholesky decomposition",
+      "year": 2019,
+      "authors": ["Zhenhua Lin"]
+    },
+    {
+      "title": "Universality and individuality in neural dynamics across large populations of recurrent networks",
+      "year": 2019,
+      "authors": ["Niru Maheswaranathan", "et al."]
+    },
+    {
+      "title": "The training process of many deep networks explores the same low-dimensional manifold",
+      "year": 2024,
+      "authors": ["Jialin Mao", "et al."]
+    },
+    {
+      "title": "Beyond geometry: Comparing the temporal structure of computation in neural circuits with dynamical similarity analysis",
+      "year": 2023,
+      "authors": ["Mitchell Ostrow", "et al."]
+    },
+    {
+      "title": "Geometric compression of invariant manifolds in neural networks",
+      "year": 2021,
+      "authors": ["Jonas Paccolat", "et al."]
+    },
+    {
+      "title": "Understanding the latent space of diffusion models through the lens of riemannian geometry",
+      "year": 2023,
+      "authors": ["Yong-Hyun Park", "et al."]
+    },
+    {
+      "title": "RNNs perform task computations by warping neural representations",
+      "year": 2025,
+      "authors": ["Arthur Pellegrino", "A Chadwick"]
+    },
+    {
+      "title": "Sdxl: Improving latent diffusion models for high-resolution image synthesis",
+      "year": 2023,
+      "authors": ["Dustin Podell", "et al."]
+    },
+    {
+      "title": "Exponential expressivity in deep neural networks through transient chaos",
+      "year": 2016,
+      "authors": ["Ben Poole", "et al."]
+    },
+    {
+      "title": "Discovering alternative solutions beyond the simplicity bias in recurrent neural networks",
+      "year": 2025,
+      "authors": ["William Qian", "Cengiz Pehlevan"]
+    },
+    {
+      "title": "Svcca: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+      "year": 2017,
+      "authors": ["Maithra Raghu", "et al."]
+    },
+    {
+      "title": "Efficient Working Memory Maintenance via High-Dimensional Rotational Dynamics",
+      "year": 2025,
+      "authors": ["Laura Ritter", "Angus Chadwick"]
+    },
+    {
+      "title": "Generalizable, real-time neural decoding with hybrid state-space models",
+      "year": 2025,
+      "authors": ["Avery Hee-Woon Ryoo", "et al."]
+    },
+    {
+      "title": "Dynamical archetype analysis: Autonomous computation",
+      "year": 2025,
+      "authors": ["Abel Sagodi", "Il Memming Park"]
+    },
+    {
+      "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+      "year": 2013,
+      "authors": ["Andrew M Saxe", "James L McClelland", "Surya Ganguli"]
+    },
+    {
+      "title": "A mathematical theory of semantic development in deep neural networks",
+      "year": 2019,
+      "authors": ["Andrew M Saxe", "James L McClelland", "Surya Ganguli"]
+    },
+    {
+      "title": "Using distance on the Riemannian manifold to compare representations in brain and in models",
+      "year": 2021,
+      "authors": ["Mahdiyar Shahbazi", "et al."]
+    },
+    {
+      "title": "Unraveling the geometry of visual relational reasoning",
+      "year": 2025,
+      "authors": ["Jiaqi Shang", "Gabriel Kreiman", "Haim Sompolinsky"]
+    },
+    {
+      "title": "The riemannian geometry of deep generative models",
+      "year": 2018,
+      "authors": ["Hang Shao", "Abhishek Kumar", "P Thomas Fletcher"]
+    },
+    {
+      "title": "A global geometric framework for nonlinear dimensionality reduction",
+      "year": 2000,
+      "authors": ["Joshua B Tenenbaum", "Vin de Silva", "John C Langford"]
+    },
+    {
+      "title": "Uncertainty estimation using riemannian model dynamics for offline reinforcement learning",
+      "year": 2022,
+      "authors": ["Guy Tennenholtz", "Shie Mannor"]
+    },
+    {
+      "title": "Towards understanding learning representations: To what extent do different neural networks learn the same representation",
+      "year": 2018,
+      "authors": ["Liwei Wang", "et al."]
+    },
+    {
+      "title": "Equivalence between representational similarity analysis, centered kernel alignment, and canonical correlations analysis",
+      "year": 2024,
+      "authors": ["Alex H Williams"]
+    },
+    {
+      "title": "Generalized shape metrics on neural representations",
+      "year": 2021,
+      "authors": ["Alex H Williams", "et al."]
+    },
+    {
+      "title": "Kernel and rich regimes in overparametrized models",
+      "year": 2020,
+      "authors": ["Blake Woodworth", "et al."]
+    },
+    {
+      "title": "KoopSTD: Reliable Similarity Analysis between Dynamical Systems via Approximating Koopman Spectrum with Timescale Decoupling",
+      "year": null,
+      "authors": ["Shimin Zhang", "et al."]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "source_title": "Revealing Language Model Trajectories via Kullback-Leibler Divergence",
+  "source_year": 2025,
+  "references": [
+    {
+      "title": "Yi: Open foundation models by 01.ai",
+      "year": 2025,
+      "authors": ["Alex Young", "Bei Chen", "Chao Li", "Chengen Huang", "Ge Zhang", "Guanwei Zhang", "Guoyin Wang", "Heng Li", "Jiangcheng Zhu", "Jianqun Chen", "Jing Chang", "Kaidong Yu", "Peng Liu", "Qiang Liu", "Shawn Yue", "Senbin Yang", "Shiming Yang", "Wen Xie"]
+    },
+    {
+      "title": "Gqa: Training generalized multi-query transformer models from multi-head checkpoints",
+      "year": 2023,
+      "authors": ["Joshua Ainslie", "James Lee-Thorp", "Michiel de Jong", "Yury Zemlyanskiy", "Federico Lebrón", "Sumit Sanghai"]
+    },
+    {
+      "title": "Falcon-40B: an open large language model with state-of-the-art performance",
+      "year": 2023,
+      "authors": ["Ebtesam Almazrouei", "Hamza Alobeidli", "Abdulaziz Alshamsi", "Alessandro Cappelli", "Ruxandra Cojocaru", "Merouane Debbah", "Etienne Goffinet", "Daniel Heslow", "Julien Launay", "Quentin Malartic", "Badreddine Noune", "Baptiste Pannier", "Guilherme Penedo"]
+    },
+    {
+      "title": "GPT-NeoX: Large scale autoregressive language modeling in PyTorch",
+      "year": 2021,
+      "authors": ["Alex Andonian", "Quentin Anthony", "Stella Biderman", "Sid Black", "Preetham Gali", "Leo Gao", "Eric Hallahan", "Josh Levy-Kramer", "Connor Leahy", "Lucas Nestler", "Kip Parker", "Michael Pieler", "Shivanshu Purohit", "Tri Songz", "Wang Phil", "Samuel Weinbach"]
+    },
+    {
+      "title": "Understanding gradient descent on the edge of stability in deep learning",
+      "year": 2022,
+      "authors": ["Sanjeev Arora", "Zhiyuan Li", "Abhishek Panigrahi"]
+    },
+    {
+      "title": "Program synthesis with large language models",
+      "year": 2021,
+      "authors": ["Jacob Austin", "Augustus Odena", "Maxwell Nye", "Maarten Bosma", "Henryk Michalewski", "David Dohan", "Ellen Jiang", "Carrie Cai", "Michael Terry", "Quoc Le", "Charles Sutton"]
+    },
+    {
+      "title": "Qwen technical report",
+      "year": 2023,
+      "authors": ["Jinze Bai", "Shuai Bai", "Yunfei Chu", "Zeyu Cui", "Kai Dang", "Xiaodong Deng", "Yang Fan", "Wenbin Ge", "Yu Han", "Fei Huang", "Binyuan Hui", "Luo Ji", "Mei Li", "Junyang Lin", "Runji Lin", "Dayiheng Liu", "Gao Liu", "Chengqiang Lu", "Keming Lu"]
+    },
+    {
+      "title": "Llamantino: Llama 2 models for effective text generation in italian language",
+      "year": 2023,
+      "authors": ["Pierpaolo Basile", "Elio Musacchio", "Marco Polignano", "Lucia Siciliani", "Giuseppe Fiameni", "Giovanni Semeraro"]
+    },
+    {
+      "title": "Efficient training of language models to fill in the middle",
+      "year": 2022,
+      "authors": ["Mohammad Bavarian", "Heewoo Jun", "Nikolas Tezak", "John Schulman", "Christine McLeavey", "Jerry Tworek", "Mark Chen"]
+    },
+    {
+      "title": "Eliciting latent predictions from transformers with the tuned lens",
+      "year": 2023,
+      "authors": ["Nora Belrose", "Zach Furman", "Logan Smith", "Danny Halawi", "Igor Ostrovsky", "Lev McKinney", "Stella Biderman", "Jacob Steinhardt"]
+    },
+    {
+      "title": "Longformer: The long-document transformer",
+      "year": 2020,
+      "authors": ["Iz Beltagy", "Matthew E. Peters", "Arman Cohan"]
+    },
+    {
+      "title": "Datasheet for the pile",
+      "year": 2022,
+      "authors": ["Stella Biderman", "Kieran Bicheno", "Leo Gao"]
+    },
+    {
+      "title": "Pythia: A suite for analyzing large language models across training and scaling",
+      "year": 2023,
+      "authors": ["Stella Biderman", "Hailey Schoelkopf", "Quentin Anthony", "Herbie Bradley", "Kyle O’Brien", "Eric Hallahan", "Mohammad Aflah Khan", "Shivanshu Purohit", "USVSN Sai Prashanth", "Edward Raff", "Aviya Skowron", "Lintang Sutawika", "Oskar van der Wal"]
+    },
+    {
+      "title": "Piqa: Reasoning about physical commonsense in natural language",
+      "year": 2019,
+      "authors": ["Yonatan Bisk", "Rowan Zellers", "Ronan Le Bras", "Jianfeng Gao", "Yejin Choi"]
+    },
+    {
+      "title": "Language models are few-shot learners",
+      "year": 2020,
+      "authors": ["Tom B. Brown", "Benjamin Mann", "Nick Ryder", "Melanie Subbiah", "Jared Kaplan", "Prafulla Dhariwal", "Arvind Neelakantan"]
+    },
+    {
+      "title": "Evaluating large language models trained on code",
+      "year": 2021,
+      "authors": ["Mark Chen", "Jerry Tworek", "Heewoo Jun", "Qiming Yuan", "Henrique Ponde de Oliveira Pinto", "Jared Kaplan"]
+    },
+    {
+      "title": "On the measure of intelligence",
+      "year": 2019,
+      "authors": ["François Chollet"]
+    },
+    {
+      "title": "Boolq: Exploring the surprising difficulty of natural yes/no questions",
+      "year": 2019,
+      "authors": ["Christopher Clark", "Kenton Lee", "Ming-Wei Chang", "Tom Kwiatkowski", "Michael Collins", "Kristina Toutanova"]
+    },
+    {
+      "title": "Training verifiers to solve math word problems",
+      "year": 2021,
+      "authors": ["Karl Cobbe", "Vineet Kosaraju", "Mohammad Bavarian", "Mark Chen", "Heewoo Jun"]
+    },
+    {
+      "title": "Gradient descent on neural networks typically occurs at the edge of stability",
+      "year": 2021,
+      "authors": ["Jeremy Cohen", "Simran Kaur", "Yuanzhi Li", "J. Zico Kolter", "Ameet Talwalkar"]
+    },
+    {
+      "title": "Ultrafeedback: Boosting language models with scaled ai feedback",
+      "year": 2024,
+      "authors": ["Ganqu Cui", "Lifan Yuan", "Ning Ding", "Guanming Yao", "Bingxiang He"]
+    },
+    {
+      "title": "Flashattention: Fast and memory-efficient exact attention with io-awareness",
+      "year": 2022,
+      "authors": ["Tri Dao", "Daniel Y. Fu", "Stefano Ermon", "Atri Rudra", "Christopher Ré"]
+    },
+    {
+      "title": "Qlora: Efficient finetuning of quantized llms",
+      "year": 2023,
+      "authors": ["Tim Dettmers", "Artidoro Pagnoni", "Ari Holtzman", "Luke Zettlemoyer"]
+    },
+    {
+      "title": "Tagengo: A multilingual chat dataset",
+      "year": 2024,
+      "authors": ["Peter Devine"]
+    },
+    {
+      "title": "Bold: Dataset and metrics for measuring biases in open-ended language generation",
+      "year": 2021,
+      "authors": ["Jwala Dhamala", "Tony Sun", "Varun Kumar", "Satyapriya Krishna", "Yada Pruksachatkun"]
+    },
+    {
+      "title": "Enhancing chat language models by scaling high-quality instructional conversations",
+      "year": 2023,
+      "authors": ["Ning Ding", "Yulin Chen", "Bokai Xu", "Yujia Qin", "Zhi Zheng"]
+    },
+    {
+      "title": "The pile: An 800gb dataset of diverse text for language modeling",
+      "year": 2020,
+      "authors": ["Leo Gao", "Stella Biderman", "Sid Black", "Laurence Golding"]
+    },
+    {
+      "title": "Realtoxicityprompts: Evaluating neural toxic degeneration in language models",
+      "year": 2020,
+      "authors": ["Samuel Gehman", "Suchin Gururangan", "Maarten Sap", "Yejin Choi", "Noah A. Smith"]
+    },
+    {
+      "title": "Gemini: A family of highly capable multimodal models",
+      "year": 2024,
+      "authors": ["Gemini Team"]
+    },
+    {
+      "title": "Openllama: An open reproduction of llama",
+      "year": 2023,
+      "authors": ["Xinyang Geng", "Hao Liu"]
+    },
+    {
+      "title": "Toxigen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection",
+      "year": 2022,
+      "authors": ["Thomas Hartvigsen", "Saadia Gabriel", "Hamid Palangi"]
+    },
+    {
+      "title": "Measuring massive multitask language understanding",
+      "year": 2021,
+      "authors": ["Dan Hendrycks", "Collin Burns", "Steven Basart"]
+    },
+    {
+      "title": "Query-key normalization for transformers",
+      "year": 2020,
+      "authors": ["Alex Henry", "Prudhvi Raj Dachapally", "Shubham Pawar", "Yuxuan Chen"]
+    },
+    {
+      "title": "Orpo: Monolithic preference optimization without reference model",
+      "year": 2024,
+      "authors": ["Jiwoo Hong", "Noah Lee", "James Thorne"]
+    },
+    {
+      "title": "Lora: Low-rank adaptation of large language models",
+      "year": 2022,
+      "authors": ["Edward J. Hu", "Yelong Shen", "Phillip Wallis", "Zeyuan Allen-Zhu"]
+    },
+    {
+      "title": "Mistral 7b",
+      "year": 2023,
+      "authors": ["Albert Q. Jiang", "Alexandre Sablayrolles", "Arthur Mensch"]
+    },
+    {
+      "title": "Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension",
+      "year": 2017,
+      "authors": ["Mandar Joshi", "Eunsol Choi", "Daniel S. Weld", "Luke Zettlemoyer"]
+    },
+    {
+      "title": "On large-batch training for deep learning: Generalization gap and sharp minima",
+      "year": 2017,
+      "authors": ["Nitish Shirish Keskar", "Dheevatsa Mudigere", "Jorge Nocedal"]
+    },
+    {
+      "title": "Solar 10.7b: Scaling large language models with simple yet effective depth upscaling",
+      "year": 2024,
+      "authors": ["Dahyun Kim", "Chanjun Park", "Sanghoon Kim"]
+    },
+    {
+      "title": "The limiting dynamics of SGD: modified loss, phase-space oscillations, and anomalous diffusion",
+      "year": 2024,
+      "authors": ["Daniel Kunin", "Javier Sagastuy-Breña", "Lauren E. Gillespie"]
+    },
+    {
+      "title": "Quantifying the carbon emissions of machine learning",
+      "year": 2019,
+      "authors": ["Alexandre Lacoste", "Alexandra Luccioni", "Victor Schmidt"]
+    },
+    {
+      "title": "Textbooks are all you need ii: phi-1.5 technical report",
+      "year": 2023,
+      "authors": ["Yuanzhi Li", "Sébastien Bubeck", "Ronen Eldan"]
+    },
+    {
+      "title": "Truthfulqa: Measuring how models mimic human falsehoods",
+      "year": 2022,
+      "authors": ["Stephanie Lin", "Jacob Hilton", "Owain Evans"]
+    },
+    {
+      "title": "Lost in the middle: How language models use long contexts",
+      "year": 2023,
+      "authors": ["Nelson F. Liu", "Kevin Lin", "John Hewitt"]
+    },
+    {
+      "title": "Starcoder 2 and the stack v2: The next generation",
+      "year": 2024,
+      "authors": ["Anton Lozhkov", "Raymond Li", "Loubna Ben Allal"]
+    },
+    {
+      "title": "Fractional brownian motions, fractional noises and applications",
+      "year": 1968,
+      "authors": ["Benoit B Mandelbrot", "John W Van Ness"]
+    }
+  ]
+}

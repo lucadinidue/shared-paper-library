@@ -1,0 +1,180 @@
+{{ $pages := where site.RegularPages "Section" "paper-library" }}
+{{ $pages = where $pages "Params.layout" "ne" "statistics" }}
+{{ $paperLibraryData := index site.Data "paper-library" | default dict }}
+{{ $citationPaperIndex := index $paperLibraryData "paper_index" | default dict }}
+{{ $citationEdgesData := index $paperLibraryData "citation_edges" | default (slice) }}
+{{ $citationMatchesData := index $paperLibraryData "citation_matches" | default (slice) }}
+{{ $citationUnresolvedData := index $paperLibraryData "citation_unresolved" | default (slice) }}
+{{ $citationSummary := index $paperLibraryData "citation_summary" | default dict }}
+{{ $papers := slice }}
+{{ $tagCounts := dict }}
+{{ $yearCounts := dict }}
+{{ $statusCounts := dict }}
+{{ $authorCounts := dict }}
+{{ $coauthorCounts := dict }}
+{{ $coauthorPapers := dict }}
+
+{{ range $pages }}
+  {{ $page := . }}
+  {{ $authors := slice }}
+  {{ with $page.Params.authors }}
+    {{ $authorList := . }}
+    {{ if not (reflect.IsSlice $authorList) }}
+      {{ $authorList = slice $authorList }}
+    {{ end }}
+    {{ range $authorList }}
+      {{ $author := replaceRE "\\s+" " " (strings.TrimSpace (printf "%v" .)) }}
+      {{ if $author }}
+        {{ $authors = $authors | append $author }}
+        {{ $authorCount := index $authorCounts $author | default 0 }}
+        {{ $authorCounts = merge $authorCounts (dict $author (add $authorCount 1)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $tags := slice }}
+  {{ with $page.Params.tags }}
+    {{ $tagList := . }}
+    {{ if not (reflect.IsSlice $tagList) }}
+      {{ $tagList = slice $tagList }}
+    {{ end }}
+    {{ range $tagList }}
+      {{ $tag := strings.TrimSpace (printf "%v" .) }}
+      {{ if $tag }}
+        {{ $tags = $tags | append $tag }}
+        {{ $tagCount := index $tagCounts $tag | default 0 }}
+        {{ $tagCounts = merge $tagCounts (dict $tag (add $tagCount 1)) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $year := printf "%v" ($page.Params.year | default ($page.Date.Format "2006")) }}
+  {{ if $year }}
+    {{ $yearCount := index $yearCounts $year | default 0 }}
+    {{ $yearCounts = merge $yearCounts (dict $year (add $yearCount 1)) }}
+  {{ end }}
+
+  {{ $status := strings.TrimSpace (printf "%v" ($page.Params.reading_status | default "to-read")) }}
+  {{ $statusCount := index $statusCounts $status | default 0 }}
+  {{ $statusCounts = merge $statusCounts (dict $status (add $statusCount 1)) }}
+
+  {{ range $i, $author := $authors }}
+    {{ range after (add $i 1) $authors }}
+      {{ $other := . }}
+      {{ $key := "" }}
+      {{ if lt $author $other }}
+        {{ $key = printf "%s||%s" $author $other }}
+      {{ else }}
+        {{ $key = printf "%s||%s" $other $author }}
+      {{ end }}
+      {{ $pairCount := index $coauthorCounts $key | default 0 }}
+      {{ $coauthorCounts = merge $coauthorCounts (dict $key (add $pairCount 1)) }}
+      {{ $pairPapers := index $coauthorPapers $key | default (slice) }}
+      {{ if not (in $pairPapers $page.Title) }}
+        {{ $pairPapers = $pairPapers | append $page.Title }}
+      {{ end }}
+      {{ $coauthorPapers = merge $coauthorPapers (dict $key $pairPapers) }}
+    {{ end }}
+  {{ end }}
+
+  {{ $summary := strings.TrimSpace (printf "%v" ($page.Params.summary | default $page.Summary | plainify)) }}
+  {{ $abstract := strings.TrimSpace (printf "%v" ($page.Params.abstract | default "")) }}
+  {{ $venue := strings.TrimSpace (printf "%v" ($page.Params.venue | default "")) }}
+  {{ $paper := dict
+    "title" $page.Title
+    "slug" $page.File.ContentBaseName
+    "url" $page.RelPermalink
+    "canonicalId" ($page.Params.canonical_id | default "")
+    "year" $year
+    "venue" $venue
+    "publicationType" ($page.Params.publication_type | default "")
+    "authors" $authors
+    "tags" $tags
+    "readingStatus" $status
+    "priority" ($page.Params.priority | default 3)
+    "dateAdded" (printf "%v" ($page.Params.date_added | default ($page.Date.Format "2006-01-02")))
+    "dateRead" (printf "%v" ($page.Params.date_read | default ""))
+    "summary" $summary
+    "abstract" $abstract
+    "relevance" ($page.Params.relevance | default "")
+    "personalNote" ($page.Params.personal_note | default "")
+    "arxiv" ($page.Params.arxiv | default "")
+    "doi" ($page.Params.doi | default "")
+    "sourceUrl" ($page.Params.source_url | default "")
+    "pdf" ($page.Params.pdf | default "")
+    "code" ($page.Params.code | default "")
+    "referencesRawCount" (len ($page.Params.references_raw | default (slice)))
+    "referencesResolvedCount" (len ($page.Params.references_resolved | default (slice)))
+  }}
+  {{ $papers = $papers | append $paper }}
+{{ end }}
+
+{{ $authorNodes := slice }}
+{{ range $name, $count := $authorCounts }}
+  {{ $authorNodes = $authorNodes | append (dict
+    "id" ($name | urlize)
+    "name" $name
+    "papers" $count
+  ) }}
+{{ end }}
+{{ $authorNodes = sort $authorNodes "papers" "desc" }}
+
+{{ $authorLinks := slice }}
+{{ range $key, $count := $coauthorCounts }}
+  {{ $parts := split $key "||" }}
+  {{ if eq (len $parts) 2 }}
+    {{ $source := index $parts 0 }}
+    {{ $target := index $parts 1 }}
+    {{ $authorLinks = $authorLinks | append (dict
+      "source" ($source | urlize)
+      "target" ($target | urlize)
+      "sourceName" $source
+      "targetName" $target
+      "weight" $count
+      "papers" (index $coauthorPapers $key | default (slice))
+    ) }}
+  {{ end }}
+{{ end }}
+{{ $authorLinks = sort $authorLinks "weight" "desc" }}
+
+{{ $yearSeries := slice }}
+{{ range $year, $count := $yearCounts }}
+  {{ $yearSeries = $yearSeries | append (dict "label" $year "count" $count) }}
+{{ end }}
+{{ $yearSeries = sort $yearSeries "label" "asc" }}
+
+{{ $tagSeries := slice }}
+{{ range $tag, $count := $tagCounts }}
+  {{ $tagSeries = $tagSeries | append (dict "label" $tag "count" $count) }}
+{{ end }}
+{{ $tagSeries = sort $tagSeries "count" "desc" }}
+
+{{ $statusSeries := slice }}
+{{ range $label, $count := $statusCounts }}
+  {{ $statusSeries = $statusSeries | append (dict "label" $label "count" $count) }}
+{{ end }}
+{{ $statusSeries = sort $statusSeries "label" "asc" }}
+
+{{ return dict
+  "paperCount" (len $papers)
+  "authorCount" (len $authorNodes)
+  "tagCount" (len $tagSeries)
+  "papers" $papers
+  "authors" $authorNodes
+  "authorLinks" $authorLinks
+  "yearSeries" $yearSeries
+  "tagSeries" $tagSeries
+  "statusSeries" $statusSeries
+  "citationGraph" (dict
+    "generatedAt" ($citationSummary.generated_at | default "")
+    "nodes" ($citationPaperIndex.papers | default (slice))
+    "edges" $citationEdgesData
+    "matchCount" (len $citationMatchesData)
+    "resolvedCount" ($citationSummary.resolved_count | default 0)
+    "ambiguousCount" ($citationSummary.ambiguous_count | default 0)
+    "unresolvedCount" ($citationSummary.unresolved_count | default 0)
+    "papersMissingCitationsFile" ($citationSummary.papers_missing_citations_file | default (slice))
+    "invalidCitationsFiles" ($citationSummary.invalid_citations_files | default (slice))
+    "reviewCount" (len $citationUnresolvedData)
+  )
+}}

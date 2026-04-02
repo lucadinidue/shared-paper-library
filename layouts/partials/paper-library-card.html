@@ -1,0 +1,110 @@
+{{ $paper := . }}
+{{ $authors := slice }}
+{{ with $paper.Params.authors }}
+  {{ $authorList := . }}
+  {{ if not (reflect.IsSlice $authorList) }}
+    {{ $authorList = slice $authorList }}
+  {{ end }}
+  {{ range $authorList }}
+    {{ $author := replaceRE "\\s+" " " (strings.TrimSpace (printf "%v" .)) }}
+    {{ if $author }}
+      {{ $authors = $authors | append $author }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $tags := slice }}
+{{ with $paper.Params.tags }}
+  {{ $tagList := . }}
+  {{ if not (reflect.IsSlice $tagList) }}
+    {{ $tagList = slice $tagList }}
+  {{ end }}
+  {{ range $tagList }}
+    {{ $tag := strings.TrimSpace (printf "%v" .) }}
+    {{ if $tag }}
+      {{ $tags = $tags | append $tag }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $summary := strings.TrimSpace (printf "%v" ($paper.Params.summary | default $paper.Summary | plainify)) }}
+{{ $venue := strings.TrimSpace (printf "%v" ($paper.Params.venue | default "")) }}
+{{ $status := strings.TrimSpace (printf "%v" ($paper.Params.reading_status | default "to-read")) }}
+{{ $year := printf "%v" ($paper.Params.year | default ($paper.Date.Format "2006")) }}
+{{ $authorFilter := "" }}
+{{ with index $authors 0 }}
+  {{ $authorFilter = . }}
+{{ end }}
+
+<article
+  class="paper-library-card-shell"
+  data-paper-card
+  data-title="{{ lower $paper.Title }}"
+  data-authors="{{ lower (delimit $authors " | ") }}"
+  data-tags="{{ lower (delimit $tags " | ") }}"
+  data-status="{{ lower $status }}"
+  data-year="{{ $year }}"
+  data-venue="{{ lower $venue }}"
+  data-summary="{{ lower $summary }}"
+  data-priority="{{ $paper.Params.priority | default 3 }}"
+  data-sort-author="{{ lower $authorFilter }}"
+>
+  <div class="paper-library-card">
+    <h3 class="paper-library-card__title">
+      <a href="{{ $paper.RelPermalink }}">{{ $paper.Title }}</a>
+    </h3>
+
+    <div class="paper-library-card__meta-row">
+      <span class="paper-status paper-status--{{ $status | urlize }}">{{ $status }}</span>
+      <span class="paper-library-card__year">{{ $year }}</span>
+      {{ if $venue }}
+        <span class="paper-library-card__venue">{{ $venue }}</span>
+      {{ end }}
+    </div>
+
+    {{ if gt (len $authors) 0 }}
+      <p class="paper-library-card__authors">
+        {{ $libraryPage := site.GetPage "/paper-library" }}
+        {{ range $index, $author := $authors }}
+          {{ if $index }}, {{ end }}
+          <a href="{{ $libraryPage.RelPermalink }}?author={{ $author | urlquery }}">{{ $author }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+
+    {{ if $summary }}
+      <p class="paper-library-card__summary">{{ $summary }}</p>
+    {{ end }}
+
+    <div class="paper-library-card__details">
+      {{ with $paper.Params.arxiv }}
+        <span>arXiv: {{ . }}</span>
+      {{ end }}
+      {{ with $paper.Params.doi }}
+        <span>DOI: {{ . }}</span>
+      {{ end }}
+      {{ with $paper.Params.personal_note }}
+        <span class="paper-library-card__note">{{ . }}</span>
+      {{ end }}
+    </div>
+
+    {{ if gt (len $tags) 0 }}
+      <div class="paper-library-card__tags" aria-label="Paper tags">
+        {{ $libraryPage := site.GetPage "/paper-library" }}
+        {{ range $tags }}
+          <a class="paper-tag paper-tag--{{ . | urlize }}" href="{{ $libraryPage.RelPermalink }}?tag={{ . | urlquery }}">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="paper-library-card__actions">
+      <a class="paper-library-card__primary" href="{{ $paper.RelPermalink }}">Open paper page</a>
+      {{ with $paper.Params.pdf }}
+        <a class="paper-library-card__secondary" href="{{ . }}" target="_blank" rel="noopener noreferrer">PDF</a>
+      {{ end }}
+      {{ with $paper.Params.code }}
+        <a class="paper-library-card__secondary" href="{{ . }}" target="_blank" rel="noopener noreferrer">Code</a>
+      {{ end }}
+    </div>
+  </div>
+</article>

@@ -1,0 +1,124 @@
+{{ define "main" }}
+{{ $data := partial "paper-library/collect.html" . }}
+{{ $libraryPage := site.GetPage "/paper-library" }}
+{{ $jsonOutput := $libraryPage.OutputFormats.Get "JSON" }}
+
+{{ $graphScript := resources.Get "js/paper-graph.js" | js.Build (dict "targetPath" "assets/js/paper-graph.js" "minify" hugo.IsProduction) }}
+{{ $statsScript := resources.Get "js/paper-statistics.js" | js.Build (dict "targetPath" "assets/js/paper-statistics.js" "minify" hugo.IsProduction) }}
+{{ if hugo.IsProduction }}
+  {{ $graphScript = $graphScript | fingerprint "sha256" }}
+  {{ $statsScript = $statsScript | fingerprint "sha256" }}
+{{ end }}
+
+<div class="paper-statistics-page" data-paper-statistics-app data-json-url="{{ with $jsonOutput }}{{ .RelPermalink }}{{ end }}">
+  <header class="paper-library-page__hero">
+    <div class="paper-library-page__intro">
+      <p class="paper-library-page__eyebrow">Paper library</p>
+      <h1 class="paper-library-page__title">{{ .Title }}</h1>
+      {{ with .Content }}
+        <div class="paper-library-page__content prose prose-slate dark:prose-invert max-w-none">
+          {{ . }}
+        </div>
+      {{ end }}
+      <div class="paper-statistics-page__actions">
+        <a class="paper-library-hero__button" href="{{ $libraryPage.RelPermalink }}">Back to library</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="paper-statistics-page__overview" aria-labelledby="paper-statistics-overview-title">
+    <div class="paper-library-visuals__header">
+      <h2 id="paper-statistics-overview-title" class="paper-library-section-title">Overview</h2>
+      <p class="paper-library-results__hint">High-level counts for the current state of the archive.</p>
+    </div>
+    <div class="paper-library-overview paper-library-overview--statistics">
+      <div class="paper-library-overview__item">
+        <span class="paper-library-overview__value">{{ $data.paperCount }}</span>
+        <span class="paper-library-overview__label">papers</span>
+      </div>
+      <div class="paper-library-overview__item">
+        <span class="paper-library-overview__value">{{ $data.authorCount }}</span>
+        <span class="paper-library-overview__label">authors</span>
+      </div>
+      <div class="paper-library-overview__item">
+        <span class="paper-library-overview__value">{{ $data.tagCount }}</span>
+        <span class="paper-library-overview__label">tags</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="paper-statistics-page__graph" aria-labelledby="paper-statistics-graph-title">
+    <div class="paper-library-visuals__header">
+      <h2 id="paper-statistics-graph-title" class="paper-library-section-title">Citation Graph</h2>
+      <p class="paper-library-results__hint">Directed citation links between papers in the library.</p>
+    </div>
+    <div class="paper-panel paper-panel--graph paper-panel--citation-graph">
+      <div class="paper-graph paper-graph--expanded" data-paper-citation-graph data-graph-kind="citation" data-graph-size="expanded"></div>
+      <div class="paper-graph-detail paper-graph-detail--expanded" data-paper-citation-graph-detail data-graph-kind="citation">
+        <p>Select a paper or citation link to inspect local connections.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="paper-statistics-page__graph" aria-labelledby="paper-statistics-author-graph-title">
+    <div class="paper-library-visuals__header">
+      <h2 id="paper-statistics-author-graph-title" class="paper-library-section-title">Author Graph</h2>
+      <p class="paper-library-results__hint">Nodes are authors, edges connect co-authors across the papers currently stored in the library.</p>
+    </div>
+    <div class="paper-panel paper-panel--graph">
+      <div class="paper-graph paper-graph--expanded" data-paper-graph data-graph-size="expanded"></div>
+      <div class="paper-graph-detail paper-graph-detail--expanded" data-paper-graph-detail>
+        <p>Select a node or an edge to inspect shared papers.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="paper-statistics-page__summaries" aria-labelledby="paper-statistics-summaries-title">
+    <div class="paper-library-visuals__header">
+      <h2 id="paper-statistics-summaries-title" class="paper-library-section-title">Distributions</h2>
+      <p class="paper-library-results__hint">Simple aggregate views that stay useful as the archive grows.</p>
+    </div>
+    <div class="paper-library-panels paper-library-panels--statistics">
+      <section class="paper-panel">
+        <div class="paper-panel__header">
+          <h3>By year</h3>
+          <p>Temporal distribution of the papers currently archived.</p>
+        </div>
+        <div class="paper-bars" data-paper-year-bars>
+          {{ range $data.yearSeries }}
+            <div class="paper-bars__row">
+              <span class="paper-bars__label">{{ .label }}</span>
+              <div class="paper-bars__track">
+                <span class="paper-bars__fill" style="width: {{ mul .count 20 }}%"></span>
+              </div>
+              <span class="paper-bars__value">{{ .count }}</span>
+            </div>
+          {{ end }}
+        </div>
+      </section>
+
+      <section class="paper-panel">
+        <div class="paper-panel__header">
+          <h3>Top tags</h3>
+          <p>Most recurrent topics in the current library.</p>
+        </div>
+        <div class="paper-bars" data-paper-tag-bars>
+          {{ range first 10 $data.tagSeries }}
+            <div class="paper-bars__row">
+              <span class="paper-bars__label">{{ .label }}</span>
+              <div class="paper-bars__track">
+                <span class="paper-bars__fill" style="width: {{ mul .count 20 }}%"></span>
+              </div>
+              <span class="paper-bars__value">{{ .count }}</span>
+            </div>
+          {{ end }}
+        </div>
+      </section>
+
+    </div>
+  </section>
+</div>
+
+<script defer src="{{ $graphScript.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $graphScript.Data.Integrity }}" crossorigin="anonymous"{{ end }}></script>
+<script defer src="{{ $statsScript.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $statsScript.Data.Integrity }}" crossorigin="anonymous"{{ end }}></script>
+{{ end }}

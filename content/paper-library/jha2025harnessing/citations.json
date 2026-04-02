@@ -1,0 +1,151 @@
+{
+  "source_title": "Harnessing the Universal Geometry of Embeddings",
+  "source_year": 2025,
+  "references": [
+    {
+      "title": "Gromov-Wasserstein Alignment of Word Embedding Spaces",
+      "year": 2018,
+      "authors": ["David Alvarez-Melis", "Tommi S. Jaakkola"]
+    },
+    {
+      "title": "Multilingual Topic Classification in X: Dataset and Analysis",
+      "year": 2024,
+      "authors": ["Dimosthenis Antypas", "Asahi Ushio", "Francesco Barbieri", "Jose Camacho-Collados"]
+    },
+    {
+      "title": "A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings",
+      "year": 2018,
+      "authors": ["Mikel Artetxe", "Gorka Labaka", "Eneko Agirre"]
+    },
+    {
+      "title": "Unsupervised Neural Machine Translation",
+      "year": 2018,
+      "authors": ["Mikel Artetxe", "Gorka Labaka", "Eneko Agirre", "Kyunghyun Cho"]
+    },
+    {
+      "title": "Revisiting Model Stitching to Compare Neural Representations",
+      "year": 2021,
+      "authors": ["Yamini Bansal", "Preetum Nakkiran", "Boaz Barak"]
+    },
+    {
+      "title": "Bootstrapping Parallel Anchors for Relative Representations",
+      "year": 2023,
+      "authors": ["Irene Cannistraci", "Luca Moschella", "Valentino Maiorca", "Marco Fumero", "Antonio Norelli", "Emanuele Rodolà"]
+    },
+    {
+      "title": "Stealing Part of a Production Language Model",
+      "year": 2024,
+      "authors": ["Nicholas Carlini", "Daniel Paleka", "Krishnamurthy Dj Dvijotham", "Thomas Steinke", "Jonathan Hayase", "A. Feder Cooper", "Katherine Lee", "Matthew Jagielski", "Milad Nasr", "Arthur Conmy", "Itay Yona", "Eric Wallace", "David Rolnick", "Florian Tramèr"]
+    },
+    {
+      "title": "Graph Optimal Transport for Cross-Domain Alignment",
+      "year": 2020,
+      "authors": ["Liqun Chen", "Zhe Gan", "Yu Cheng", "Linjie Li", "Lawrence Carin", "Jingjing Liu"]
+    },
+    {
+      "title": "Unsupervised Multilingual Word Embeddings",
+      "year": 2018,
+      "authors": ["Xilun Chen", "Claire Cardie"]
+    },
+    {
+      "title": "Word Translation Without Parallel Data",
+      "year": 2018,
+      "authors": ["Alexis Conneau", "Guillaume Lample", "Marc’Aurelio Ranzato", "Ludovic Denoyer", "Hervé Jégou"]
+    },
+    {
+      "title": "DreamLLM: Synergistic Multimodal Comprehension and Creation",
+      "year": 2024,
+      "authors": ["Runpei Dong", "Chunrui Han", "Yuang Peng", "Zekun Qi", "Zheng Ge", "Jinrong Yang", "Liang Zhao", "Jianjian Sun", "Hongyu Zhou", "Haoran Wei", "Xiangwen Kong", "Xiangyu Zhang", "Kaisheng Ma", "Li Yi"]
+    },
+    {
+      "title": "ImageBind: One Embedding Space To Bind Them All",
+      "year": 2023,
+      "authors": ["Rohit Girdhar", "Alaaeldin El-Nouby", "Zhuang Liu", "Mannat Singh", "Kalyan Vasudev Alwala", "Armand Joulin", "Ishan Misra"]
+    },
+    {
+      "title": "Generative adversarial networks",
+      "year": 2020,
+      "authors": ["Ian Goodfellow", "Jean Pouget-Abadie", "Mehdi Mirza", "Bing Xu", "David Warde-Farley", "Sherjil Ozair", "Aaron Courville", "Yoshua Bengio"]
+    },
+    {
+      "title": "Granite Embedding Models",
+      "year": 2024,
+      "authors": ["IBM Granite Embedding Team"]
+    },
+    {
+      "title": "Unsupervised Alignment of Embeddings with Wasserstein Procrustes",
+      "year": 2018,
+      "authors": ["Edouard Grave", "Armand Joulin", "Quentin Berthet"]
+    },
+    {
+      "title": "embComp: Visual Interactive Comparison of Vector Embeddings",
+      "year": 2022,
+      "authors": ["Florian Heimerl", "Christoph Kralj", "Torsten Moller", "Michael Gleicher"]
+    },
+    {
+      "title": "Multimodal Unsupervised Image-to-Image Translation",
+      "year": 2018,
+      "authors": ["Xun Huang", "Ming-Yu Liu", "Serge Belongie", "Jan Kautz"]
+    },
+    {
+      "title": "The Platonic Representation Hypothesis",
+      "year": 2024,
+      "authors": ["Minyoung Huh", "Brian Cheung", "Tongzhou Wang", "Phillip Isola"]
+    },
+    {
+      "title": "MIMIC-III, a freely accessible critical care database",
+      "year": 2016,
+      "authors": ["Alistair EW Johnson", "Tom J Pollard", "Lu Shen", "Li-wei H Lehman", "Mengling Feng", "Mohammad Ghassemi", "Benjamin Moody", "Peter Szolovits", "Leo Anthony Celi", "Roger G Mark"]
+    },
+    {
+      "title": "Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion",
+      "year": 2018,
+      "authors": ["Armand Joulin", "Piotr Bojanowski", "Tomas Mikolov", "Hervé Jégou", "Edouard Grave"]
+    },
+    {
+      "title": "The enron corpus: a new dataset for email classification research",
+      "year": 2004,
+      "authors": ["Bryan Klimt", "Yiming Yang"]
+    },
+    {
+      "title": "Grounding language models to images for multimodal inputs and outputs",
+      "year": 2023,
+      "authors": ["Jing Yu Koh", "Ruslan Salakhutdinov", "Daniel Fried"]
+    },
+    {
+      "title": "Similarity of Neural Network Representations Revisited",
+      "year": 2019,
+      "authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+    },
+    {
+      "title": "Multi-domain clinical natural language processing with MedCAT: the medical concept annotation toolkit",
+      "year": 2021,
+      "authors": ["Zeljko Kraljevic", "Thomas Searle", "Anthony Shek", "Lukasz Roguski", "Kawsar Noor", "Daniel Bean", "Aurelie Mascio", "Leilei Zhu", "Amos A Folarin", "Angus Roberts"]
+    },
+    {
+      "title": "Natural Questions: A Benchmark for Question Answering Research",
+      "year": 2019,
+      "authors": ["Tom Kwiatkowski", "Jennimaria Palomaki", "Olivia Redfield", "Michael Collins", "Ankur Parikh", "Chris Alberti", "Danielle Epstein", "Illia Polosukhin", "Jacob Devlin", "Kenton Lee", "Kristina Toutanova", "Llion Jones", "Matthew Kelcey", "Ming-Wei Chang", "Andrew M. Dai", "Jakob Uszkoreit", "Quoc Le", "Slav Petrov"]
+    },
+    {
+      "title": "Content and cluster analysis: Assessing representational similarity in neural systems",
+      "year": 2000,
+      "authors": ["Aarre Laakso", "Garrison Cottrell"]
+    },
+    {
+      "title": "Unsupervised Machine Translation Using Monolingual Corpora Only",
+      "year": 2018,
+      "authors": ["Guillaume Lample", "Alexis Conneau", "Ludovic Denoyer", "Marc’Aurelio Ranzato"]
+    },
+    {
+      "title": "Does BERT Pretrained on Clinical Notes Reveal Sensitive Data?",
+      "year": 2021,
+      "authors": ["Eric Lehman", "Sarthak Jain", "Karl Pichotta", "Yoav Goldberg", "Byron Wallace"]
+    },
+    {
+      "title": "Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence",
+      "year": 2023,
+      "authors": ["Congzheng Song", "Ananth Raghunathan"]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "source_title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+  "source_year": 2024,
+  "references": [
+    {
+      "title": "Information Theory and an Extension of the Maximum Likelihood Principle",
+      "year": 1998,
+      "authors": ["Hirotogu Akaike"]
+    },
+    {
+      "title": "Theoretical analysis of auto rate-tuning by batch normalization",
+      "year": 2019,
+      "authors": ["Sanjeev Arora", "Zhiyuan Li", "Kaifeng Lyu"]
+    },
+    {
+      "title": "Hidden progress in deep learning: SGD learns parities near the computational limit",
+      "year": 2022,
+      "authors": ["Boaz Barak", "Benjamin L. Edelman", "Surbhi Goel", "Sham M. Kakade", "Eran Malach", "Cyril Zhang"]
+    },
+    {
+      "title": "Latent markov models: a review of a general framework for the analysis of longitudinal data with covariates",
+      "year": 2014,
+      "authors": ["Francesco Bartolucci", "Alessio Farcomeni", "Fulvia Pennoni"]
+    },
+    {
+      "title": "Behavenet: nonlinear embedding and bayesian neural decoding of behavioral videos",
+      "year": 2019,
+      "authors": ["Eleanor Batty", "Matthew R Whiteway", "Shreya Saxena", "Dan Biderman", "Taiga Abe", "Simon Musall", "Winthrop F. Gillis", "Jeffrey E. Markowitz", "Anne K. Churchland", "John P. Cunningham", "Sandeep Robert Datta", "Scott W. Linderman", "Liam Paninski"]
+    },
+    {
+      "title": "Statistical Inference for Probabilistic Functions of Finite State Markov Chains",
+      "year": 1966,
+      "authors": ["Leonard E. Baum", "Ted Petrie"]
+    },
+    {
+      "title": "A maximization technique occurring in the statistical analysis of probabilistic functions of markov chains",
+      "year": 1970,
+      "authors": ["Leonard E. Baum", "Ted Petrie", "George W. Soules", "Norman Weiss"]
+    },
+    {
+      "title": "The Grammar-Learning Trajectories of Neural Language Models",
+      "year": 2022,
+      "authors": ["Leshem Choshen", "Guy Hacohen", "Daphna Weinshall", "Omri Abend"]
+    },
+    {
+      "title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+      "year": 2019,
+      "authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"]
+    },
+    {
+      "title": "Effects of random seeds on the accuracy of convolutional neural networks",
+      "year": 2020,
+      "authors": ["Christofer Fellicious", "Thomas Weissgerber", "Michael Granitzer"]
+    },
+    {
+      "title": "The goldilocks zone: Towards better understanding of neural network loss landscapes",
+      "year": 2018,
+      "authors": ["Stanislav Fort", "Adam Scherlis"]
+    },
+    {
+      "title": "Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the neural tangent kernel",
+      "year": 2020,
+      "authors": ["Stanislav Fort", "Gintare Karolina Dziugaite", "Mansheej Paul", "Sepideh Kharaghani", "Daniel M. Roy", "Surya Ganguli"]
+    },
+    {
+      "title": "The early phase of neural network training",
+      "year": 2020,
+      "authors": ["Jonathan Frankle", "David J. Schwab", "Ari S. Morcos"]
+    },
+    {
+      "title": "Sgd and weight decay provably induce a low-rank bias in neural networks",
+      "year": 2023,
+      "authors": ["Tomer Galanti", "Zachary S. Siegel", "Aparna Gupte", "Tomaso Poggio"]
+    },
+    {
+      "title": "Frequent directions: Simple and deterministic matrix sketching",
+      "year": 2016,
+      "authors": ["Mina Ghashami", "Edo Liberty", "Jeff M. Phillips", "David P. Woodruff"]
+    },
+    {
+      "title": "Introduction to online convex optimization",
+      "year": 2019,
+      "authors": ["Elad Hazan"]
+    },
+    {
+      "title": "Deep residual learning for image recognition",
+      "year": 2016,
+      "authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"]
+    },
+    {
+      "title": "The Surprising Simplicity of the Early-Time Learning Dynamics of Neural Networks",
+      "year": 2020,
+      "authors": ["Wei Hu", "L. Xiao", "Ben Adlam", "Jeffrey Pennington"]
+    },
+    {
+      "title": "Hidden markov models for sequence analysis: extension and analysis of the basic method",
+      "year": 1996,
+      "authors": ["Richard Hughey", "Anders Krogh"]
+    },
+    {
+      "title": "Comparing measures of sparsity",
+      "year": 2008,
+      "authors": ["Niall P. Hurley", "Scott T. Rickard"]
+    },
+    {
+      "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+      "year": 2015,
+      "authors": ["Sergey Ioffe", "Christian Szegedy"]
+    },
+    {
+      "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+      "year": 2018,
+      "authors": ["Arthur Jacot", "Franck Gabriel", "Clément Hongler"]
+    },
+    {
+      "title": "On the specialization of neural modules",
+      "year": 2023,
+      "authors": ["Devon Jarvis", "Richard Klein", "Benjamin Rosman", "Andrew M Saxe"]
+    },
+    {
+      "title": "Linear connectivity reveals generalization strategies",
+      "year": 2023,
+      "authors": ["Jeevesh Juneja", "Rachit Bansal", "Kyunghyun Cho", "João Sedoc", "Naomi Saphra"]
+    },
+    {
+      "title": "Mathematical methods of organizing and planning production",
+      "year": 1939,
+      "authors": ["Leonid V Kantorovich"]
+    },
+    {
+      "title": "Scaling Laws for Neural Language Models",
+      "year": 2020,
+      "authors": ["Jared Kaplan", "Sam McCandlish", "Tom Henighan", "Tom B. Brown", "Benjamin Chess", "Rewon Child", "Scott Gray", "Alec Radford", "Jeffrey Wu", "Dario Amodei"]
+    },
+    {
+      "title": "On large-batch training for deep learning: Generalization gap and sharp minima",
+      "year": 2017,
+      "authors": ["Nitish Shirish Keskar", "Dheevatsa Mudigere", "Jorge Nocedal", "Mikhail Smelyanskiy", "Ping Tak Peter Tang"]
+    },
+    {
+      "title": "A review of dynamic network models with latent variables",
+      "year": 2017,
+      "authors": ["Bomin Kim", "Kevin H. Lee", "Lingzhou Xue", "Xiaoyue Niu"]
+    },
+    {
+      "title": "Learning multiple layers of features from tiny images",
+      "year": 2009,
+      "authors": ["Alex Krizhevsky"]
+    },
+    {
+      "title": "Visualizing the loss landscape of neural nets",
+      "year": 2018,
+      "authors": ["Hao Li", "Zheng Xu", "Gavin Taylor", "Tom Goldstein"]
+    },
+    {
+      "title": "Omnigrok: Grokking beyond algorithmic data",
+      "year": 2023,
+      "authors": ["Ziming Liu", "Eric J Michaud", "Max Tegmark"]
+    },
+    {
+      "title": "Understanding the generalization benefit of normalization layers: Sharpness reduction",
+      "year": 2022,
+      "authors": ["Kaifeng Lyu", "Zhiyuan Li", "Sanjeev Arora"]
+    },
+    {
+      "title": "On model stability as a function of random seed",
+      "year": 2019,
+      "authors": ["Pranava Madhyastha", "Rishabh Jain"]
+    },
+    {
+      "title": "Do deep neural networks learn shallow learnable examples first?",
+      "year": 2019,
+      "authors": ["Karttikeya Mangalam", "Vinay Uday Prabhu"]
+    },
+    {
+      "title": "A unified framework of online learning algorithms for training recurrent neural networks",
+      "year": 2020,
+      "authors": ["Owen Marschall", "Kyunghyun Cho", "Cristina Savin"]
+    },
+    {
+      "title": "Pyparsvd: A streaming, distributed and randomized singular-value-decomposition library",
+      "year": 2021,
+      "authors": ["Romit Maulik", "Gianmarco Mengaldo"]
+    },
+    {
+      "title": "BERTs of a feather do not generalize together: Large variability in generalization across models with similar test set performance",
+      "year": 2020,
+      "authors": ["R. Thomas McCoy", "Junghyun Min", "Tal Linzen"]
+    },
+    {
+      "title": "A tale of two circuits: Grokking as competition of sparse and dense subnetworks",
+      "year": 2023,
+      "authors": ["William Merrill", "Nikolaos Tsilivis", "Aman Shukla"]
+    },
+    {
+      "title": "SGD on Neural Networks Learns Functions of Increasing Complexity",
+      "year": 2019,
+      "authors": ["Preetum Nakkiran", "Gal Kaplun", "Dimitris Kalimeris", "Tristan Yang", "Benjamin L. Edelman", "Fred Zhang", "Boaz Barak"]
+    },
+    {
+      "title": "Progress measures for grokking via mechanistic interpretability",
+      "year": 2023,
+      "authors": ["Neel Nanda", "Lawrence Chan", "Tom Lieberum", "Jess Smith", "Jacob Steinhardt"]
+    },
+    {
+      "title": "In-context learning and induction heads",
+      "year": 2022,
+      "authors": ["Catherine Olsson", "Nelson Elhage", "Neel Nanda", "Nicholas Joseph", "Nova DasSarma", "Tom Henighan", "Ben Mann", "Amanda Askell", "Yuntao Bai", "Anna Chen", "Tom Conerly", "Dawn Drain", "Deep Ganguli", "Zac Hatfield-Dodds", "Danny Hernandez", "Scott Johnston", "Andy Jones", "Jackson Kernion", "Liane Lovitt", "Kamal Ndousse", "Dario Amodei", "Tom Brown", "Jack Clark", "Jared Kaplan", "Sam McCandlish"]
+    },
+    {
+      "title": "Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision",
+      "year": 2023,
+      "authors": ["David Picard"]
+    },
+    {
+      "title": "Grokking: Generalization beyond overfitting on small algorithmic datasets",
+      "year": 2022,
+      "authors": ["Alethea Power", "Yuri Burda", "Harrison Edwards", "Igor Babuschkin", "Vedant Misra"]
+    },
+    {
+      "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+      "year": 2017,
+      "authors": ["Maithra Raghu", "Justin Gilmer", "Jason Yosinski", "Jascha Sohl-Dickstein"]
+    },
+    {
+      "title": "Impact of Pretraining Term Frequencies on Few-Shot Numerical Reasoning",
+      "year": 2022,
+      "authors": ["Yasaman Razeghi", "Robert L Logan IV", "Matt Gardner", "Sameer Singh"]
+    },
+    {
+      "title": "Euclid in a taxicab: Sparse blind deconvolution with smoothed regularization",
+      "year": 2014,
+      "authors": ["Audrey Repetti", "Mai Quyen Pham", "Laurent Duval", "Emilie Chouzenoux", "Jean-Christophe Pesquet"]
+    },
+    {
+      "title": "How does batch normalization help optimization?",
+      "year": 2018,
+      "authors": ["Shibani Santurkar", "Dimitris Tsipras", "Andrew Ilyas", "Aleksander Mądry"]
+    },
+    {
+      "title": "A mathematical theory of semantic development in deep neural networks",
+      "year": 2019,
+      "authors": ["Andrew M. Saxe", "James L. McClelland", "Surya Ganguli"]
+    },
+    {
+      "title": "Estimating the dimension of a model",
+      "year": 1978,
+      "authors": ["Gideon Schwarz"]
+    },
+    {
+      "title": "The multiBERTs: BERT reproductions for robustness analysis",
+      "year": 2022,
+      "authors": ["Thibault Sellam", "Steve Yadlowsky", "Ian Tenney", "Jason Wei", "Naomi Saphra", "Alexander D’Amour", "Tal Linzen", "Jasmijn Bastings", "Iulia Raluca Turc", "Jacob Eisenstein", "Dipanjan Das", "Ellie Pavlick"]
+    },
+    {
+      "title": "Best practices for convolutional neural networks applied to visual document analysis",
+      "year": 2003,
+      "authors": ["Patrice Y. Simard", "Dave Steinkraus", "John Platt"]
+    },
+    {
+      "title": "On the origin of implicit regularization in stochastic gradient descent",
+      "year": 2021,
+      "authors": ["Samuel L Smith", "Benoit Dherin", "David Barrett", "Soham De"]
+    }
+  ]
+}

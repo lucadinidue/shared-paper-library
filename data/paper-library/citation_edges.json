@@ -1,0 +1,62 @@
+[
+  {
+    "source": "948_reliability_of_cka_as_a_simila",
+    "target": "kornblith19a"
+  },
+  {
+    "source": "948_reliability_of_cka_as_a_simila",
+    "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "gajic2026geometryawaresimilaritymetricsneural",
+    "target": "kornblith19a"
+  },
+  {
+    "source": "gajic2026geometryawaresimilaritymetricsneural",
+    "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "hu2023latent",
+    "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "huh2024platonicrepresentationhypothesis",
+    "target": "kornblith19a"
+  },
+  {
+    "source": "huh2024platonicrepresentationhypothesis",
+    "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "islam2025kernel",
+    "target": "948_reliability_of_cka_as_a_simila"
+  },
+  {
+    "source": "islam2025kernel",
+    "target": "huh2024platonicrepresentationhypothesis"
+  },
+  {
+    "source": "islam2025kernel",
+    "target": "kornblith19a"
+  },
+  {
+    "source": "jha2025harnessing",
+    "target": "huh2024platonicrepresentationhypothesis"
+  },
+  {
+    "source": "jha2025harnessing",
+    "target": "kornblith19a"
+  },
+  {
+    "source": "kornblith19a",
+    "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "pmlr-v162-barannikov22a",
+    "target": "kornblith19a"
+  },
+  {
+    "source": "pmlr-v162-barannikov22a",
+    "target": "raghu2017svccasingularvectorcanonical"
+  }
+]

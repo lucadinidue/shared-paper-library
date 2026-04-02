@@ -1,0 +1,101 @@
+{
+"source_title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+"source_year": 2023,
+"references": [
+{
+"title": "Understanding intermediate layers using linear classifier probes",
+"year": 2016,
+"authors": ["Guillaume Alain", "Yoshua Bengio"]
+},
+{
+"title": "A simple but tough-to-beat baseline for sentence embeddings",
+"year": 2017,
+"authors": ["Sanjeev Arora", "Yingyu Liang", "Tengyu Ma"]
+},
+{
+"title": "Generalization performance of support vector machines and other pattern classifiers",
+"year": 1999,
+"authors": ["Peter Bartlett", "John Shawe-Taylor"]
+},
+{
+"title": "Greedy layerwise learning can scale to ImageNet",
+"year": 2019,
+"authors": ["Eugene Belilovsky", "Michael Eickenberg", "Edouard Oyallon"]
+},
+{
+"title": "A simple framework for contrastive learning of visual representations",
+"year": 2020,
+"authors": ["Ting Chen", "Simon Kornblith", "Mohammad Norouzi", "Geoffrey Hinton"]
+},
+{
+"title": "Probing representation forgetting in continual learning",
+"year": 2021,
+"authors": ["MohammadReza Davari", "Eugene Belilovsky"]
+},
+{
+"title": "Grounding representation similarity through statistical testing",
+"year": 2021,
+"authors": ["Frances Ding", "Jean-Stanislas Denain", "Jacob Steinhardt"]
+},
+{
+"title": "An image is worth 16x16 words: Transformers for image recognition at scale",
+"year": 2020,
+"authors": ["Alexey Dosovitskiy", "Lucas Beyer", "Alexander Kolesnikov"]
+},
+{
+"title": "Representation is representation of similarities",
+"year": 1998,
+"authors": ["Shimon Edelman"]
+},
+{
+"title": "Measuring statistical dependence with hilbert-schmidt norms",
+"year": 2005,
+"authors": ["Arthur Gretton", "Olivier Bousquet", "Alex Smola", "Bernhard Schölkopf"]
+},
+{
+"title": "Deep residual learning for image recognition",
+"year": 2016,
+"authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"]
+},
+{
+"title": "Distilling the knowledge in a neural network",
+"year": 2015,
+"authors": ["Geoffrey Hinton", "Oriol Vinyals", "Jeff Dean"]
+},
+{
+"title": "Bert: Pre-training of deep bidirectional transformers for language understanding",
+"year": 2018,
+"authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"]
+},
+{
+"title": "Similarity of neural network representations revisited",
+"year": 2019,
+"authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+},
+{
+"title": "Svcca: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+"year": 2017,
+"authors": ["Maithra Raghu", "Justin Gilmer", "Jason Yosinski", "Jascha Sohl-Dickstein"]
+},
+{
+"title": "Insights on representational similarity in neural networks with canonical correlation",
+"year": 2018,
+"authors": ["Ari Morcos", "Maithra Raghu", "Samy Bengio"]
+},
+{
+"title": "Do wide and deep networks learn the same things?",
+"year": 2021,
+"authors": ["Thao Nguyen", "Maithra Raghu", "Simon Kornblith"]
+},
+{
+"title": "Do vision transformers see like convolutional neural networks?",
+"year": 2021,
+"authors": ["Maithra Raghu", "Thomas Unterthiner", "Simon Kornblith"]
+},
+{
+"title": "Anatomy of catastrophic forgetting",
+"year": 2021,
+"authors": ["Vinay Ramasesh", "Ethan Dyer", "Maithra Raghu"]
+}
+]
+}

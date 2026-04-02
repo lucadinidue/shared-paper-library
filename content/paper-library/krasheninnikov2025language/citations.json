@@ -1,0 +1,86 @@
+{
+"source_title": "Language models’ activations linearly encode training-order recency",
+"source_year": 2025,
+"references": [
+{
+"title": "A downsampled variant of imagenet as an alternative to the cifar datasets",
+"year": 2017,
+"authors": ["Patryk Chrabaszcz", "Ilya Loshchilov", "Frank Hutter"]
+},
+{
+"title": "Probing representation forgetting in supervised and unsupervised continual learning",
+"year": 2022,
+"authors": ["Mohammad Davari", "Navid Asadi", "Seyed Mudur", "Rahaf Aljundi", "Eugene Belilovsky"]
+},
+{
+"title": "Extractive structures learned in pretraining enable generalization on finetuned facts",
+"year": 2024,
+"authors": ["Jiahui Feng", "Stuart Russell", "Jacob Steinhardt"]
+},
+{
+"title": "Do i know this entity? knowledge awareness and hallucinations in language models",
+"year": 2024,
+"authors": ["Javier Ferrando", "Oier Obeso", "Sanjana Rajamanoharan", "Neel Nanda"]
+},
+{
+"title": "The llama 3 herd of models",
+"year": 2024,
+"authors": ["Andrea Grattafiori", "Abhimanyu Dubey", "Aman Jauhri", "Abhinav Pandey", "Amit Kadian", "Ahmad Al-Dahle", "Andrew Letman", "Arjun Mathur", "Alexandre Schelten", "Adam Vaughan"]
+},
+{
+"title": "Lora: Low-rank adaptation of large language models",
+"year": 2022,
+"authors": ["Edward J. Hu", "Yelong Shen", "Phillip Wallis", "Zeyuan Allen-Zhu", "Yuanzhi Li", "Shean Wang", "Lu Wang", "Weizhu Chen"]
+},
+{
+"title": "Semantic entropy probes: Robust and cheap hallucination detection in llms",
+"year": 2024,
+"authors": ["Joris Kossen", "Jinwoo Han", "Md Razzak", "Lisa Schut", "Sajjad Malik", "Yarin Gal"]
+},
+{
+"title": "Implicit meta-learning may lead language models to trust more reliable sources",
+"year": 2023,
+"authors": ["Dmitrii Krasheninnikov", "Ekaterina Krasheninnikov", "Bartosz Mlodozeniec", "Tegan Maharaj", "David Krueger"]
+},
+{
+"title": "A cross-verified database of notable people, 3500bc-2018ad",
+"year": 2022,
+"authors": ["Mélanie Laouenan", "Prashant Bhargava", "Jean-Baptiste Eymeoud", "Olivier Gergaud", "Guillaume Plique", "Etienne Wasmer"]
+},
+{
+"title": "On linear representations and pretraining data frequency in language models",
+"year": 2025,
+"authors": ["Jack Merullo", "Noah A. Smith", "Sarah Wiegreffe", "Yanai Elazar"]
+},
+{
+"title": "Adafactor: Adaptive learning rates with sublinear memory cost",
+"year": 2018,
+"authors": ["Noam Shazeer", "Mitchell Stern"]
+},
+{
+"title": "Manipulating sgd with data ordering attacks",
+"year": 2021,
+"authors": ["Ilia Shumailov", "Zhenya Shumaylov", "Dmitry Kazhdan", "Yixin Zhao", "Nicolas Papernot", "Mert A. Erdogdu", "Ross J. Anderson"]
+},
+{
+"title": "Transformers: State-of-the-art natural language processing",
+"year": 2020,
+"authors": ["Thomas Wolf", "Lysandre Debut", "Victor Sanh", "Julien Chaumond", "Clément Delangue", "Anthony Moi", "Pierric Cistac", "Tim Rault", "Rémi Louf", "Morgan Funtowicz"]
+},
+{
+"title": "Qwen3 technical report",
+"year": 2025,
+"authors": ["An Yang", "An Li", "Bolin Yang", "Baosong Zhang", "Binghui Hui", "Baichuan Zheng", "Bin Yu", "Cheng Gao", "Chenguang Huang", "Chao Lv"]
+},
+{
+"title": "Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training",
+"year": 2024,
+"authors": ["Yunhao Yang", "Matthew Jones", "Michael C. Mozer", "Mengye Ren"]
+},
+{
+"title": "Fortuitous forgetting in connectionist networks",
+"year": 2022,
+"authors": ["Hao Zhou", "Ankit Vani", "Hugo Larochelle", "Aaron Courville"]
+}
+]
+}

@@ -1,0 +1,5 @@
+{{ $paperLibraryStyles := resources.Get "css/paper-library.css" | minify }}
+{{ if hugo.IsProduction }}
+  {{ $paperLibraryStyles = $paperLibraryStyles | fingerprint "sha256" }}
+{{ end }}
+<link href="{{ $paperLibraryStyles.RelPermalink }}" rel="stylesheet"{{ if hugo.IsProduction }} integrity="{{ $paperLibraryStyles.Data.Integrity }}" crossorigin="anonymous"{{ end }} />

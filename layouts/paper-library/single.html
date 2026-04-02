@@ -1,0 +1,190 @@
+{{ define "main" }}
+{{ $libraryPage := site.GetPage "/paper-library" }}
+{{ $related := slice }}
+{{ $allPapers := where site.RegularPages "Section" "paper-library" }}
+{{ $allPapers = where $allPapers "Params.layout" "ne" "statistics" }}
+
+{{ range $allPapers }}
+  {{ if ne .RelPermalink $.RelPermalink }}
+    {{ $candidate := . }}
+    {{ $sharedTags := intersect ($candidate.Params.tags | default (slice)) ($.Params.tags | default (slice)) }}
+    {{ $sharedAuthors := intersect ($candidate.Params.authors | default (slice)) ($.Params.authors | default (slice)) }}
+    {{ $sharedVenue := false }}
+    {{ if and $candidate.Params.venue $.Params.venue (eq (lower (printf "%v" $candidate.Params.venue)) (lower (printf "%v" $.Params.venue))) }}
+      {{ $sharedVenue = true }}
+    {{ end }}
+    {{ $score := add (mul (len $sharedTags) 3) (mul (len $sharedAuthors) 4) (cond $sharedVenue 1 0) }}
+    {{ if gt $score 0 }}
+      {{ $reasons := slice }}
+      {{ if gt (len $sharedAuthors) 0 }}
+        {{ $reasons = $reasons | append (printf "shared authors: %s" (delimit $sharedAuthors ", ")) }}
+      {{ end }}
+      {{ if gt (len $sharedTags) 0 }}
+        {{ $reasons = $reasons | append (printf "shared tags: %s" (delimit $sharedTags ", ")) }}
+      {{ end }}
+      {{ if $sharedVenue }}
+        {{ $reasons = $reasons | append (printf "same venue: %s" $candidate.Params.venue) }}
+      {{ end }}
+      {{ $related = $related | append (dict "page" $candidate "score" $score "reasons" $reasons) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $related = sort $related "score" "desc" }}
+
+<div class="paper-single">
+  <article class="paper-single__article">
+    <div class="paper-single__back">
+      <a href="{{ $libraryPage.RelPermalink }}">Back to paper library</a>
+    </div>
+
+    <header class="paper-single__header">
+      <p class="paper-single__eyebrow">{{ .Params.publication_type | default "paper" }}</p>
+      <h1 class="paper-single__title">{{ .Title }}</h1>
+
+      {{ with .Params.authors }}
+        <p class="paper-single__authors">
+          {{ range $index, $author := . }}
+            {{ if $index }}, {{ end }}
+            <a href="{{ $libraryPage.RelPermalink }}?author={{ $author | urlquery }}">{{ $author }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+
+      <div class="paper-single__meta">
+        {{ with .Params.year }}<span>{{ . }}</span>{{ end }}
+        {{ with .Params.venue }}<span>{{ . }}</span>{{ end }}
+        {{ with .Params.reading_status }}<span class="paper-status paper-status--{{ . | urlize }}">{{ . }}</span>{{ end }}
+        {{ with .Params.priority }}<span>priority {{ . }}</span>{{ end }}
+      </div>
+
+      {{ with .Params.tags }}
+        <div class="paper-single__tags">
+          {{ range . }}
+            <a class="paper-tag" href="{{ $libraryPage.RelPermalink }}?tag={{ . | urlquery }}">{{ . }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </header>
+
+    <section class="paper-single__grid">
+      <div class="paper-single__main">
+        {{ with .Params.summary }}
+          <section class="paper-single__section">
+            <h2>Summary</h2>
+            <p>{{ . }}</p>
+          </section>
+        {{ end }}
+
+        {{ with .Params.abstract }}
+          <section class="paper-single__section">
+            <h2>Abstract</h2>
+            <div class="prose prose-slate dark:prose-invert max-w-none">
+              <p>{{ . }}</p>
+            </div>
+          </section>
+        {{ end }}
+
+        {{ with .Params.relevance }}
+          <section class="paper-single__section">
+            <h2>Why it matters</h2>
+            <div class="paper-relevance-box">
+              <p>{{ . }}</p>
+            </div>
+          </section>
+        {{ end }}
+
+        {{ if .Content }}
+          <section class="paper-single__section">
+            <h2>Notes</h2>
+            <div class="prose prose-slate dark:prose-invert max-w-none">
+              {{ .Content }}
+            </div>
+          </section>
+        {{ end }}
+
+        {{ if gt (len $related) 0 }}
+          <section class="paper-single__section">
+            <h2>Related papers</h2>
+            <div class="paper-related-list">
+              {{ range first 4 $related }}
+                <article class="paper-related-card">
+                  <h3><a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a></h3>
+                  <p>{{ .page.Params.summary | default .page.Summary | plainify }}</p>
+                  {{ if gt (len .reasons) 0 }}
+                    <p class="paper-related-card__why">{{ delimit .reasons " · " }}</p>
+                  {{ end }}
+                </article>
+              {{ end }}
+            </div>
+          </section>
+        {{ end }}
+      </div>
+
+      <aside class="paper-single__sidebar">
+        <section class="paper-side-card">
+          <h2>Metadata</h2>
+          <dl class="paper-meta-list">
+            {{ with .Params.venue }}
+              <div><dt>Venue</dt><dd>{{ . }}</dd></div>
+            {{ end }}
+            {{ with .Params.publication_type }}
+              <div><dt>Type</dt><dd>{{ . }}</dd></div>
+            {{ end }}
+            {{ with .Params.arxiv }}
+              <div><dt>arXiv</dt><dd>{{ . }}</dd></div>
+            {{ end }}
+            {{ with .Params.doi }}
+              <div><dt>DOI</dt><dd>{{ . }}</dd></div>
+            {{ end }}
+            {{ with .Params.date_added }}
+              <div><dt>Added</dt><dd>{{ . }}</dd></div>
+            {{ end }}
+            {{ with .Params.date_read }}
+              <div><dt>Read</dt><dd>{{ . }}</dd></div>
+            {{ end }}
+          </dl>
+        </section>
+
+        <section class="paper-side-card">
+          <h2>Links</h2>
+          <div class="paper-side-card__links">
+            {{ with .Params.source_url }}
+              <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Landing page</a>
+            {{ end }}
+            {{ with .Params.pdf }}
+              <a href="{{ . }}" target="_blank" rel="noopener noreferrer">PDF</a>
+            {{ end }}
+            {{ with .Params.code }}
+              <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Code / repo</a>
+            {{ end }}
+            {{ with .Params.doi }}
+              <a href="https://doi.org/{{ . }}" target="_blank" rel="noopener noreferrer">Open DOI</a>
+            {{ end }}
+            {{ with .Params.arxiv }}
+              <a href="https://arxiv.org/abs/{{ . }}" target="_blank" rel="noopener noreferrer">Open arXiv</a>
+            {{ end }}
+          </div>
+        </section>
+
+        {{ with .Params.related_topics }}
+          <section class="paper-side-card">
+            <h2>Related topics</h2>
+            <ul class="paper-topic-list">
+              {{ range . }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+
+        {{ with .Params.personal_note }}
+          <section class="paper-side-card">
+            <h2>Personal note</h2>
+            <p>{{ . }}</p>
+          </section>
+        {{ end }}
+      </aside>
+    </section>
+  </article>
+</div>
+{{ end }}

@@ -1,0 +1,251 @@
+{
+"source_title": "Similarity of Neural Network Representations Revisited",
+"source_year": 2019,
+"references": [
+{
+"title": "High-dimensional dynamics of generalization error in neural networks",
+"year": 2017,
+"authors": ["M. S. Advani", "A. M. Saxe"]
+},
+{
+"title": "Dynamics of learning in MLP: Natural gradient and singularity revisited",
+"year": 2018,
+"authors": ["S. Amari", "T. Ozeki", "R. Karakida", "Y. Yoshida", "M. Okada"]
+},
+{
+"title": "Numerical methods for computing angles between linear subspaces",
+"year": 1973,
+"authors": ["A. Bjorck", "G. H. Golub"]
+},
+{
+"title": "On the geometry of feedforward neural network error surfaces",
+"year": 1993,
+"authors": ["A. M. Chen", "H.-m. Lu", "R. Hecht-Nielsen"]
+},
+{
+"title": "The representation of biological classes in the human brain",
+"year": 2012,
+"authors": ["A. C. Connolly", "J. S. Guntupalli", "J. Gors", "M. Hanke", "Y. O. Halchenko", "Y.-C. Wu", "H. Abdi", "J. V. Haxby"]
+},
+{
+"title": "Algorithms for learning kernels based on centered alignment",
+"year": 2012,
+"authors": ["C. Cortes", "M. Mohri", "A. Rostamizadeh"]
+},
+{
+"title": "On kernel-target alignment",
+"year": 2002,
+"authors": ["N. Cristianini", "J. Shawe-Taylor", "A. Elisseeff", "J. S. Kandola"]
+},
+{
+"title": "Density estimation using real NVP",
+"year": 2017,
+"authors": ["L. Dinh", "J. Sohl-Dickstein", "S. Bengio"]
+},
+{
+"title": "A learned representation for artistic style",
+"year": 2017,
+"authors": ["V. Dumoulin", "J. Shlens", "M. Kudlur"]
+},
+{
+"title": "Representation is representation of similarities",
+"year": 1998,
+"authors": ["S. Edelman"]
+},
+{
+"title": "Reorganization between preparatory and movement population responses in motor cortex",
+"year": 2016,
+"authors": ["G. F. Elsayed", "A. H. Lara", "M. T. Kaufman", "M. M. Churchland", "J. P. Cunningham"]
+},
+{
+"title": "Functional compartmentalization and viewpoint generalization within the macaque face-processing system",
+"year": 2010,
+"authors": ["W. A. Freiwald", "D. Y. Tsao"]
+},
+{
+"title": "Deep convolutional networks as shallow Gaussian processes",
+"year": 2019,
+"authors": ["A. Garriga-Alonso", "C. E. Rasmussen", "L. Aitchison"]
+},
+{
+"title": "Image style transfer using convolutional neural networks",
+"year": 2016,
+"authors": ["L. A. Gatys", "A. S. Ecker", "M. Bethge"]
+},
+{
+"title": "The canonical correlations of matrix pairs and their numerical computation",
+"year": 1995,
+"authors": ["G. H. Golub", "H. Zha"]
+},
+{
+"title": "Measuring statistical dependence with Hilbert-Schmidt norms",
+"year": 2005,
+"authors": ["A. Gretton", "O. Bousquet", "A. Smola", "B. Scholkopf"]
+},
+{
+"title": "Distributed and overlapping representations of faces and objects in ventral temporal cortex",
+"year": 2001,
+"authors": ["J. V. Haxby", "M. I. Gobbini", "M. L. Furey", "A. Ishai", "J. L. Schouten", "P. Pietrini"]
+},
+{
+"title": "Deep residual learning for image recognition",
+"year": 2016,
+"authors": ["K. He", "X. Zhang", "S. Ren", "J. Sun"]
+},
+{
+"title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+"year": 2015,
+"authors": ["S. Ioffe", "C. Szegedy"]
+},
+{
+"title": "i-RevNet: Deep invertible networks",
+"year": 2018,
+"authors": ["J.-H. Jacobsen", "A. W. Smeulders", "E. Oyallon"]
+},
+{
+"title": "Neural tangent kernel: Convergence and generalization in neural networks",
+"year": 2018,
+"authors": ["A. Jacot", "F. Gabriel", "C. Hongler"]
+},
+{
+"title": "Perceptual losses for real-time style transfer and super-resolution",
+"year": 2016,
+"authors": ["J. Johnson", "A. Alahi", "L. Fei-Fei"]
+},
+{
+"title": "Deep supervised, but not unsupervised, models may explain IT cortical representation",
+"year": 2014,
+"authors": ["S.-M. Khaligh-Razavi", "N. Kriegeskorte"]
+},
+{
+"title": "Representational similarity analysis-connecting the branches of systems neuroscience",
+"year": 2008,
+"authors": ["N. Kriegeskorte", "M. Mur", "P. A. Bandettini"]
+},
+{
+"title": "Matching categorical object representations in inferior temporal cortex of man and monkey",
+"year": 2008,
+"authors": ["N. Kriegeskorte", "M. Mur", "D. A. Ruff", "R. Kiani", "J. Bodurka", "H. Esteky", "K. Tanaka", "P. A. Bandettini"]
+},
+{
+"title": "The geometry of kernel canonical correlation analysis",
+"year": 2003,
+"authors": ["M. Kuss", "T. Graepel"]
+},
+{
+"title": "Content and cluster analysis: assessing representational similarity in neural systems",
+"year": 2000,
+"authors": ["A. Laakso", "G. Cottrell"]
+},
+{
+"title": "Deep neural networks as gaussian processes",
+"year": 2018,
+"authors": ["J. Lee", "J. Sohl-dickstein", "J. Pennington", "R. Novak", "S. Schoenholz", "Y. Bahri"]
+},
+{
+"title": "Convergent learning: Do different neural networks learn the same representations?",
+"year": 2015,
+"authors": ["Y. Li", "J. Yosinski", "J. Clune", "H. Lipson", "J. Hopcroft"]
+},
+{
+"title": "Tucker’s congruence coefficient as a meaningful index of factor similarity",
+"year": 2006,
+"authors": ["U. Lorenzo-Seva", "J. M. Ten Berge"]
+},
+{
+"title": "Insights on representational similarity in neural networks with canonical correlation",
+"year": 2018,
+"authors": ["A. Morcos", "M. Raghu", "S. Bengio"]
+},
+{
+"title": "Asymmetrically weighted CCA and hierarchical kernel sentence embedding for multimodal retrieval",
+"year": 2015,
+"authors": ["Y. Mroueh", "E. Marcheret", "V. Goel"]
+},
+{
+"title": "Bayesian deep convolutional networks with many channels are Gaussian processes",
+"year": 2019,
+"authors": ["R. Novak", "L. Xiao", "Y. Bahri", "J. Lee", "G. Yang", "D. A. Abolafia", "J. Pennington", "J. Sohl-dickstein"]
+},
+{
+"title": "Skip connections eliminate singularities",
+"year": 2018,
+"authors": ["E. Orhan", "X. Pitkow"]
+},
+{
+"title": "SVCCA: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+"year": 2017,
+"authors": ["M. Raghu", "J. Gilmer", "J. Yosinski", "J. Sohl-Dickstein"]
+},
+{
+"title": "Matrix correlation",
+"year": 1984,
+"authors": ["J. Ramsay", "J. ten Berge", "G. Styan"]
+},
+{
+"title": "A unifying tool for linear multivariate statistical methods: the RV-coefficient",
+"year": 1976,
+"authors": ["P. Robert", "Y. Escoufier"]
+},
+{
+"title": "FitNets: Hints for thin deep nets",
+"year": 2015,
+"authors": ["A. Romero", "N. Ballas", "S. E. Kahou", "A. Chassang", "C. Gatta", "Y. Bengio"]
+},
+{
+"title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+"year": 2014,
+"authors": ["A. M. Saxe", "J. L. McClelland", "S. Ganguli"]
+},
+{
+"title": "Equivalence of distance-based and RKHS-based statistics in hypothesis testing",
+"year": 2013,
+"authors": ["D. Sejdinovic", "B. Sriperumbudur", "A. Gretton", "K. Fukumizu"]
+},
+{
+"title": "Offline bilingual word vectors, orthogonal transformations and the inverted softmax",
+"year": 2017,
+"authors": ["S. L. Smith", "D. H. Turban", "S. Hamblin", "N. Y. Hammerla"]
+},
+{
+"title": "Supervised feature selection via dependence estimation",
+"year": 2007,
+"authors": ["L. Song", "A. Smola", "A. Gretton", "K. M. Borgwardt", "J. Bedo"]
+},
+{
+"title": "Striving for simplicity: The all convolutional net",
+"year": 2015,
+"authors": ["J. T. Springenberg", "A. Dosovitskiy", "T. Brox", "M. Riedmiller"]
+},
+{
+"title": "A neural network that finds a naturalistic solution for the production of muscle activity",
+"year": 2015,
+"authors": ["D. Sussillo", "M. M. Churchland", "M. T. Kaufman", "K. V. Shenoy"]
+},
+{
+"title": "Attention is all you need",
+"year": 2017,
+"authors": ["A. Vaswani", "N. Shazeer", "N. Parmar", "J. Uszkoreit", "L. Jones", "A. N. Gomez", "Ł. Kaiser", "I. Polosukhin"]
+},
+{
+"title": "Canonical ridge and econometrics of joint production",
+"year": 1976,
+"authors": ["H. D. Vinod"]
+},
+{
+"title": "Towards understanding learning representations: To what extent do different neural networks learn the same representation",
+"year": 2018,
+"authors": ["L. Wang", "L. Hu", "J. Gu", "Y. Wu", "Z. Hu", "K. He", "J. E. Hopcroft"]
+},
+{
+"title": "Performance-optimized hierarchical models predict neural responses in higher visual cortex",
+"year": 2014,
+"authors": ["D. L. Yamins", "H. Hong", "C. F. Cadieu", "E. A. Solomon", "D. Seibert", "J. J. DiCarlo"]
+},
+{
+"title": "Wide residual networks",
+"year": 2016,
+"authors": ["S. Zagoruyko", "N. Komodakis"]
+}
+]
+}

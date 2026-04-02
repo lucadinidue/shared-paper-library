@@ -1,0 +1,96 @@
+{
+"source_title": "Kernel Alignment using Manifold Approximation",
+"source_year": 2025,
+"references": [
+{
+"title": "Gaussian RBF centered kernel alignment (CKA) in the large-bandwidth limit",
+"year": 2022,
+"authors": ["Sergio A Alvarez"]
+},
+{
+"title": "Revisit similarity of neural network representations from graph perspective",
+"year": 2021,
+"authors": ["Zuohui Chen", "Yao Lu", "J Hu", "Wen Yang", "Qi Xuan", "Zhen Wang", "Ziaoniu Yang"]
+},
+{
+"title": "Training objective drives the consistency of representational similarity across datasets",
+"year": 2024,
+"authors": ["Laure Ciernik", "Lorenz Linhardt", "Marco Morik", "Jonas Dippel", "Simon Kornblith", "Lukas Muttenthaler"]
+},
+{
+"title": "Diffusion maps",
+"year": 2006,
+"authors": ["Ronald R Coifman", "Stephane Lafon"]
+},
+{
+"title": "Two-stage learning kernel algorithms",
+"year": 2010,
+"authors": ["Corinna Cortes", "Mehryar Mohri", "Afshin Rostamizadeh"]
+},
+{
+"title": "Reliability of CKA as a similarity measure in deep learning",
+"year": 2023,
+"authors": ["MohammadReza Davari", "Stefan Horoi", "Amine Natik", "Guillaume Lajoie", "Guy Wolf", "Eugene Belilovsky"]
+},
+{
+"title": "Testing the manifold hypothesis",
+"year": 2016,
+"authors": ["Charles Fefferman", "Sanjoy Mitter", "Hariharan Narayanan"]
+},
+{
+"title": "Array programming with numpy",
+"year": 2020,
+"authors": ["Charles R Harris", "K Jarrod Millman", "Stefan J Van Der Walt", "Ralf Gommers", "Pauli Virtanen", "David Cournapeau", "Eric Wieser", "Julian Taylor", "Sebastian Berg", "Nathaniel J Smith"]
+},
+{
+"title": "The platonic representation hypothesis",
+"year": 2024,
+"authors": ["Minyoung Huh", "Brian Cheung", "Tongzhou Wang", "Phillip Isola"]
+},
+{
+"title": "Similarity of neural network representations revisited",
+"year": 2019,
+"authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+},
+{
+"title": "UMAP: Uniform manifold approximation and projection for dimension reduction",
+"year": 2018,
+"authors": ["Leland McInnes", "John Healy", "James Melville"]
+},
+{
+"title": "Correcting biased centered kernel alignment measures in biological and artificial neural networks",
+"year": 2024,
+"authors": ["Alex Graeme Murphy", "Joel Zylberberg", "Alona Fyshe"]
+},
+{
+"title": "On the origins of the block structure phenomenon in neural network representations",
+"year": 2022,
+"authors": ["Thao Nguyen", "Maithra Raghu", "Simon Kornblith"]
+},
+{
+"title": "Learning with non-positive kernels",
+"year": 2004,
+"authors": ["Cheng Soon Ong", "Xavier Mary", "Stephane Canu", "Alexander J Smola"]
+},
+{
+"title": "Anatomy of catastrophic forgetting: Hidden representations and task semantics",
+"year": 2021,
+"authors": ["Vinay V Ramasesh", "Ethan Dyer", "Maithra Raghu"]
+},
+{
+"title": "Supervised feature selection via dependence estimation",
+"year": 2007,
+"authors": ["Le Song", "Alex Smola", "Arthur Gretton", "Karsten M Borgwardt", "Justin Bedo"]
+},
+{
+"title": "Getting aligned on representational alignment",
+"year": 2023,
+"authors": ["Ilia Sucholutsky", "Lukas Muttenthaler", "Adrian Weller", "Andi Peng", "Andreea Bobu", "Been Kim", "Bradley C Love", "Erin Grant", "Iris Groen", "Jascha Achterberg"]
+},
+{
+"title": "Visualizing data using t-sne",
+"year": 2008,
+"authors": ["Laurens Van der Maaten", "Geoffrey Hinton"]
+}
+]
+}

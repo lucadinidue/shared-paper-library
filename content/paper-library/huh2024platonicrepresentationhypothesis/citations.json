@@ -1,0 +1,181 @@
+{
+"source_title": "The Platonic Representation Hypothesis",
+"source_year": 2024,
+"references": [
+{
+"title": "Can language models encode perceptual structure without grounding? a case study in color",
+"year": 2021,
+"authors": ["M Abdou", "A Kulmizev", "D Hershcovich", "S Frank", "E Pavlick", "A Søgaard"]
+},
+{
+"title": "Git re-basin: Merging models modulo permutation symmetries",
+"year": 2022,
+"authors": ["Samuel K Ainsworth", "J Hayase", "S Srinivasa"]
+},
+{
+"title": "Predictive coding or just feature discovery? an alternative account of why language models fit brain data",
+"year": 2024,
+"authors": ["R Antonello", "A Huth"]
+},
+{
+"title": "Theory of reproducing kernels",
+"year": 1950,
+"authors": ["Nachman Aronszajn"]
+},
+{
+"title": "Implicit regularization in deep matrix factorization",
+"year": 2019,
+"authors": ["Sanjeev Arora", "N Cohen", "W Hu", "Y Luo"]
+},
+{
+"title": "A theoretical analysis of contrastive unsupervised representation learning",
+"year": 2019,
+"authors": ["Sanjeev Arora", "H Khandeparkar", "M Khodak", "O Plevrakis", "N Saunshi"]
+},
+{
+"title": "A spline theory of deep learning",
+"year": 2018,
+"authors": ["R Balestriero", "R Baraniuk"]
+},
+{
+"title": "Revisiting model stitching to compare neural representations",
+"year": 2021,
+"authors": ["Y Bansal", "P Nakkiran", "B Barak"]
+},
+{
+"title": "Learning to see by looking at noise",
+"year": 2021,
+"authors": ["M Baradad", "J Wulff", "T Wang", "P Isola", "A Torralba"]
+},
+{
+"title": "Procedural image programs for representation learning",
+"year": 2022,
+"authors": ["M Baradad", "R Chen", "J Wulff", "T Wang", "R Feris", "A Torralba", "P Isola"]
+},
+{
+"title": "Possible principles underlying the transformation of sensory messages",
+"year": 1961,
+"authors": ["H B Barlow"]
+},
+{
+"title": "Improving image generation with better captions",
+"year": 2023,
+"authors": ["J Betker", "G Goh", "L Jing", "T Brooks", "J Wang", "L Li", "L Ouyang", "J Zhuang", "J Lee", "Y Guo"]
+},
+{
+"title": "Bloom: A 176b-parameter open-access multilingual language model",
+"year": 2022,
+"authors": ["T L Scao", "A Fan", "C Akiki", "E Pavlick"]
+},
+{
+"title": "On the opportunities and risks of foundation models",
+"year": 2021,
+"authors": ["R Bommasani", "D Hudson", "E Adeli"]
+},
+{
+"title": "Rt-2: Vision-language-action models transfer web knowledge to robotic control",
+"year": 2023,
+"authors": ["A Brohan", "N Brown", "J Carbajal"]
+},
+{
+"title": "Explanatory models in neuroscience: Part 2–constraint-based intelligibility",
+"year": 2024,
+"authors": ["R Cao", "D Yamins"]
+},
+{
+"title": "Emerging properties in self-supervised vision transformers",
+"year": 2021,
+"authors": ["Mathilde Caron", "Hugo Touvron", "Ishan Misra"]
+},
+{
+"title": "Unsupervised learning of narrative event chains",
+"year": 2008,
+"authors": ["N Chambers", "D Jurafsky"]
+},
+{
+"title": "A simple framework for contrastive learning of visual representations",
+"year": 2020,
+"authors": ["Ting Chen", "Simon Kornblith", "Mohammad Norouzi", "Geoffrey Hinton"]
+},
+{
+"title": "Training verifiers to solve math word problems",
+"year": 2021,
+"authors": ["Karl Cobbe", "V Kosaraju", "M Bavarian"]
+},
+{
+"title": "What can 1.8 billion regressions tell us about the pressures shaping high-level visual representation in brains and machines?",
+"year": 2022,
+"authors": ["C Conwell", "J Prince", "K Kay"]
+},
+{
+"title": "Gpt3.int8(): 8-bit matrix multiplication for transformers at scale",
+"year": 2022,
+"authors": ["Tim Dettmers", "M Lewis", "Y Belkada"]
+},
+{
+"title": "Bert: Pre-training of deep bidirectional transformers for language understanding",
+"year": 2018,
+"authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"]
+},
+{
+"title": "Input–output maps are strongly biased towards simple outputs",
+"year": 2018,
+"authors": ["K Dingle", "C Camargo", "A Louis"]
+},
+{
+"title": "Imagenet classification with deep convolutional neural networks",
+"year": 2017,
+"authors": ["Alex Krizhevsky", "Ilya Sutskever", "Geoffrey Hinton"]
+},
+{
+"title": "SimCSE: Simple contrastive learning of sentence embeddings",
+"year": 2021,
+"authors": ["Tianyu Gao", "Xingcheng Yao", "Danqi Chen"]
+},
+{
+"title": "Loss surfaces, mode connectivity, and fast ensembling of dnns",
+"year": 2018,
+"authors": ["T Garipov", "P Izmailov", "D Podoprikhin"]
+},
+{
+"title": "Scaling laws for neural language models",
+"year": 2020,
+"authors": ["Jared Kaplan", "S McCandlish", "T Henighan"]
+},
+{
+"title": "Similarity of neural network representations revisited",
+"year": 2019,
+"authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+},
+{
+"title": "Svcca: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+"year": 2017,
+"authors": ["Maithra Raghu", "Justin Gilmer", "Jason Yosinski", "Jascha Sohl-Dickstein"]
+},
+{
+"title": "Learning transferable visual models from natural language supervision",
+"year": 2021,
+"authors": ["Alec Radford", "Jong Wook Kim", "Chris Hallacy"]
+},
+{
+"title": "Roberta: A robustly optimized bert pretraining approach",
+"year": 2019,
+"authors": ["Yinhan Liu", "M Ott", "N Goyal"]
+},
+{
+"title": "Dinov2: Learning robust visual features without supervision",
+"year": 2023,
+"authors": ["M Oquab", "T Darcet", "T Moutakanni"]
+},
+{
+"title": "Representation learning with contrastive predictive coding",
+"year": 2018,
+"authors": ["Aaron van den Oord", "Yazhe Li", "Oriol Vinyals"]
+},
+{
+"title": "Understanding contrastive representation learning through alignment and uniformity on the hypersphere",
+"year": 2020,
+"authors": ["Tongzhou Wang", "Phillip Isola"]
+}
+]
+}

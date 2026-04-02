@@ -1,0 +1,97 @@
+{{ define "main" }}
+{{ $pages := where site.RegularPages "Section" "paper-library" }}
+{{ $pages = where $pages "Params.layout" "ne" "statistics" }}
+{{ $pages = sort $pages "Params.year" "desc" }}
+{{ $statsPage := site.GetPage "/paper-library/statistics" }}
+
+{{ $tags := slice }}
+{{ $authors := slice }}
+{{ $statuses := slice }}
+{{ $years := slice }}
+
+{{ range $pages }}
+  {{ with .Params.tags }}
+    {{ $tagList := . }}
+    {{ if not (reflect.IsSlice $tagList) }}
+      {{ $tagList = slice $tagList }}
+    {{ end }}
+    {{ range $tagList }}
+      {{ $tag := strings.TrimSpace (printf "%v" .) }}
+      {{ if and $tag (not (in $tags $tag)) }}
+        {{ $tags = $tags | append $tag }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ with .Params.authors }}
+    {{ $authorList := . }}
+    {{ if not (reflect.IsSlice $authorList) }}
+      {{ $authorList = slice $authorList }}
+    {{ end }}
+    {{ range $authorList }}
+      {{ $author := replaceRE "\\s+" " " (strings.TrimSpace (printf "%v" .)) }}
+      {{ if and $author (not (in $authors $author)) }}
+        {{ $authors = $authors | append $author }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $status := strings.TrimSpace (printf "%v" (.Params.reading_status | default "to-read")) }}
+  {{ if and $status (not (in $statuses $status)) }}
+    {{ $statuses = $statuses | append $status }}
+  {{ end }}
+
+  {{ $year := printf "%v" (.Params.year | default (.Date.Format "2006")) }}
+  {{ if and $year (not (in $years $year)) }}
+    {{ $years = $years | append $year }}
+  {{ end }}
+{{ end }}
+
+{{ $tags = sort $tags }}
+{{ $authors = sort $authors }}
+{{ $statuses = sort $statuses }}
+{{ $years = sort $years "value" "desc" }}
+
+{{ $libraryScript := resources.Get "js/paper-library.js" | js.Build (dict "targetPath" "assets/js/paper-library.js" "minify" hugo.IsProduction) }}
+{{ if hugo.IsProduction }}
+  {{ $libraryScript = $libraryScript | fingerprint "sha256" }}
+{{ end }}
+
+<div class="paper-library-page" data-paper-library-app>
+  <header class="paper-library-page__hero">
+    <div class="paper-library-page__intro">
+      <p class="paper-library-page__eyebrow">Personal paper archive</p>
+      <h1 class="paper-library-page__title">{{ .Title }}</h1>
+      {{ with .Content }}
+        <div class="paper-library-page__content prose prose-slate dark:prose-invert max-w-none">
+          {{ . }}
+        </div>
+      {{ end }}
+      <div class="paper-library-page__actions">
+        <a class="paper-library-hero__button" href="{{ $statsPage.RelPermalink }}">Open statistics</a>
+      </div>
+    </div>
+  </header>
+
+  {{ partial "paper-library-filters.html" (dict "tags" $tags "authors" $authors "statuses" $statuses "years" $years) }}
+
+  <section class="paper-library-results" aria-labelledby="paper-library-results-title">
+    <div class="paper-library-results__header">
+      <h2 id="paper-library-results-title" class="paper-library-section-title">All papers</h2>
+      <p class="paper-library-results__hint">Use the filters to isolate topics, authors, years or reading states.</p>
+    </div>
+
+    <div class="paper-library-results__list" data-paper-results-list>
+      {{ range $pages }}
+        {{ partial "paper-library-card.html" . }}
+      {{ end }}
+    </div>
+
+    <div class="paper-library-empty" data-paper-empty hidden>
+      <p>No paper matches the current filters.</p>
+    </div>
+  </section>
+</div>
+
+<script defer src="{{ $libraryScript.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $libraryScript.Data.Integrity }}" crossorigin="anonymous"{{ end }}></script>
+{{ end }}

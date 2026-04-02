@@ -1,0 +1,101 @@
+{
+  "source_title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
+  "source_year": 2025,
+  "references": [
+    {
+      "title": "Yi: Open foundation models by 01.ai",
+      "year": 2025,
+      "authors": ["AI", "Alex Young", "Bei Chen", "Chao Li", "Chengen Huang", "Ge Zhang", "Guanwei Zhang", "Guoyin Wang", "Heng Li", "Jiangcheng Zhu", "Jianqun Chen", "Jing Chang", "Kaidong Yu", "Peng Liu", "Qiang Liu", "Shawn Yue", "Senbin Yang", "Shiming Yang", "Wen Xie"]
+    },
+    {
+      "title": "Gqa: Training generalized multi-query transformer models from multi-head checkpoints",
+      "year": 2023,
+      "authors": ["Joshua Ainslie", "James Lee-Thorp", "Michiel de Jong", "Yury Zemlyanskiy", "Federico Lebrón", "Sumit Sanghai"]
+    },
+    {
+      "title": "Falcon-40B: an open large language model with state-of-the-art performance",
+      "year": 2023,
+      "authors": ["Ebtesam Almazrouei", "Hamza Alobeidli", "Abdulaziz Alshamsi", "Alessandro Cappelli", "Ruxandra Cojocaru", "Merouane Debbah", "Etienne Goffinet", "Daniel Heslow", "Julien Launay", "Quentin Malartic", "Badreddine Noune", "Baptiste Pannier", "Guilherme Penedo"]
+    },
+    {
+      "title": "Tower: An open multilingual large language model for translation-related tasks",
+      "year": 2024,
+      "authors": ["Duarte M. Alves", "José Pombal", "Nuno M. Guerreiro", "Pedro H. Martins", "João Alves", "Amin Farajian", "Ben Peters", "Ricardo Rei", "Patrick Fernandes", "Sweta Agrawal", "Pierre Colombo", "José G. C. de Souza", "André F. T. Martins"]
+    },
+    {
+      "title": "Differential Geometry of Curved Exponential Families-Curvatures and Information Loss",
+      "year": 1982,
+      "authors": ["Shun-Ichi Amari"]
+    },
+    {
+      "title": "Natural gradient works efficiently in learning",
+      "year": 1998,
+      "authors": ["Shun-Ichi Amari"]
+    },
+    {
+      "title": "Gpt4all: Training an assistant-style chatbot with large scale data distillation from gpt-3.5-turbo",
+      "year": 2023,
+      "authors": ["Yuvanesh Anand", "Zach Nussbaum", "Brandon Duderstadt", "Benjamin Schmidt", "Andriy Mulyar"]
+    },
+    {
+      "title": "GPT-NeoX: Large Scale Autoregressive Language Modeling in PyTorch",
+      "year": 2021,
+      "authors": ["Alex Andonian", "Quentin Anthony", "Stella Biderman", "Sid Black", "Preetham Gali", "Leo Gao", "Eric Hallahan", "Josh Levy-Kramer", "Connor Leahy", "Lucas Nestler", "Kip Parker", "Michael Pieler", "Shivanshu Purohit", "Tri Songz", "Wang Phil", "Samuel Weinbach"]
+    },
+    {
+      "title": "Self-rag: Learning to retrieve, generate, and critique through self-reflection",
+      "year": 2023,
+      "authors": ["Akari Asai", "Zeqiu Wu", "Yizhong Wang", "Avirup Sil", "Hannaneh Hajishirzi"]
+    },
+    {
+      "title": "Program synthesis with large language models",
+      "year": 2021,
+      "authors": ["Jacob Austin", "Augustus Odena", "Maxwell Nye", "Maarten Bosma", "Henryk Michalewski", "David Dohan", "Ellen Jiang", "Carrie Cai", "Michael Terry", "Quoc Le", "Charles Sutton"]
+    },
+    {
+      "title": "Llemma: An open language model for mathematics",
+      "year": 2024,
+      "authors": ["Zhangir Azerbayev", "Hailey Schoelkopf", "Keiran Paster", "Marco Dos Santos", "Stephen McAleer", "Albert Q. Jiang", "Jia Deng", "Stella Biderman", "Sean Welleck"]
+    },
+    {
+      "title": "Layer normalization",
+      "year": 2016,
+      "authors": ["Jimmy Lei Ba", "Jamie Ryan Kiros", "Geoffrey E. Hinton"]
+    },
+    {
+      "title": "Qwen technical report",
+      "year": 2023,
+      "authors": ["Jinze Bai", "Shuai Bai", "Yunfei Chu", "Zeyu Cui", "Kai Dang", "Xiaodong Deng", "Yang Fan", "Wenbin Ge", "Yu Han", "Fei Huang", "Binyuan Hui", "Luo Ji", "Mei Li", "Junyang Lin", "Runji Lin", "Dayiheng Liu", "Gao Liu", "Chengqiang Lu", "Keming Lu"]
+    },
+    {
+      "title": "Datasheet for the pile",
+      "year": 2022,
+      "authors": ["Stella Biderman", "Hailey Schoelkopf", "Quentin Anthony", "Herbie Bradley", "Kyle O’Brien", "Eric Hallahan", "Mohammad Aflah Khan", "Shivanshu Purohit", "USVSN Sai Prashanth", "Edward Raff", "Aviya Skowron", "Lintang Sutawika", "Oskar van der Wal"]
+    },
+    {
+      "title": "Pythia: A suite for analyzing large language models across training and scaling",
+      "year": 2023,
+      "authors": ["Stella Biderman", "Hailey Schoelkopf", "Quentin Anthony", "Herbie Bradley", "Kyle O’Brien", "Eric Hallahan", "Mohammad Aflah Khan", "Shivanshu Purohit", "USVSN Sai Prashanth", "Edward Raff", "Aviya Skowron", "Lintang Sutawika", "Oskar van der Wal"]
+    },
+    {
+      "title": "Piqa: Reasoning about physical commonsense in natural language",
+      "year": 2019,
+      "authors": ["Yonatan Bisk", "Rowan Zellers", "Ronan Le Bras", "Jianfeng Gao", "Yejin Choi"]
+    },
+    {
+      "title": "Gpt-neox-20b: An open-source autoregressive language model",
+      "year": 2022,
+      "authors": ["Sid Black", "Stella Biderman", "Eric Hallahan", "Quentin Anthony", "Leo Gao", "Laurence Golding", "Horace He", "Connor Leahy", "Kyle McDonell", "Jason Phang", "Michael Pieler", "USVSN Sai Prashanth", "Shivanshu Purohit", "Laria Reynolds", "Jonathan Tow", "Ben Wang", "Samuel Weinbach"]
+    },
+    {
+      "title": "Modern Multidimensional Scaling: Theory and Applications",
+      "year": 2005,
+      "authors": ["Ingwer Borg", "Patrick J. F. Groenen"]
+    },
+    {
+      "title": "Language models are few-shot learners",
+      "year": 2020,
+      "authors": ["Tom B. Brown", "Benjamin Mann", "Nick Ryder", "Melanie Subbiah", "Jared Kaplan", "Prafulla Dhariwal", "Arvind Neelakantan", "Pranav Shyam", "Girish Sastry", "Amanda Askell", "Sandhini Agarwal", "Ariel Herbert-Voss", "Gretchen Krueger", "Tom Henighan", "Rewon Child", "Aditya Ramesh", "Daniel M. Ziegler", "Jeffrey Wu", "Clemens Winter"]
+    }
+  ]
+}

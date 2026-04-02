@@ -1,0 +1,106 @@
+{
+"source_title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+"source_year": 2017,
+"references": [
+{
+"title": "Understanding intermediate layers using linear classifier probes",
+"year": 2016,
+"authors": ["Guillaume Alain", "Yoshua Bengio"]
+},
+{
+"title": "Understanding deep architectures using a recursive convolutional network",
+"year": 2013,
+"authors": ["David Eigen", "Jason Rolfe", "Rob Fergus", "Yann LeCun"]
+},
+{
+"title": "Improving vector space word representations using multilingual correlation",
+"year": 2014,
+"authors": ["Manaal Faruqui", "Chris Dyer"]
+},
+{
+"title": "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions",
+"year": 2011,
+"authors": ["Nathan Halko", "Per-Gunnar Martinsson", "Joel A. Tropp"]
+},
+{
+"title": "Canonical correlation analysis: An overview with application to learning methods",
+"year": 2004,
+"authors": ["D. R. Hardoon", "S. Szedmak", "J. Shawe-Taylor"]
+},
+{
+"title": "Deep residual learning for image recognition",
+"year": 2015,
+"authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"]
+},
+{
+"title": "Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups",
+"year": 2012,
+"authors": ["Geoffrey Hinton", "Li Deng", "Dong Yu", "George E. Dahl", "Abdel-rahman Mohamed", "Navdeep Jaitly", "Andrew Senior", "Vincent Vanhoucke", "Patrick Nguyen", "Tara N Sainath"]
+},
+{
+"title": "Imagenet classification with deep convolutional neural networks",
+"year": 2012,
+"authors": ["Alex Krizhevsky", "Ilya Sutskever", "Geoffrey E Hinton"]
+},
+{
+"title": "Understanding image representations by measuring their equivariance and equivalence",
+"year": 2015,
+"authors": ["Karel Lenc", "Andrea Vedaldi"]
+},
+{
+"title": "Convergent Learning: Do different neural networks learn the same representations?",
+"year": 2016,
+"authors": ["Y. Li", "J. Yosinski", "J. Clune", "H. Lipson", "J. Hopcroft"]
+},
+{
+"title": "Convergent learning: Do different neural networks learn the same representations?",
+"year": 2015,
+"authors": ["Yixuan Li", "Jason Yosinski", "Jeff Clune", "Hod Lipson", "John Hopcroft"]
+},
+{
+"title": "Understanding deep image representations by inverting them",
+"year": 2015,
+"authors": ["Aravindh Mahendran", "Andrea Vedaldi"]
+},
+{
+"title": "Kernel analysis of deep networks",
+"year": 2011,
+"authors": ["Gregoire Montavon", "Mikio L Braun", "Klaus-Robert Muller"]
+},
+{
+"title": "Deep inside convolutional networks: Visualising image classification models and saliency maps",
+"year": 2013,
+"authors": ["Karen Simonyan", "Andrea Vedaldi", "Andrew Zisserman"]
+},
+{
+"title": "A neural network that finds a naturalistic solution for the production of muscle activity",
+"year": 2015,
+"authors": ["David Sussillo", "Mark M Churchland", "Matthew T Kaufman", "Krishna V Shenoy"]
+},
+{
+"title": "Intriguing properties of neural networks",
+"year": 2013,
+"authors": ["Christian Szegedy", "Wojciech Zaremba", "Ilya Sutskever", "Joan Bruna", "Dumitru Erhan", "Ian Goodfellow", "Rob Fergus"]
+},
+{
+"title": "Google’s neural machine translation system: Bridging the gap between human and machine translation",
+"year": 2016,
+"authors": ["Yonghui Wu", "Mike Schuster", "Zhifeng Chen", "Quoc V. Le", "Mohammad Norouzi", "Wolfgang Macherey", "Maxim Krikun", "Yuan Cao", "Qin Gao", "Klaus Macherey"]
+},
+{
+"title": "Understanding neural networks through deep visualization",
+"year": 2015,
+"authors": ["Jason Yosinski", "Jeff Clune", "Anh Nguyen", "Thomas Fuchs", "Hod Lipson"]
+},
+{
+"title": "Visualizing and understanding convolutional networks",
+"year": 2014,
+"authors": ["Matthew D Zeiler", "Rob Fergus"]
+},
+{
+"title": "Object detectors emerge in deep scene cnns",
+"year": 2014,
+"authors": ["Bolei Zhou", "Aditya Khosla", "Agata Lapedriza", "Aude Oliva", "Antonio Torralba"]
+}
+]
+}
