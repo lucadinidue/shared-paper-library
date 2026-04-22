@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T07:46:15+00:00",
-  "paper_count": 14,
+  "generated_at": "2026-04-22T08:22:25+00:00",
+  "paper_count": 15,
   "papers": [
     {
       "paper_id": "948_reliability_of_cka_as_a_simila",
@@ -99,6 +99,13 @@
       "title_normalized": "svcca singular vector canonical correlation analysis for deep learning dynamics and interpretability",
       "year": 2017,
       "path": "content/paper-library/raghu2017svccasingularvectorcanonical/index.md"
+    },
+    {
+      "paper_id": "self-distillation-performance-recovery-llms-2026",
+      "title": "Self-Distillation as a Performance Recovery Mechanism for LLMs: Counteracting Compression and Catastrophic Forgetting",
+      "title_normalized": "self distillation as a performance recovery mechanism for llms counteracting compression and catastrophic forgetting",
+      "year": 2026,
+      "path": "content/paper-library/self-distillation-performance-recovery-llms-2026/index.md"
     }
   ]
 }

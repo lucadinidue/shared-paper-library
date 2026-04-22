@@ -1,0 +1,71 @@
+{
+"source_title": "Self-Distillation as a Performance Recovery Mechanism for LLMs: Counteracting Compression and Catastrophic Forgetting",
+"source_year": 2026,
+"references": [
+{
+"title": "A continual learning survey: Defying forgetting in classification tasks",
+"year": 2021,
+"authors": ["Matthias De Lange", "Rahaf Aljundi", "Marc Masana", "Sarah Parisot", "Xu Jia", "Ales Leonardis", "Gregory Slabaugh", "Tinne Tuytelaars"]
+},
+{
+"title": "Qlora: Efficient finetuning of quantized language models",
+"year": 2023,
+"authors": ["Tim Dettmers", "Artidoro Pagnoni", "Ari Holtzman", "Luke Zettlemoyer"]
+},
+{
+"title": "GPTQ: Accurate post-training quantization for generative pre-trained transformers",
+"year": 2023,
+"authors": ["Elias Frantar", "Saleh Ashkboos", "Torsten Hoefler", "Dan Alistarh"]
+},
+{
+"title": "Born again neural networks",
+"year": 2018,
+"authors": ["Tommaso Furlanello", "Zachary C. Lipton", "Michael Tschannen", "Laurent Itti", "Anima Anandkumar"]
+},
+{
+"title": "Measuring statistical dependence with hilbert-schmidt norms",
+"year": 2005,
+"authors": ["Arthur Gretton", "Olivier Bousquet", "Alex Smola", "Bernhard Schölkopf"]
+},
+{
+"title": "Distilling the knowledge in a neural network",
+"year": 2015,
+"authors": ["Geoffrey Hinton", "Oriol Vinyals", "Jeff Dean"]
+},
+{
+"title": "Overcoming catastrophic forgetting in neural networks",
+"year": 2017,
+"authors": ["James Kirkpatrick", "Razvan Pascanu", "Neil Rabinowitz", "Joel Veness", "Guillaume Desjardins", "Andrei A Rusu", "Kieran Milan", "John Quan", "Tiago Ramalho", "Agnieszka Grabska-Barwinska"]
+},
+{
+"title": "Similarity of neural network representations revisited",
+"year": 2019,
+"authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+},
+{
+"title": "Learning without forgetting",
+"year": 2017,
+"authors": ["Zhizhong Li", "Derek Hoiem"]
+},
+{
+"title": "LLM-Pruner: On the structural pruning of large language models",
+"year": 2024,
+"authors": ["Xinyin Ma", "Gongfan Fang", "Xinchao Wang"]
+},
+{
+"title": "Qwen2.5 technical report",
+"year": 2024,
+"authors": ["An Yang", "Baosong Yang", "Beichen Zhang", "Binyuan Hui", "Bo Zheng", "Bowen Yu", "Chengyuan Li", "Dayiheng Liu", "Fei Huang"]
+},
+{
+"title": "Progressive neural networks",
+"year": 2016,
+"authors": ["Andrei A. Rusu", "Neil C. Rabinowitz", "Guillaume Desjardins", "Hubert Sober", "Koray Kavukcuoglu", "Raia Hadsell"]
+},
+{
+"title": "Self-distillation enables continual learning",
+"year": 2026,
+"authors": ["Idan Shenfeld", "Mehul Damani", "Jonas Hubotter", "Pulkit Agrawal"]
+}
+]
+}

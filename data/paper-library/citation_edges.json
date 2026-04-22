@@ -74,5 +74,9 @@
   {
     "source": "pmlr-v162-barannikov22a",
     "target": "raghu2017svccasingularvectorcanonical"
+  },
+  {
+    "source": "self-distillation-performance-recovery-llms-2026",
+    "target": "kornblith19a"
   }
 ]
