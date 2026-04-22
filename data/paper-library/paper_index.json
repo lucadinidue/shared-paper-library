@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T13:04:10+00:00",
-  "paper_count": 13,
+  "generated_at": "2026-04-22T07:41:24+00:00",
+  "paper_count": 14,
   "papers": [
     {
       "paper_id": "948_reliability_of_cka_as_a_simila",
@@ -71,6 +71,13 @@
       "title_normalized": "insights on representational similarity in neural networks with canonical correlation",
       "year": 2018,
       "path": "content/paper-library/morcos2018insightsrepresentationalsimilarityneural/index.md"
+    },
+    {
+      "paper_id": "nielsen-cosine",
+      "title": "Why not to use Cosine Similarity between Label Representations",
+      "title_normalized": "why not to use cosine similarity between label representations",
+      "year": 2026,
+      "path": "content/paper-library/nielsen-cosine/index.md"
     },
     {
       "paper_id": "oyama-etal-2025-mapping",

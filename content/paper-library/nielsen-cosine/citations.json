@@ -1,0 +1,36 @@
+{
+"source_title": "Why not to use Cosine Similarity between Label Representations",
+"source_year": 2026,
+"references": [
+{
+"title": "Language models are few-shot learners.",
+"year": 2020,
+"authors": ["Tom Brown", "Benjamin Mann", "Nick Ryder", "Melanie Subbiah", "Jared Kaplan", "Prafulla Dhariwal", "Arvind Neelakantan", "Pranav Shyam", "Girish Sastry", "Amanda Askell"]
+},
+{
+"title": "Bert: Pre-training of deep bidirectional transformers for language understanding.",
+"year": 2019,
+"authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"]
+},
+{
+"title": "Deep residual learning for image recognition.",
+"year": 2016,
+"authors": ["Kaiming He", "Xiangyu Zhang", "Shaoqing Ren", "Jian Sun"]
+},
+{
+"title": "Prediction hubs are context-informed frequent tokens in llms.",
+"year": 2025,
+"authors": ["Beatrix Miranda Ginn Nielsen", "Iuri Macocco", "Marco Baroni"]
+},
+{
+"title": "Improving language understanding by generative pre-training.",
+"year": 2018,
+"authors": ["Alec Radford", "Karthik Narasimhan", "Tim Salimans", "Ilya Sutskever"]
+},
+{
+"title": "Language models are unsupervised multitask learners.",
+"year": 2019,
+"authors": ["Alec Radford", "Jeffrey Wu", "Rewon Child", "David Luan", "Dario Amodei", "Ilya Sutskever"]
+}
+]
+}
