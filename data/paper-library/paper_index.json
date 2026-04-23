@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T08:23:09+00:00",
-  "paper_count": 15,
+  "generated_at": "2026-04-23T15:00:52+00:00",
+  "paper_count": 16,
   "papers": [
     {
       "paper_id": "948_reliability_of_cka_as_a_simila",
@@ -85,6 +85,13 @@
       "title_normalized": "mapping 1 000 language models via the log likelihood vector",
       "year": 2025,
       "path": "content/paper-library/oyama-etal-2025-mapping/index.md"
+    },
+    {
+      "paper_id": "phang-etal-2021-fine",
+      "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+      "title_normalized": "fine tuned transformers show clusters of similar representations across layers",
+      "year": 2021,
+      "path": "content/paper-library/phang-etal-2021-fine/index.md"
     },
     {
       "paper_id": "pmlr-v162-barannikov22a",

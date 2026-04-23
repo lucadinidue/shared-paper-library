@@ -23,10 +23,10 @@
         "score": 33.37
       },
       {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 29.62
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 30.19
       }
     ],
     "reference_index": 0
@@ -151,10 +151,10 @@
         "score": 53.03
       },
       {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 46.65
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 48.39
       }
     ],
     "reference_index": 4
@@ -177,16 +177,16 @@
         "score": 50.51
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.6
+      },
+      {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
         "year": 2024,
         "score": 42.65
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 39.82
       }
     ],
     "reference_index": 5
@@ -198,10 +198,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 51.56,
+    "score": 53.65,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 53.65
+      },
       {
         "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
         "title": "Insights on representational similarity in neural networks with canonical correlation",
@@ -213,12 +219,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 44.95
-      },
-      {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 43.66
       }
     ],
     "reference_index": 6
@@ -230,10 +230,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 32.62,
+    "score": 46.28,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 46.28
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -245,12 +251,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 30.29
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 29.19
       }
     ],
     "reference_index": 7
@@ -279,10 +279,10 @@
         "score": 54.08
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 44.55
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.89
       }
     ],
     "reference_index": 8
@@ -390,10 +390,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.07,
+    "score": 36.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.1
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -405,12 +411,6 @@
         "title": "Insights on representational similarity in neural networks with canonical correlation",
         "year": 2018,
         "score": 35.71
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 35.64
       }
     ],
     "reference_index": 12
@@ -472,10 +472,10 @@
         "score": 34.4
       },
       {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 31.03
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 32.8
       }
     ],
     "reference_index": 16
@@ -487,10 +487,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 43.88,
+    "score": 46.43,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 46.43
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -502,12 +508,6 @@
         "title": "Insights on representational similarity in neural networks with canonical correlation",
         "year": 2018,
         "score": 42.08
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 40.32
       }
     ],
     "reference_index": 17
@@ -600,10 +600,10 @@
         "score": 35.08
       },
       {
-        "paper_id": "oyama-etal-2025-mapping",
-        "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
-        "year": 2025,
-        "score": 30.43
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 33.27
       }
     ],
     "reference_index": 1
@@ -839,10 +839,16 @@
     "reference_year": 2023,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 41.05,
+    "score": 46.02,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 46.02
+      },
       {
         "paper_id": "islam2025kernel",
         "title": "Kernel Alignment using Manifold Approximation",
@@ -854,12 +860,6 @@
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 39.76
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 36.91
       }
     ],
     "reference_index": 9
@@ -871,10 +871,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 32.58,
+    "score": 36.98,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.98
+      },
       {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
@@ -886,12 +892,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 32.04
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 29.62
       }
     ],
     "reference_index": 10
@@ -1112,10 +1112,10 @@
         "score": 40.86
       },
       {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 31.69
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.09
       }
     ],
     "reference_index": 17
@@ -1127,10 +1127,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 30.71,
+    "score": 41.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 41.1
+      },
       {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
@@ -1142,12 +1148,6 @@
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 27.15
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 26.36
       }
     ],
     "reference_index": 18
@@ -1400,10 +1400,10 @@
         "score": 36.66
       },
       {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 29.43
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 32.64
       }
     ],
     "reference_index": 26
@@ -1575,10 +1575,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 34.17,
+    "score": 41.23,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 41.23
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -1590,12 +1596,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 33.4
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 31.23
       }
     ],
     "reference_index": 32
@@ -2514,16 +2514,16 @@
         "score": 42.64
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 37.76
+      },
+      {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 37.46
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 37.0
       }
     ],
     "reference_index": 15
@@ -2599,10 +2599,16 @@
     "reference_year": 2022,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 33.51,
+    "score": 33.71,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 33.71
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -2614,12 +2620,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 32.64
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 32.11
       }
     ],
     "reference_index": 18
@@ -2851,10 +2851,10 @@
         "score": 45.47
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 42.76
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.99
       }
     ],
     "reference_index": 26
@@ -3470,10 +3470,10 @@
         "score": 49.94
       },
       {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 44.01
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 47.15
       }
     ],
     "reference_index": 46
@@ -3694,10 +3694,10 @@
         "score": 54.39
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 49.06
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 51.31
       }
     ],
     "reference_index": 53
@@ -4029,10 +4029,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.64,
+    "score": 38.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.1
+      },
       {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
@@ -4044,12 +4050,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 34.88
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 34.07
       }
     ],
     "reference_index": 8
@@ -4270,10 +4270,10 @@
         "score": 31.08
       },
       {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 27.64
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 31.0
       }
     ],
     "reference_index": 15
@@ -4776,16 +4776,16 @@
         "score": 37.07
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.45
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 35.4
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 33.22
       }
     ],
     "reference_index": 31
@@ -4893,10 +4893,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 37.77,
+    "score": 39.8,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 39.8
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -4908,12 +4914,6 @@
         "title": "Insights on representational similarity in neural networks with canonical correlation",
         "year": 2018,
         "score": 29.5
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 25.6
       }
     ],
     "reference_index": 35
@@ -4925,10 +4925,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.81,
+    "score": 39.0,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 39.0
+      },
       {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
@@ -4940,12 +4946,6 @@
         "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
         "year": 2025,
         "score": 35.46
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 35.21
       }
     ],
     "reference_index": 36
@@ -5171,16 +5171,16 @@
         "score": 39.96
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.47
+      },
+      {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 34.64
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 30.05
       }
     ],
     "reference_index": 44
@@ -5241,10 +5241,10 @@
         "score": 34.53
       },
       {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 28.14
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 29.48
       }
     ],
     "reference_index": 46
@@ -5331,16 +5331,16 @@
         "score": 45.62
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 43.93
+      },
+      {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 40.61
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 36.93
       }
     ],
     "reference_index": 49
@@ -5384,10 +5384,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.29,
+    "score": 39.53,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 39.53
+      },
       {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
@@ -5399,12 +5405,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 32.0
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 30.94
       }
     ],
     "reference_index": 51
@@ -5465,10 +5465,10 @@
         "score": 38.39
       },
       {
-        "paper_id": "oyama-etal-2025-mapping",
-        "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
-        "year": 2025,
-        "score": 36.09
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.52
       }
     ],
     "reference_index": 1
@@ -5587,16 +5587,16 @@
         "score": 51.8
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 50.65
+      },
+      {
         "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
         "title": "Insights on representational similarity in neural networks with canonical correlation",
         "year": 2018,
         "score": 42.03
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 39.31
       }
     ],
     "reference_index": 5
@@ -5657,10 +5657,10 @@
         "score": 60.41
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 46.41
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 46.78
       }
     ],
     "reference_index": 7
@@ -5736,10 +5736,16 @@
     "reference_year": 1961,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 30.34,
+    "score": 35.6,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 35.6
+      },
       {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
@@ -5751,12 +5757,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 28.32
-      },
-      {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 26.64
       }
     ],
     "reference_index": 10
@@ -5832,10 +5832,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 43.7,
+    "score": 46.57,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 46.57
+      },
       {
         "paper_id": "hu2023latent",
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
@@ -5847,12 +5853,6 @@
         "title": "The Platonic Representation Hypothesis",
         "year": 2024,
         "score": 37.79
-      },
-      {
-        "paper_id": "948_reliability_of_cka_as_a_simila",
-        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
-        "year": 2023,
-        "score": 33.07
       }
     ],
     "reference_index": 13
@@ -5928,10 +5928,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 28.14,
+    "score": 51.81,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 51.81
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -5943,12 +5949,6 @@
         "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
         "year": 2025,
         "score": 27.93
-      },
-      {
-        "paper_id": "huh2024platonicrepresentationhypothesis",
-        "title": "The Platonic Representation Hypothesis",
-        "year": 2024,
-        "score": 27.33
       }
     ],
     "reference_index": 16
@@ -6009,10 +6009,10 @@
         "score": 53.03
       },
       {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 46.65
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 48.39
       }
     ],
     "reference_index": 18
@@ -6024,10 +6024,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 30.71,
+    "score": 41.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 41.1
+      },
       {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
@@ -6039,12 +6045,6 @@
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 27.15
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 26.36
       }
     ],
     "reference_index": 19
@@ -6067,16 +6067,16 @@
         "score": 42.15
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 34.63
+      },
+      {
         "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 34.35
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 32.61
       }
     ],
     "reference_index": 20
@@ -6088,10 +6088,16 @@
     "reference_year": 2022,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.1,
+    "score": 38.35,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.35
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -6103,12 +6109,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 32.76
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 31.84
       }
     ],
     "reference_index": 21
@@ -6120,10 +6120,16 @@
     "reference_year": 2018,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.07,
+    "score": 36.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.1
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -6135,12 +6141,6 @@
         "title": "Insights on representational similarity in neural networks with canonical correlation",
         "year": 2018,
         "score": 35.71
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 35.64
       }
     ],
     "reference_index": 22
@@ -6163,16 +6163,16 @@
         "score": 38.48
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 30.23
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 27.82
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 26.75
       }
     ],
     "reference_index": 23
@@ -6233,10 +6233,10 @@
         "score": 44.15
       },
       {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 34.84
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 43.27
       }
     ],
     "reference_index": 25
@@ -6351,10 +6351,10 @@
         "score": 40.38
       },
       {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 36.22
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.01
       }
     ],
     "reference_index": 30
@@ -6366,10 +6366,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 31.78,
+    "score": 36.91,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.91
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -6381,12 +6387,6 @@
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
         "year": 2025,
         "score": 28.33
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 28.22
       }
     ],
     "reference_index": 31
@@ -6462,10 +6462,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.57,
+    "score": 42.69,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 42.69
+      },
       {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
@@ -6477,12 +6483,6 @@
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 34.94
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 34.23
       }
     ],
     "reference_index": 34
@@ -6558,10 +6558,16 @@
     "reference_year": 2024,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 49.37,
+    "score": 51.96,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 51.96
+      },
       {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
@@ -6573,12 +6579,6 @@
         "title": "Why not to use Cosine Similarity between Label Representations",
         "year": 2026,
         "score": 48.67
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 47.01
       }
     ],
     "reference_index": 2
@@ -6879,10 +6879,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 44.0,
+    "score": 57.36,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 57.36
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -6894,12 +6900,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 43.54
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 41.2
       }
     ],
     "reference_index": 14
@@ -6960,10 +6960,10 @@
         "score": 40.27
       },
       {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 39.56
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 39.9
       }
     ],
     "reference_index": 16
@@ -7152,10 +7152,10 @@
         "score": 60.41
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 46.41
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 46.78
       }
     ],
     "reference_index": 4
@@ -7231,10 +7231,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 33.2,
+    "score": 40.19,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 40.19
+      },
       {
         "paper_id": "islam2025kernel",
         "title": "Kernel Alignment using Manifold Approximation",
@@ -7246,12 +7252,6 @@
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
         "year": 2022,
         "score": 32.98
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 30.67
       }
     ],
     "reference_index": 7
@@ -7643,10 +7643,10 @@
         "score": 29.6
       },
       {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 28.46
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 29.44
       }
     ],
     "reference_index": 20
@@ -7782,10 +7782,10 @@
         "score": 45.34
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 44.09
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.32
       }
     ],
     "reference_index": 25
@@ -7840,16 +7840,16 @@
         "score": 40.18
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.78
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 38.11
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 34.49
       }
     ],
     "reference_index": 27
@@ -8032,16 +8032,16 @@
         "score": 41.88
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 40.34
+      },
+      {
         "paper_id": "nielsen-cosine",
         "title": "Why not to use Cosine Similarity between Label Representations",
         "year": 2026,
         "score": 39.59
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 36.94
       }
     ],
     "reference_index": 4
@@ -8198,10 +8198,10 @@
         "score": 54.08
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 44.55
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.89
       }
     ],
     "reference_index": 9
@@ -8416,16 +8416,16 @@
         "score": 39.46
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 37.42
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 35.74
-      },
-      {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 35.12
       }
     ],
     "reference_index": 16
@@ -8565,10 +8565,16 @@
     "reference_year": 2016,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 36.33,
+    "score": 38.28,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.28
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -8580,12 +8586,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 31.92
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 30.63
       }
     ],
     "reference_index": 21
@@ -8646,10 +8646,10 @@
         "score": 45.47
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 42.76
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.99
       }
     ],
     "reference_index": 23
@@ -8742,10 +8742,10 @@
         "score": 45.34
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 44.09
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.32
       }
     ],
     "reference_index": 26
@@ -8838,10 +8838,10 @@
         "score": 30.66
       },
       {
-        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
-        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
-        "year": 2026,
-        "score": 29.63
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 30.07
       }
     ],
     "reference_index": 29
@@ -9142,16 +9142,16 @@
         "score": 47.43
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 37.0
+      },
+      {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 34.24
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 31.39
       }
     ],
     "reference_index": 40
@@ -9468,10 +9468,10 @@
         "score": 43.64
       },
       {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 40.29
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 41.48
       }
     ],
     "reference_index": 1
@@ -9675,10 +9675,16 @@
     "reference_year": 2022,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 33.89,
+    "score": 37.19,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 37.19
+      },
       {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
@@ -9690,12 +9696,6 @@
         "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
         "year": 2025,
         "score": 28.78
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 27.91
       }
     ],
     "reference_index": 8
@@ -9771,10 +9771,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 32.0,
+    "score": 32.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 32.1
+      },
       {
         "paper_id": "jha2025harnessing",
         "title": "Harnessing the Universal Geometry of Embeddings",
@@ -9786,12 +9792,6 @@
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 31.29
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 28.53
       }
     ],
     "reference_index": 11
@@ -9803,10 +9803,16 @@
     "reference_year": 2020,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 42.17,
+    "score": 51.35,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 51.35
+      },
       {
         "paper_id": "kornblith19a",
         "title": "Similarity of Neural Network Representations Revisited",
@@ -9818,12 +9824,6 @@
         "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
         "year": 2024,
         "score": 37.28
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 36.33
       }
     ],
     "reference_index": 12
@@ -9910,16 +9910,16 @@
         "score": 36.59
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 30.0
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 29.05
-      },
-      {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 27.1
       }
     ],
     "reference_index": 15
@@ -10806,10 +10806,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 35.64,
+    "score": 38.1,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.1
+      },
       {
         "paper_id": "krasheninnikov2025language",
         "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
@@ -10821,12 +10827,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 34.88
-      },
-      {
-        "paper_id": "raghu2017svccasingularvectorcanonical",
-        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
-        "year": 2017,
-        "score": 34.07
       }
     ],
     "reference_index": 1
@@ -11015,10 +11015,10 @@
         "score": 35.08
       },
       {
-        "paper_id": "oyama-etal-2025-mapping",
-        "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
-        "year": 2025,
-        "score": 30.43
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 33.27
       }
     ],
     "reference_index": 1
@@ -11239,10 +11239,10 @@
         "score": 34.81
       },
       {
-        "paper_id": "Kishino2025EstablishingAS",
-        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
-        "year": 2025,
-        "score": 33.65
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 33.91
       }
     ],
     "reference_index": 8
@@ -11568,6 +11568,625 @@
     "reference_index": 18
   },
   {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "SemEval-2017 task 1: Semantic textual similarity multilingual and crosslingual focused evaluation",
+    "reference_title_normalized": "semeval 2017 task 1 semantic textual similarity multilingual and crosslingual focused evaluation",
+    "reference_year": 2017,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 43.88,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 43.88
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 38.2
+      },
+      {
+        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
+        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+        "year": 2026,
+        "score": 32.93
+      }
+    ],
+    "reference_index": 0
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "BoolQ: Exploring the surprising difficulty of natural yes/no questions",
+    "reference_title_normalized": "boolq exploring the surprising difficulty of natural yes no questions",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 50.33,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 50.33
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 40.86
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.09
+      }
+    ],
+    "reference_index": 1
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "ELECTRA: Pre-training text encoders as discriminators rather than generators",
+    "reference_title_normalized": "electra pre training text encoders as discriminators rather than generators",
+    "reference_year": 2020,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 38.6,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 38.6
+      },
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 36.1
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 34.6
+      }
+    ],
+    "reference_index": 2
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "The pascal recognising textual entailment challenge",
+    "reference_title_normalized": "the pascal recognising textual entailment challenge",
+    "reference_year": 2005,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 35.99,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 35.99
+      },
+      {
+        "paper_id": "huh2024platonicrepresentationhypothesis",
+        "title": "The Platonic Representation Hypothesis",
+        "year": 2024,
+        "score": 29.54
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 28.1
+      }
+    ],
+    "reference_index": 3
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+    "reference_title_normalized": "bert pre training of deep bidirectional transformers for language understanding",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 38.1,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 38.1
+      },
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 35.64
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 34.88
+      }
+    ],
+    "reference_index": 4
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Automatically constructing a corpus of sentential paraphrases",
+    "reference_title_normalized": "automatically constructing a corpus of sentential paraphrases",
+    "reference_year": 2005,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 28.38,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "huh2024platonicrepresentationhypothesis",
+        "title": "The Platonic Representation Hypothesis",
+        "year": 2024,
+        "score": 28.38
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 28.16
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 27.27
+      }
+    ],
+    "reference_index": 5
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Deberta: Decoding-enhanced bert with disentangled attention",
+    "reference_title_normalized": "deberta decoding enhanced bert with disentangled attention",
+    "reference_year": 2020,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 34.51,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 34.51
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 30.35
+      },
+      {
+        "paper_id": "nielsen-cosine",
+        "title": "Why not to use Cosine Similarity between Label Representations",
+        "year": 2026,
+        "score": 28.33
+      }
+    ],
+    "reference_index": 6
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Cosmos QA: Machine reading comprehension with contextual commonsense reasoning",
+    "reference_title_normalized": "cosmos qa machine reading comprehension with contextual commonsense reasoning",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 36.94,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.94
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 36.06
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 32.13
+      }
+    ],
+    "reference_index": 7
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Adam: A method for stochastic optimization",
+    "reference_title_normalized": "adam a method for stochastic optimization",
+    "reference_year": 2014,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 36.18,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 36.18
+      },
+      {
+        "paper_id": "gajic2026geometryawaresimilaritymetricsneural",
+        "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+        "year": 2026,
+        "score": 34.68
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 28.98
+      }
+    ],
+    "reference_index": 8
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Similarity of neural network representations revisited",
+    "reference_title_normalized": "similarity of neural network representations revisited",
+    "reference_year": 2019,
+    "matched_paper": "kornblith19a",
+    "match_type": "exact",
+    "score": 100,
+    "status": "resolved",
+    "reference_index": 9
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Revealing the dark secrets of BERT",
+    "reference_title_normalized": "revealing the dark secrets of bert",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 44.25,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 44.25
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 41.45
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 37.87
+      }
+    ],
+    "reference_index": 10
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "ALBERT: A lite BERT for self-supervised learning of language representations",
+    "reference_title_normalized": "albert a lite bert for self supervised learning of language representations",
+    "reference_year": 2020,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 51.55,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 51.55
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 44.56
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 43.4
+      }
+    ],
+    "reference_index": 11
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Linguistic knowledge and transferability of contextual representations",
+    "reference_title_normalized": "linguistic knowledge and transferability of contextual representations",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 61.02,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 61.02
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 51.65
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 43.16
+      }
+    ],
+    "reference_index": 12
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "RoBERTa: A robustly optimized bert pretraining approach",
+    "reference_title_normalized": "roberta a robustly optimized bert pretraining approach",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 36.91,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.91
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 31.78
+      },
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 28.33
+      }
+    ],
+    "reference_index": 13
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "What happens to BERT embeddings during fine-tuning?",
+    "reference_title_normalized": "what happens to bert embeddings during fine tuning",
+    "reference_year": 2020,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 38.35,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "jha2025harnessing",
+        "title": "Harnessing the Universal Geometry of Embeddings",
+        "year": 2025,
+        "score": 38.35
+      },
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 31.52
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 30.78
+      }
+    ],
+    "reference_index": 14
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "reference_title_normalized": "pytorch an imperative style high performance deep learning library",
+    "reference_year": 2019,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 38.23,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 38.23
+      },
+      {
+        "paper_id": "948_reliability_of_cka_as_a_simila",
+        "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+        "year": 2023,
+        "score": 33.41
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 32.33
+      }
+    ],
+    "reference_index": 15
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "jiant 2.0: A software toolkit for research on general-purpose text understanding models",
+    "reference_title_normalized": "jiant 2 0 a software toolkit for research on general purpose text understanding models",
+    "reference_year": 2020,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 39.09,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 39.09
+      },
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 36.29
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 33.87
+      }
+    ],
+    "reference_index": 16
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "SQuAD: 100,000+ questions for machine comprehension of text",
+    "reference_title_normalized": "squad 100 000 questions for machine comprehension of text",
+    "reference_year": 2016,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 35.44,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
+        "title": "Insights on representational similarity in neural networks with canonical correlation",
+        "year": 2018,
+        "score": 35.44
+      },
+      {
+        "paper_id": "kornblith19a",
+        "title": "Similarity of Neural Network Representations Revisited",
+        "year": 2019,
+        "score": 34.5
+      },
+      {
+        "paper_id": "raghu2017svccasingularvectorcanonical",
+        "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
+        "year": 2017,
+        "score": 32.99
+      }
+    ],
+    "reference_index": 17
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "A primer in BERTology: What we know about how BERT works",
+    "reference_title_normalized": "a primer in bertology what we know about how bert works",
+    "reference_year": 2020,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 35.59,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 35.59
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 34.36
+      },
+      {
+        "paper_id": "Kishino2025EstablishingAS",
+        "title": "Establishing a Scale for Kullback-Leibler Divergence in Language Models Across Various Settings",
+        "year": 2025,
+        "score": 25.76
+      }
+    ],
+    "reference_index": 18
+  },
+  {
+    "source_paper": "phang-etal-2021-fine",
+    "reference_title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+    "reference_title_normalized": "recursive deep models for semantic compositionality over a sentiment treebank",
+    "reference_year": 2013,
+    "matched_paper": null,
+    "match_type": "fuzzy",
+    "score": 36.86,
+    "status": "unresolved",
+    "reason": "no_confident_internal_match",
+    "candidate_matches": [
+      {
+        "paper_id": "krasheninnikov2025language",
+        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
+        "year": 2025,
+        "score": 36.86
+      },
+      {
+        "paper_id": "pmlr-v162-barannikov22a",
+        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
+        "year": 2022,
+        "score": 36.18
+      },
+      {
+        "paper_id": "hu2023latent",
+        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
+        "year": 2024,
+        "score": 29.51
+      }
+    ],
+    "reference_index": 19
+  },
+  {
     "source_paper": "pmlr-v162-barannikov22a",
     "reference_title": "Framed Morse complexes and its invariants",
     "reference_title_normalized": "framed morse complexes and its invariants",
@@ -11606,10 +12225,16 @@
     "reference_year": 2021,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 32.75,
+    "score": 36.52,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 36.52
+      },
       {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
@@ -11621,12 +12246,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 32.36
-      },
-      {
-        "paper_id": "hu2023latent",
-        "title": "Delays, Detours, and Forks in the Road: Latent State Models of Training Dynamics",
-        "year": 2024,
-        "score": 31.7
       }
     ],
     "reference_index": 1
@@ -11809,16 +12428,16 @@
         "score": 41.88
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 40.34
+      },
+      {
         "paper_id": "nielsen-cosine",
         "title": "Why not to use Cosine Similarity between Label Representations",
         "year": 2026,
         "score": 39.59
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 36.94
       }
     ],
     "reference_index": 7
@@ -11911,10 +12530,10 @@
         "score": 54.08
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 44.55
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.89
       }
     ],
     "reference_index": 10
@@ -12178,10 +12797,10 @@
         "score": 45.47
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 42.76
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.99
       }
     ],
     "reference_index": 19
@@ -12236,16 +12855,16 @@
         "score": 35.21
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 33.32
+      },
+      {
         "paper_id": "948_reliability_of_cka_as_a_simila",
         "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
         "year": 2023,
         "score": 32.7
-      },
-      {
-        "paper_id": "pmlr-v162-barannikov22a",
-        "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
-        "year": 2022,
-        "score": 27.16
       }
     ],
     "reference_index": 21
@@ -12573,10 +13192,10 @@
         "score": 27.64
       },
       {
-        "paper_id": "jha2025harnessing",
-        "title": "Harnessing the Universal Geometry of Embeddings",
-        "year": 2025,
-        "score": 25.47
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 26.73
       }
     ],
     "reference_index": 32
@@ -12727,10 +13346,16 @@
     "reference_year": 2019,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 44.24,
+    "score": 44.76,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 44.76
+      },
       {
         "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
         "title": "Insights on representational similarity in neural networks with canonical correlation",
@@ -12742,12 +13367,6 @@
         "title": "Similarity of Neural Network Representations Revisited",
         "year": 2019,
         "score": 43.82
-      },
-      {
-        "paper_id": "krasheninnikov2025language",
-        "title": "Language Models’ Activations Linearly Encode Training-Order Recency",
-        "year": 2025,
-        "score": 34.02
       }
     ],
     "reference_index": 38
@@ -12840,10 +13459,10 @@
         "score": 57.44
       },
       {
-        "paper_id": "nielsen-cosine",
-        "title": "Why not to use Cosine Similarity between Label Representations",
-        "year": 2026,
-        "score": 53.1
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 56.72
       }
     ],
     "reference_index": 41
@@ -12936,10 +13555,10 @@
         "score": 33.37
       },
       {
-        "paper_id": "islam2025kernel",
-        "title": "Kernel Alignment using Manifold Approximation",
-        "year": 2025,
-        "score": 29.62
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 30.19
       }
     ],
     "reference_index": 0
@@ -13282,16 +13901,16 @@
         "score": 40.8
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 39.28
+      },
+      {
         "paper_id": "huh2024platonicrepresentationhypothesis",
         "title": "The Platonic Representation Hypothesis",
         "year": 2024,
         "score": 37.92
-      },
-      {
-        "paper_id": "kornblith19a",
-        "title": "Similarity of Neural Network Representations Revisited",
-        "year": 2019,
-        "score": 37.64
       }
     ],
     "reference_index": 11
@@ -13570,16 +14189,16 @@
         "score": 46.31
       },
       {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 40.49
+      },
+      {
         "paper_id": "raghu2017svccasingularvectorcanonical",
         "title": "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability",
         "year": 2017,
         "score": 38.48
-      },
-      {
-        "paper_id": "morcos2018insightsrepresentationalsimilarityneural",
-        "title": "Insights on representational similarity in neural networks with canonical correlation",
-        "year": 2018,
-        "score": 34.67
       }
     ],
     "reference_index": 0
@@ -13623,10 +14242,16 @@
     "reference_year": 2023,
     "matched_paper": null,
     "match_type": "fuzzy",
-    "score": 37.92,
+    "score": 43.47,
     "status": "unresolved",
     "reason": "no_confident_internal_match",
     "candidate_matches": [
+      {
+        "paper_id": "phang-etal-2021-fine",
+        "title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+        "year": 2021,
+        "score": 43.47
+      },
       {
         "paper_id": "pmlr-v162-barannikov22a",
         "title": "Representation Topology Divergence: a Method for Comparing Neural Network Representations",
@@ -13638,12 +14263,6 @@
         "title": "Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
         "year": 2026,
         "score": 34.57
-      },
-      {
-        "paper_id": "self-distillation-performance-recovery-llms-2026",
-        "title": "Self-Distillation as a Performance Recovery Mechanism for LLMs: Counteracting Compression and Catastrophic Forgetting",
-        "year": 2026,
-        "score": 34.32
       }
     ],
     "reference_index": 2

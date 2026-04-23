@@ -1,0 +1,106 @@
+{
+"source_title": "Fine-Tuned Transformers Show Clusters of Similar Representations Across Layers",
+"source_year": 2021,
+"references": [
+{
+"title": "SemEval-2017 task 1: Semantic textual similarity multilingual and crosslingual focused evaluation",
+"year": 2017,
+"authors": ["Daniel Cer", "Mona Diab", "Eneko Agirre", "Inigo Lopez-Gazpio", "Lucia Specia"]
+},
+{
+"title": "BoolQ: Exploring the surprising difficulty of natural yes/no questions",
+"year": 2019,
+"authors": ["Christopher Clark", "Kenton Lee", "Ming-Wei Chang", "Tom Kwiatkowski", "Michael Collins", "Kristina Toutanova"]
+},
+{
+"title": "ELECTRA: Pre-training text encoders as discriminators rather than generators",
+"year": 2020,
+"authors": ["Kevin Clark", "Minh-Thang Luong", "Quoc V Le", "Christopher D Manning"]
+},
+{
+"title": "The pascal recognising textual entailment challenge",
+"year": 2005,
+"authors": ["Ido Dagan", "Oren Glickman", "Bernardo Magnini"]
+},
+{
+"title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+"year": 2019,
+"authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"]
+},
+{
+"title": "Automatically constructing a corpus of sentential paraphrases",
+"year": 2005,
+"authors": ["William Dolan", "Chris Brockett"]
+},
+{
+"title": "Deberta: Decoding-enhanced bert with disentangled attention",
+"year": 2020,
+"authors": ["Pengcheng He", "Xiaodong Liu", "Jianfeng Gao", "Weizhu Chen"]
+},
+{
+"title": "Cosmos QA: Machine reading comprehension with contextual commonsense reasoning",
+"year": 2019,
+"authors": ["Lifu Huang", "Ronan Le Bras", "Chandra Bhagavatula", "Yejin Choi"]
+},
+{
+"title": "Adam: A method for stochastic optimization",
+"year": 2014,
+"authors": ["Diederik Kingma", "Jimmy Ba"]
+},
+{
+"title": "Similarity of neural network representations revisited",
+"year": 2019,
+"authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+},
+{
+"title": "Revealing the dark secrets of BERT",
+"year": 2019,
+"authors": ["Olga Kovaleva", "Alexey Romanov", "Anna Rogers", "Anna Rumshisky"]
+},
+{
+"title": "ALBERT: A lite BERT for self-supervised learning of language representations",
+"year": 2020,
+"authors": ["Zhenzhong Lan", "Mingda Chen", "Sebastian Goodman", "Kevin Gimpel", "Piyush Sharma", "Radu Soricut"]
+},
+{
+"title": "Linguistic knowledge and transferability of contextual representations",
+"year": 2019,
+"authors": ["Nelson Liu", "Matt Gardner", "Yonatan Belinkov", "Matthew Peters", "Noah Smith"]
+},
+{
+"title": "RoBERTa: A robustly optimized bert pretraining approach",
+"year": 2019,
+"authors": ["Yinhan Liu", "Myle Ott", "Naman Goyal", "Jingfei Du", "Mandar Joshi", "Danqi Chen", "Omer Levy", "Mike Lewis", "Luke Zettlemoyer", "Veselin Stoyanov"]
+},
+{
+"title": "What happens to BERT embeddings during fine-tuning?",
+"year": 2020,
+"authors": ["Amil Merchant", "Elahe Rahimtoroghi", "Ellie Pavlick", "Ian Tenney"]
+},
+{
+"title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+"year": 2019,
+"authors": ["Adam Paszke", "Sam Gross", "Francisco Massa", "Adam Lerer", "James Bradbury", "Gregory Chanan", "Trevor Killeen", "Zeming Lin", "Natalia Gimelshein", "Luca Antiga", "Alban Desmaison", "Andreas Kopf", "Edward Yang", "Zachary DeVito", "Martin Raison", "Alykhan Tejani", "Sasank Chilamkurthy", "Benoit Steiner", "Lu Fang", "Junjie Bai", "Soumith Chintala"]
+},
+{
+"title": "jiant 2.0: A software toolkit for research on general-purpose text understanding models",
+"year": 2020,
+"authors": ["Jason Phang", "Phil Yeres", "Jesse Swanson", "Haokun Liu", "Ian Tenney", "Phu Mon Htut", "Clara Vania", "Alex Wang", "Samuel Bowman"]
+},
+{
+"title": "SQuAD: 100,000+ questions for machine comprehension of text",
+"year": 2016,
+"authors": ["Pranav Rajpurkar", "Jian Zhang", "Konstantin Lopyrev", "Percy Liang"]
+},
+{
+"title": "A primer in BERTology: What we know about how BERT works",
+"year": 2020,
+"authors": ["Anna Rogers", "Olga Kovaleva", "Anna Rumshisky"]
+},
+{
+"title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+"year": 2013,
+"authors": ["Richard Socher", "Alex Perelygin", "Jean Wu", "Jason Chuang", "Christopher Manning", "Andrew Ng", "Christopher Potts"]
+}
+]
+}
