@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T15:06:06+00:00",
-  "paper_count": 16,
+  "generated_at": "2026-04-24T10:54:35+00:00",
+  "paper_count": 17,
   "papers": [
     {
       "paper_id": "948_reliability_of_cka_as_a_simila",
@@ -15,6 +15,13 @@
       "title_normalized": "establishing a scale for kullback leibler divergence in language models across various settings",
       "year": 2025,
       "path": "content/paper-library/Kishino2025EstablishingAS/index.md"
+    },
+    {
+      "paper_id": "dept-profile-ft-billa",
+      "title": "Decomposing the Depth Profile of Fine-Tuning",
+      "title_normalized": "decomposing the depth profile of fine tuning",
+      "year": 2026,
+      "path": "content/paper-library/dept-profile-ft-billa/index.md"
     },
     {
       "paper_id": "gajic2026geometryawaresimilaritymetricsneural",

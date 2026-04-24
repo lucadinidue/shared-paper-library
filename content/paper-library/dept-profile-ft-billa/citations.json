@@ -1,0 +1,136 @@
+{
+"source_title": "Decomposing the Depth Profile of Fine-Tuning",
+"source_year": 2026,
+"references": [
+{
+"title": "Task2vec: Task embedding for meta-learning",
+"year": 2019,
+"authors": ["Alessandro Achille", "Michael Lam", "Rahul Tewari", "Avinash Ravichandran", "Subhransu Maji", "Charless Fowlkes", "Stefano Soatto", "Pietro Perona"]
+},
+{
+"title": "Intrinsic dimensionality explains the effectiveness of language model fine-tuning",
+"year": 2021,
+"authors": ["Armen Aghajanyan", "Sonal Gupta", "Luke Zettlemoyer"]
+},
+{
+"title": "LEACE: Perfect linear concept erasure in closed form",
+"year": 2023,
+"authors": ["Nora Belrose", "David Schneider-Joseph", "Shauli Ravfogel", "Ryan Cotterell", "Edward Raff", "Stella Biderman"]
+},
+{
+"title": "BitFit: Simple parameter-efficient fine-tuning for transformer-based masked language-models",
+"year": 2022,
+"authors": ["Elad Ben-Zaken", "Yoav Goldberg", "Shauli Ravfogel"]
+},
+{
+"title": "LoRA learns less and forgets less",
+"year": 2024,
+"authors": ["Dan Biderman", "Jacob Portes", "Jose Javier Gonzalez Ortiz", "Mansheej Paul", "Philip Greengard", "Connor Jennings", "Daniel King", "Sam Havens", "Vitaliy Chiley", "Jonathan Frankle", "Cody Blakeney", "John Patrick Cunningham"]
+},
+{
+"title": "Pythia: A suite for analyzing large language models across training and scaling",
+"year": 2023,
+"authors": ["Stella Biderman", "Hailey Schoelkopf", "Quentin Anthony", "Herbie Bradley", "Kyle O’Brien", "Eric Hallahan", "Mohammad Aflah Khan", "Shivanshu Purohit", "Edward Raff"]
+},
+{
+"title": "Reliability of CKA as a similarity measure in deep learning",
+"year": 2023,
+"authors": ["MohammadReza Davari", "Stefan Horoi", "Amine Natik", "Guillaume Lajoie", "Guy Wolf", "Eugene Belilovsky"]
+},
+{
+"title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+"year": 2019,
+"authors": ["Jacob Devlin", "Ming-Wei Chang", "Kenton Lee", "Kristina Toutanova"]
+},
+{
+"title": "How transfer learning impacts linguistic knowledge in deep NLP models?",
+"year": 2021,
+"authors": ["Nadir Durrani", "Hassan Sajjad", "Fahim Dalvi"]
+},
+{
+"title": "SimCSE: Simple contrastive learning of sentence embeddings",
+"year": 2021,
+"authors": ["Tianyu Gao", "Xingcheng Yao", "Danqi Chen"]
+},
+{
+"title": "Mamba: Linear-time sequence modeling with selective state spaces",
+"year": 2024,
+"authors": ["Albert Gu", "Tri Dao"]
+},
+{
+"title": "Parameter-efficient transfer learning for NLP",
+"year": 2019,
+"authors": ["Neil Houlsby", "Andrei Giurgiu", "Stanislaw Jastrzebski", "Bruna Morrone", "Quentin de Laroussilhe", "Andrea Gesmundo", "Mona Attariyan", "Sylvain Gelly"]
+},
+{
+"title": "Universal language model fine-tuning for text classification",
+"year": 2018,
+"authors": ["Jeremy Howard", "Sebastian Ruder"]
+},
+{
+"title": "LoRA: Low-rank adaptation of large language models",
+"year": 2022,
+"authors": ["Edward J Hu", "Yelong Shen", "Phillip Wallis", "Zeyuan Allen-Zhu", "Yuanzhi Li", "Shean Wang", "Lu Wang", "Weizhu Chen"]
+},
+{
+"title": "Similarity of neural network representations revisited",
+"year": 2019,
+"authors": ["Simon Kornblith", "Mohammad Norouzi", "Honglak Lee", "Geoffrey Hinton"]
+},
+{
+"title": "Fine-tuning can distort pretrained features and underperform out-of-distribution",
+"year": 2022,
+"authors": ["Ananya Kumar", "Aditi Raghunathan", "Robbie Matthew Jones", "Tengyu Ma", "Percy Liang"]
+},
+{
+"title": "Surgical fine-tuning improves adaptation to distribution shifts",
+"year": 2023,
+"authors": ["Yoonho Lee", "Annie Chen", "Fahim Tajwar", "Ananya Kumar", "Huaxiu Yao", "Percy Liang", "Chelsea Finn"]
+},
+{
+"title": "RoBERTa: A robustly optimized BERT pretraining approach",
+"year": 2019,
+"authors": ["Yinhan Liu", "Myle Ott", "Naman Goyal", "Jingfei Du", "Mandar Joshi", "Danqi Chen", "Omer Levy", "Mike Lewis", "Luke Zettlemoyer", "Veselin Stoyanov"]
+},
+{
+"title": "What happens to BERT embeddings during fine-tuning?",
+"year": 2020,
+"authors": ["Amil Merchant", "Elahe Rahimtoroghi", "Ellie Pavlick", "Ian Tenney"]
+},
+{
+"title": "Insights on representational similarity in neural networks with canonical correlation",
+"year": 2018,
+"authors": ["Ari Morcos", "Maithra Raghu", "Samy Bengio"]
+},
+{
+"title": "What is being transferred in transfer learning?",
+"year": 2020,
+"authors": ["Behnam Neyshabur", "Hanie Sedghi", "Chiyuan Zhang"]
+},
+{
+"title": "CodeGen: An open large language model for code with multi-turn program synthesis",
+"year": 2023,
+"authors": ["Erik Nijkamp", "Bo Pang", "Hiroaki Hayashi", "Lifu Tu", "Huan Wang", "Yingbo Zhou", "Silvio Savarese", "Caiming Xiong"]
+},
+{
+"title": "RWKV: Reinventing RNNs for the transformer era",
+"year": 2023,
+"authors": ["Bo Peng", "Eric Alcaide", "Quentin Anthony", "Alon Albalak", "Samuel Arcadinho", "Stella Biderman"]
+},
+{
+"title": "Language models are unsupervised multitask learners",
+"year": 2019,
+"authors": ["Alec Radford", "Jeffrey Wu", "Rewon Child", "David Luan", "Dario Amodei", "Ilya Sutskever"]
+},
+{
+"title": "SVCCA: Singular vector canonical correlation analysis for deep learning dynamics and interpretability",
+"year": 2017,
+"authors": ["Maithra Raghu", "Justin Gilmer", "Jason Yosinski", "Jascha Sohl-Dickstein", "Samy Bengio"]
+},
+{
+"title": "Anatomy of catastrophic forgetting: Hidden representations and task semantics",
+"year": 2021,
+"authors": ["Vinay Ramasesh", "Ethan Dyer", "Maithra Raghu"]
+}
+]
+}
